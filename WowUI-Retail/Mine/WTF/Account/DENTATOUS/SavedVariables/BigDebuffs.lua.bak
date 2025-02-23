@@ -1,0 +1,121 @@
+
+BigDebuffsDB = {
+["namespaces"] = {
+["LibDualSpec-1.0"] = {
+},
+},
+["profileKeys"] = {
+["Nexùs - Spinebreaker"] = "Default",
+["Chilon - Draenor"] = "Default",
+["Elorien - Draenor"] = "Default",
+["Yupaw - Draenor"] = "Default",
+["Shample - Draenor"] = "Default",
+["Popdrin - Silvermoon"] = "Default",
+["Bhaall - Spinebreaker"] = "Default",
+["Sneaknpeak - Silvermoon"] = "Default",
+["Flamestout - Draenor"] = "Default",
+["Riseåndshine - Silvermoon"] = "Default",
+["Arcanoid - Draenor"] = "Default",
+["Hydrolic - Silvermoon"] = "Hydrolic - Silvermoon",
+["Namedman - Draenor"] = "Default",
+["Felowny - Silvermoon"] = "Default",
+["Dragovation - Draenor"] = "Default",
+["Greedissgood - Draenor"] = "Default",
+["Riseandshine - Draenor"] = "Default",
+["Poper - Silvermoon"] = "Default",
+["Judgerinio - Silvermoon"] = "Default",
+["Norelia - Spinebreaker"] = "Default",
+["Leafyouto - Draenor"] = "Default",
+["Namednelf - Draenor"] = "Default",
+["Yupaw - Silvermoon"] = "Default",
+["Pawfong - Draenor"] = "Default",
+["Tothekneejin - Twilight's Hammer"] = "Default",
+["Bety - Draenor"] = "Default",
+["Bonebilly - Draenor"] = "Default",
+["Noreliå - Draenor"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+["raidFrames"] = {
+["cooldownFont"] = "GennUI",
+["redirectBliz"] = true,
+["enabled"] = false,
+["inRaid"] = {
+["hide"] = true,
+},
+["hideBliz"] = false,
+["warningList"] = {
+[323673] = true,
+},
+},
+["nameplates"] = {
+["cooldownFont"] = "GennUI",
+["tooltips"] = false,
+["friendlyAnchor"] = {
+["y"] = -9,
+["friendlyAnchorEnabled"] = true,
+["x"] = -34,
+["size"] = 25,
+},
+["enemyAnchor"] = {
+["x"] = 2,
+["size"] = 28,
+},
+["friendly"] = false,
+},
+["unitFrames"] = {
+["cooldownFont"] = "GennUI",
+["party3"] = {
+},
+["tooltips"] = false,
+["party"] = {
+["anchorPoint"] = "RIGHT",
+["x"] = 36,
+["matchFrameHeight"] = false,
+["size"] = 36,
+},
+["arena2"] = {
+},
+["focus"] = {
+["anchorPoint"] = "LEFT",
+["x"] = -2,
+["matchFrameHeight"] = false,
+["size"] = 36,
+},
+["target"] = {
+["anchorPoint"] = "RIGHT",
+["x"] = 2,
+["matchFrameHeight"] = false,
+["size"] = 36,
+},
+["arena5"] = {
+},
+["arena1"] = {
+},
+["pet"] = {
+["enabled"] = false,
+},
+["player"] = {
+["x"] = 31,
+["matchFrameHeight"] = false,
+["size"] = 36,
+},
+["arena"] = {
+["anchorPoint"] = "CENTER",
+["matchFrameHeight"] = false,
+["enabled"] = false,
+["size"] = 36,
+},
+["arena3"] = {
+},
+["arena4"] = {
+},
+},
+},
+["Hydrolic - Silvermoon"] = {
+["nameplates"] = {
+["friendly"] = false,
+},
+},
+},
+}

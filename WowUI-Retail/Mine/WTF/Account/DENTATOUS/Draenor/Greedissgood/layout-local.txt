@@ -1,0 +1,15 @@
+Version: 1
+Frame: ScriptErrorsFrame
+FrameLevel: 0
+Anchor: CENTER
+X: 254
+Y: -24
+W: 784
+H: 260
+Frame: ColorPickerFrame
+FrameLevel: 23
+Anchor: TOP
+X: 33
+Y: -190
+W: 388
+H: 380

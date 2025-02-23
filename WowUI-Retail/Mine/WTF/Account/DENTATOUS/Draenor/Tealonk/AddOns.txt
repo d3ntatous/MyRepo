@@ -1,0 +1,12 @@
+Blizzard_ObjectiveTracker: enabled
+Blizzard_CompactRaidFrames: enabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+TidyPlates_ThreatPlates: enabled
+Plater: disabled
+AddOnSkins: disabled
+ElvUI_GennUI: disabled
+ElvUI: disabled
+ElvUI_Libraries: disabled
+ElvUI_Options: disabled
+ElvUI_WindTools: disabled

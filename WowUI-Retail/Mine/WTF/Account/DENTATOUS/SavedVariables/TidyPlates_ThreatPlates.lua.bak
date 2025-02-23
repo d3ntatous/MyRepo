@@ -1,0 +1,326 @@
+
+ThreatPlatesDB = {
+["char"] = {
+["Betsy - Draenor"] = {
+["spec"] = {
+nil,
+nil,
+true,
+false,
+},
+["welcome"] = true,
+},
+["Shockhoof - Spinebreaker"] = {
+["welcome"] = true,
+["spec"] = {
+[3] = false,
+},
+},
+["Chilon - Draenor"] = {
+["welcome"] = true,
+["spec"] = {
+true,
+[3] = false,
+},
+},
+["Partythyme - Draenor"] = {
+["spec"] = {
+nil,
+nil,
+true,
+false,
+},
+["welcome"] = true,
+},
+["Yupaw - Draenor"] = {
+["spec"] = {
+true,
+[3] = false,
+},
+["welcome"] = true,
+},
+["Shample - Draenor"] = {
+["spec"] = {
+[3] = false,
+},
+["welcome"] = true,
+},
+["Bhaall - Spinebreaker"] = {
+["welcome"] = true,
+["spec"] = {
+[3] = false,
+},
+},
+["Noreliå - Draenor"] = {
+["welcome"] = true,
+["spec"] = {
+nil,
+true,
+},
+},
+["Judgerinio - Draenor"] = {
+["spec"] = {
+nil,
+true,
+false,
+},
+["welcome"] = true,
+},
+["Pawfong - Draenor"] = {
+["spec"] = {
+true,
+[3] = false,
+},
+["welcome"] = true,
+},
+["Bonebilly - Draenor"] = {
+["spec"] = {
+[3] = true,
+},
+["welcome"] = true,
+},
+["Bety - Draenor"] = {
+["welcome"] = true,
+["spec"] = {
+[3] = false,
+},
+},
+["Greedissgood - Draenor"] = {
+["welcome"] = true,
+["spec"] = {
+[3] = false,
+},
+},
+["Dragovation - Draenor"] = {
+["welcome"] = true,
+},
+["Nexùs - Spinebreaker"] = {
+["welcome"] = true,
+["spec"] = {
+[3] = false,
+},
+},
+["Riseandine - Draenor"] = {
+["spec"] = {
+[3] = false,
+},
+["welcome"] = true,
+},
+["Riseandshine - Draenor"] = {
+["welcome"] = true,
+["spec"] = {
+[3] = false,
+},
+},
+["Judgerinio - Silvermoon"] = {
+["spec"] = {
+nil,
+true,
+false,
+},
+["welcome"] = true,
+},
+["Kyôshu - Neptulon"] = {
+["spec"] = {
+[3] = false,
+},
+["welcome"] = true,
+},
+["Norelia - Spinebreaker"] = {
+["welcome"] = true,
+["spec"] = {
+nil,
+true,
+},
+},
+["Tealonk - Draenor"] = {
+["spec"] = {
+true,
+[3] = false,
+},
+["welcome"] = true,
+},
+["Yupaw - Silvermoon"] = {
+["welcome"] = true,
+["spec"] = {
+true,
+[3] = false,
+},
+},
+["Arcanoid - Draenor"] = {
+["welcome"] = true,
+["spec"] = {
+[3] = false,
+},
+},
+["Tothekneejin - Twilight's Hammer"] = {
+["welcome"] = true,
+["spec"] = {
+[3] = false,
+},
+},
+["Barbastrumf - Bladefist"] = {
+["welcome"] = true,
+["spec"] = {
+[3] = true,
+},
+},
+["Flamestout - Draenor"] = {
+["welcome"] = true,
+["spec"] = {
+[3] = false,
+},
+},
+["Elorien - Draenor"] = {
+["spec"] = {
+[3] = false,
+},
+["welcome"] = true,
+},
+},
+["profileKeys"] = {
+["Betsy - Draenor"] = "Default",
+["Shockhoof - Spinebreaker"] = "Default",
+["Chilon - Draenor"] = "Default",
+["Partythyme - Draenor"] = "Default",
+["Yupaw - Draenor"] = "Default",
+["Shample - Draenor"] = "Default",
+["Bhaall - Spinebreaker"] = "Default",
+["Noreliå - Draenor"] = "Default",
+["Judgerinio - Draenor"] = "Default",
+["Pawfong - Draenor"] = "Draenor",
+["Bonebilly - Draenor"] = "Default",
+["Bety - Draenor"] = "Default",
+["Greedissgood - Draenor"] = "Draenor",
+["Dragovation - Draenor"] = "Default",
+["Nexùs - Spinebreaker"] = "Draenor",
+["Riseandine - Draenor"] = "Default",
+["Riseandshine - Draenor"] = "Draenor",
+["Judgerinio - Silvermoon"] = "Default",
+["Kyôshu - Neptulon"] = "Default",
+["Norelia - Spinebreaker"] = "Default",
+["Tealonk - Draenor"] = "Default",
+["Yupaw - Silvermoon"] = "Default",
+["Arcanoid - Draenor"] = "Default",
+["Tothekneejin - Twilight's Hammer"] = "Default",
+["Barbastrumf - Bladefist"] = "Default",
+["Flamestout - Draenor"] = "Default",
+["Elorien - Draenor"] = "Default",
+},
+["namespaces"] = {
+["LibDualSpec-1.0"] = {
+},
+},
+["global"] = {
+["version"] = "12.0.12",
+},
+["profiles"] = {
+["Draenor"] = {
+["nameplate"] = {
+["scale"] = {
+["Target"] = 0.1500000000000004,
+},
+["toggle"] = {
+["TargetS"] = true,
+},
+},
+["CVarsBackup"] = {
+["nameplateShowOnlyNames"] = "0",
+},
+["uniqueWidget"] = {
+["scale"] = 23,
+},
+["HostileClassIcon"] = false,
+["settings"] = {
+["name"] = {
+["width"] = 81,
+["height"] = 15,
+},
+["frame"] = {
+["heightFriend"] = 61.6817726964263,
+["widthFriend"] = 144.5,
+["height"] = 61.6817726964263,
+["width"] = 144.5,
+},
+},
+["friendlyClassIcon"] = true,
+["HeadlineView"] = {
+["customtext"] = {
+["size"] = 6,
+},
+["FriendlyTextColorMode"] = "CUSTOM",
+["FriendlySubtext"] = "NONE",
+["FriendlyTextColor"] = {
+["r"] = 0.7019608020782471,
+["g"] = 0.7019608020782471,
+["b"] = 0.7019608020782471,
+},
+["SubtextColorUseSpecific"] = false,
+["name"] = {
+["x"] = 1,
+["size"] = 6,
+},
+["EnemySubtext"] = "NONE",
+},
+["classWidget"] = {
+["y_hv"] = 22,
+["x_hv"] = 0,
+["scale"] = 48,
+["y"] = -1,
+["x"] = 1,
+["ON"] = false,
+["theme"] = "wowround",
+["ShowInHeadlineView"] = true,
+},
+["Visibility"] = {
+["FriendlyMinus"] = {
+["Show"] = false,
+},
+["EnemyMinion"] = {
+["UseHeadlineView"] = false,
+},
+["FriendlyMinion"] = {
+["UseHeadlineView"] = false,
+},
+["HideFriendlyInCombat"] = true,
+["FriendlyPlayer"] = {
+["UseHeadlineView"] = true,
+},
+},
+["threat"] = {
+["ON"] = false,
+},
+},
+["Riseandshine - Draenor"] = {
+["settings"] = {
+["frame"] = {
+["height"] = 61.6817726964263,
+["widthFriend"] = 144.5,
+["heightFriend"] = 61.6817726964263,
+["width"] = 144.5,
+},
+},
+},
+["Default"] = {
+["settings"] = {
+["frame"] = {
+["heightFriend"] = 61.6817726964263,
+["widthFriend"] = 144.5,
+["height"] = 61.6817726964263,
+["width"] = 144.5,
+},
+},
+["CheckForIncompatibleAddons"] = false,
+},
+["PRIEST"] = {
+["settings"] = {
+["frame"] = {
+["height"] = 61.6817726964263,
+["widthFriend"] = 144.5,
+["heightFriend"] = 61.6817726964263,
+["width"] = 144.5,
+},
+},
+},
+},
+}

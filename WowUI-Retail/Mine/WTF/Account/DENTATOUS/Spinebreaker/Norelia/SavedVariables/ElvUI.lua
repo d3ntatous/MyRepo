@@ -1,0 +1,4 @@
+
+ElvCharacterDB = {
+	["ConvertKeybindings"] = true,
+}

@@ -1,0 +1,68 @@
+VER 3 0100000000000018 "death" "INV_MISC_QUESTIONMARK"
+#showtooltip Shadow Word: Death
+/cast [@target,harm] Shadow Word: Death 
+/stopmacro [harm] 
+/targetenemy
+/cast Shadow Word: Death
+/targetlasttarget [harm]
+END
+VER 3 010000000000000B "Dispel" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Mass Dispel; [help] Purify; [harm] Dispel Magic; Purify
+END
+VER 3 0100000000000008 "Feather" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod, harm] Shadow Word: Pain; [mod:shift, @player] [@cursor] Angelic Feather;  Shadow Word: Pain
+END
+VER 3 010000000000001B "Heal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod, harm] Smite; [nomod, help] Flash Heal; Flash heal
+END
+VER 3 010000000000001E "InnerLight" "134400"
+#showtooltip
+/cast !Inner Light
+END
+VER 3 0100000000000020 "MGS" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [nomod]Mindgames; [mod:shift]Power Word: Solace;
+END
+VER 3 010000000000001C "Penance" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Penance; [mod:shift, @player] Renew;
+END
+VER 3 0100000000000021 "plgheal" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [harm]Devouring Plague; [help]Flash Heal; Devouring Plague
+END
+VER 3 010000000000001D "rad" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Power Word: Radiance; [mod:shift, @player] Power Word: Radiance
+END
+VER 3 010000000000000D "Searing Pain" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [channeling:Mind Sear,talent:3/3] Searing Nightmare; [mod:shift, @player] Power Word: Shield; Shadow Word: Pain
+END
+VER 3 010000000000001F "StamScript" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Power Word: Fortitude
+/run C_NamePlate.SetNamePlateFriendlySize(60, 60)
+END
+VER 3 0100000000000022 "stats" "Sha_Spell_Fire_BlueHellfire."
+/w Riseandshine h
+END
+VER 3 010000000000000F "Suppression" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod,@targettarget]Pain Suppression; Pain Suppression
+END
+VER 3 0100000000000010 "Trinket 1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+END
+VER 3 0100000000000011 "Trinket 2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+END
+VER 3 010000000000001A "Undead" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Will of the Forsaken; [mod:shift] Mind Soothe;
+END

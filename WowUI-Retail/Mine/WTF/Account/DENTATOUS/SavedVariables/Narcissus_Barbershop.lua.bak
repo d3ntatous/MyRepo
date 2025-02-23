@@ -1,0 +1,84 @@
+
+NarciBarberShopDB = {
+["PlayerData"] = {
+["0A265C9E"] = {
+["realmName"] = "Draenor",
+["playerName"] = "Bonebilly",
+["realmID"] = "1403",
+["classID"] = 1,
+["SavedLooks"] = {
+[5] = {
+["male"] = {
+},
+["female"] = {
+},
+},
+},
+},
+["07FFC902"] = {
+["classID"] = 5,
+["playerName"] = "Riseandshine",
+["realmID"] = "1403",
+["SavedLooks"] = {
+[5] = {
+["male"] = {
+{
+["description"] = "Bony Skin Type, Creeper Hair Style, Toothy Jaw Features, Both Eyesight",
+["data"] = {
+{
+58,
+916,
+},
+{
+567,
+6527,
+},
+{
+59,
+920,
+},
+{
+60,
+5726,
+},
+{
+61,
+965,
+},
+{
+62,
+977,
+},
+{
+563,
+6287,
+},
+{
+534,
+5335,
+},
+{
+6346,
+45118,
+},
+},
+["name"] = "Main",
+["timeCreated"] = 1731974909,
+},
+},
+["female"] = {
+},
+},
+},
+["realmName"] = "Draenor",
+},
+},
+["Hotkeys"] = {
+["ZoomIn"] = "W",
+["RotateLeft"] = "A",
+["ZoomOut"] = "S",
+["RotateRight"] = "D",
+},
+["SharedSavedLooks"] = {
+},
+}

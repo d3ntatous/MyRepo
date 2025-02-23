@@ -1,0 +1,14 @@
+## Interface: 30403
+### Author: Meowcactus
+## Version: 5.0.3
+## Title: |cffFF7C0AM|r|cffFF941De|r|cffFFAC30o|r|cffFFC442w|r|cffFFDC55U|r|cffFFF468I|r Installer v5.0.3
+## Title-zhCN: |cffFF7C0AM|r|cffFF941De|r|cffFFAC30o|r|cffFFC442w|r|cffFFDC55U|r|cffFFF468I|r Installer v5.0.3
+## Title-zhTW: |cffFF7C0AM|r|cffFF941De|r|cffFFAC30o|r|cffFFC442w|r|cffFFDC55U|r|cffFFF468I|r Installer v5.0.3
+## Notes: The MeowUI Installer is used for loading MeowUI Profiles.
+## Notes-zhCN: MeowUI Installer 是用于装载 MeowUI Profiles 的安装器。
+## Notes-zhTW: MeowUI Installer 是用於裝載 MeowUI Profiles 的安裝器。
+## RequiredDeps: ElvUI, ElvUI_EltreumUI, ElvUI_mMediaTag, Plater, Details, MeowKit
+
+Locales\load_locales.xml
+Init.lua
+Profiles\load_profiles.xml

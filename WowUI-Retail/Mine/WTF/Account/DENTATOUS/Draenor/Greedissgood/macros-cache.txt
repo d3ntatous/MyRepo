@@ -1,0 +1,23 @@
+VER 3 0100000000000008 "agoportal" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [nomod] Unstable Affliction; [mod:shift] Demonic Circle(Summon);Immolate 
+END
+VER 3 0100000000000004 "Circle" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl] Demonic Circle(Summon);[mod:shift] Demonic Circle: Teleport(Teleport); Demonic Circle: Teleport(Teleport)
+END
+VER 3 0100000000000007 "FocusSilence" "134400"
+#showtooltip
+/cast [mod:shift,@focus] Spell Lock; [nomod,@target] Spell Lock;
+END
+VER 3 0100000000000005 "immo/inci" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Immolate; [mod:shift] Demonic Circle(Summon);Immolate 
+END
+VER 3 0100000000000006 "Power" "4067372"
+/run local m=WarlockPowerFrame if m:IsShown()then m:Hide()else m:Show()end
+END
+VER 3 0100000000000009 "Wither" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [nomod] Wither; [mod:shift] Demonic Circle(Summon);Wither
+END

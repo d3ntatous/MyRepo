@@ -1,0 +1,68 @@
+
+HealthBarColorDB = {
+["namespaces"] = {
+["LibDualSpec-1.0"] = {
+},
+},
+["profileKeys"] = {
+["Shockhoof - Spinebreaker"] = "Default",
+["Chilon - Draenor"] = "Default",
+["Elorien - Draenor"] = "Default",
+["Kyôshu - Neptulon"] = "Default",
+["Noreliå - Draenor"] = "Default",
+["Pawfong - Draenor"] = "Default",
+["Bonebilly - Draenor"] = "Default",
+["Norelia - Spinebreaker"] = "Default",
+["Yupaw - Silvermoon"] = "Default",
+["Riseandine - Draenor"] = "Default",
+["Nexùs - Spinebreaker"] = "Default",
+["Flamestout - Draenor"] = "Default",
+["Yupaw - Draenor"] = "Default",
+["Popdrin - Silvermoon"] = "Default",
+["Bhaall - Spinebreaker"] = "Default",
+["Felowny - Silvermoon"] = "Default",
+["Sneaknpeak - Silvermoon"] = "Default",
+["Bety - Draenor"] = "Default",
+["Arcanoid - Draenor"] = "Default",
+["Tothekneejin - Twilight's Hammer"] = "Default",
+["Hydrolic - Silvermoon"] = "Default",
+["Namednelf - Draenor"] = "Default",
+["Dragovation - Draenor"] = "Default",
+["Betsy - Draenor"] = "Default",
+["Shample - Draenor"] = "Default",
+["Poper - Silvermoon"] = "Default",
+["Judgerinio - Silvermoon"] = "Default",
+["Leafyouto - Draenor"] = "Default",
+["Partythyme - Draenor"] = "Default",
+["Tealonk - Draenor"] = "Default",
+["Riseandshine - Draenor"] = "Default",
+["Judgerinio - Draenor"] = "Default",
+["Namedman - Draenor"] = "Default",
+["Barbastrumf - Bladefist"] = "Default",
+["Greedissgood - Draenor"] = "Default",
+["Riseåndshine - Silvermoon"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+["HealthBarColor_pet"] = {
+},
+["Font_target"] = {
+},
+["HealthBarColor_boss5"] = {
+},
+["addonColors"] = {
+},
+["HealthBarColor_focus"] = {
+},
+["HealthBarColor_target"] = {
+},
+["HealthBarColor_boss4"] = {
+},
+["HealthBarColor_boss3"] = {
+},
+["MinimapButton"] = {
+["minimapPos"] = 19.90805529493669,
+},
+},
+},
+}

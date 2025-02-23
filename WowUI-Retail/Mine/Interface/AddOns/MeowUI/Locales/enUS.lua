@@ -1,0 +1,32 @@
+local L = ElvUI[1].Libs.ACL:NewLocale("ElvUI", "enUS", true, true)
+if not L then return end
+
+L["Layout Set"] = true
+L["%s is a layout for ElvUI."] = true
+L["Credits"] = true
+L["Installation"] = true
+L["The installation guide should pop up automatically after you have completed the ElvUI installation. If you wish to re-run the installation process for this layout then please click the button below."] = true
+L["Install"] = true
+L["Run the installation process."] = true
+L["Installer"] = true
+L["Welcome to the installation for"] = true
+L["This installation process will guide you through a few steps to add"] = true
+L["profiles for various addons."] = true
+L["Please press the continue button if you wish to go through the installation process, otherwise click the ‘Skip Process’ button."] = true
+L["Skip Process"] = true
+L["Please click the 'MeowUI' button below to import the ElvUI profile."] = true
+L["Importance: |cff07D400High|r"] = true
+L["Join the Discord or KOOK if you have any questions or issues"] = true
+L["Recommended"] = true
+L["Installation Complete"] = true
+L["You have completed the installation process."] = true
+L["Please click the button below in order to finalize the process and automatically reload your UI."] = true
+L["Finished"] = true
+L["Welcome"] = true
+L["Layout"] = true
+L["Plater Profile Set"] = true
+L["Details Profile Set"] = true
+L["Please click the 'Details' button below to import the Details profile."] = true
+L["Please click the 'Plater' button below to import the Plater profile."] = true
+L["You can gain access to the latest MeowWAs, to your liking, by subscribing to one of the 3-Tier packages provided on Patreon or Afdian."] = true
+L["Here, I would also like to recommend the sites of four friends."] = true

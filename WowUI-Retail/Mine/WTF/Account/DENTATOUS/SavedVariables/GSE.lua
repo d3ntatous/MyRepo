@@ -1,0 +1,265 @@
+
+GSEOptions = {
+["HideLoginMessage"] = false,
+["STANDARDFUNCS"] = "|cff55ddcc",
+["showGSEUsers"] = false,
+["msClickRate"] = 250,
+["COMMENT"] = "|cff55cc55",
+["filterList"] = {
+["All"] = false,
+["Spec"] = true,
+["Global"] = true,
+["Class"] = true,
+},
+["KEYWORD"] = "|cff88bbdd",
+["EQUALS"] = "|cffccddee",
+["AddInPacks"] = {
+["GSE3-Elfyau_Rogue"] = {
+["Name"] = "GSE3-Elfyau_Rogue",
+["Version"] = "v1",
+},
+},
+["sendDebugOutputToChatWindow"] = false,
+["saveAllMacrosLocal"] = true,
+["DisabledSequences"] = {
+},
+["debug"] = false,
+["keybindingHeight"] = 500,
+["CONCAT"] = "|cffcc7777",
+["CommandColour"] = "|cFF00FF00",
+["ActiveSequenceVersions"] = {
+},
+["UNKNOWN"] = "|cffff6666",
+["showCurrentSpells"] = true,
+["macroWidth"] = 700,
+["macroHeight"] = 500,
+["CreateGlobalButtons"] = false,
+["menuHeight"] = 500,
+["sendDebugOutputToDebugOutput"] = false,
+["DebugPrintModConditionsOnKeyPress"] = false,
+["UseWLMExportFormat"] = true,
+["editorHeight"] = 700,
+["STRING"] = "|cff888888",
+["DefaultImportAction"] = "MERGE",
+["overflowPersonalMacros"] = false,
+["editorWidth"] = 700,
+["TitleColour"] = "|cFFFF0000",
+["PromptSample"] = true,
+["initialised"] = true,
+["INDENT"] = "|cffccaa88",
+["DebugModules"] = {
+["Translator"] = false,
+["Startup"] = false,
+["API"] = false,
+["Viewer"] = false,
+["Transmission"] = false,
+["Editor"] = false,
+["GUI"] = false,
+["Storage"] = false,
+["Versions"] = false,
+},
+["resetOOC"] = true,
+["MacroResetModifiers"] = {
+["Alt"] = false,
+["LeftControl"] = false,
+["LeftButton"] = false,
+["LeftAlt"] = false,
+["RightButton"] = false,
+["RightAlt"] = false,
+["Button4"] = false,
+["Button5"] = false,
+["MiddleButton"] = false,
+["RightControl"] = false,
+["Control"] = false,
+["Shift"] = false,
+["LeftShift"] = false,
+["AnyMod"] = false,
+["RightShift"] = false,
+},
+["showGSEoocqueue"] = true,
+["EmphasisColour"] = "|cFFFFFF00",
+["UseVerboseExportFormat"] = false,
+["WOWSHORTCUTS"] = "|cffddaaff",
+["RealtimeParse"] = false,
+["deleteOrphansOnLogout"] = false,
+["OOCQueueDelay"] = 7,
+["shownew"] = true,
+["AuthorColour"] = "|cFF00D1FF",
+["autoCreateMacroStubsClass"] = true,
+["showMiniMap"] = {
+["hide"] = true,
+},
+["autoCreateMacroStubsGlobal"] = false,
+["DefaultDisabledMacroIcon"] = "Interface\\Icons\\INV_MISC_BOOK_08",
+["Updates"] = {
+["3200"] = true,
+["3218"] = true,
+},
+["NormalColour"] = "|cFFFFFFFF",
+["keybindingWidth"] = 700,
+["menuWidth"] = 700,
+["setDefaultIconQuestionMark"] = true,
+["NUMBER"] = "|cffffaa00",
+["frameLocations"] = {
+},
+}
+GSESequences = {
+{
+},
+{
+},
+{
+},
+{
+["EA_SR_ST"] = "dCuBgaalrClvrXUufv)sHgMs0XKYYqLNPKMMuX1ejBdr(Mi14uvohezDiQAGik6GuQfkvYdvcnrKuxuQuBekv(iuYiruYjvfzLQcZKs0nHO2PQ0pruQHIOIJQkkTuKKNs1uH0vruPTIOWxHsvNvjyTuiVvQ6UkyVG)Ie1Gf1HLSyk4XOmzkPltAZibFwv1OHWPry1irEnsOzJQUTsTBv(nHHdvhNsy5k65u00fUouSDku9DOumEOu68i16Pqz)en0au4TbE32u2PIYok8YbOGJCXMctafEBak42SGqCMak82auWdACf8DXMcW3fBkaFmQ5Vg6PBAzU)eiQ5EO3QwwhKpgzLziZ9MrDmL8lhK5w6VoYhJSYmmvlWOhtL5(tWqu3P8e3)GmVskvQojY8hP0KKpgzLziZ9mX2qfjNGHOUt5jU)bzE9JJRtkWrPXvWPsX1ka)Pl0PXlEWBGJ5icWJA(RbeWlhGc(Uytb4Jrn)1qpDtlZ9Narn3d9w1Y6G8XiRmdt1cm6XuzUNj2gQi5eme1DkpX9piZTVuRTwImZ144(wtK5uiT(LiZRTuDqIuImZ144(wtK5w6uCGJsJRGtLIRvaEqJRGVl2uab8UcOGVl2ua(yuZFn0t30YC)jquZ9qVvTSoiFmYkZWuTaJEmvM7zITHksobdrDNYtC)dYC7l1ABnrM5(wMUHuIm3sNId8GgxbFxSPaCuACfCQuCTciG3oak82auW3fBka3PYBGJsJRGBZccXbEqJRGVl2uab8YbOGVl2ua(yuZFn0t30YC)jquZ9qVvTSoiFmYkZWuTaJEmvM7nJ6yk5BJCJRdY8hP0KsK5gsK(AiLiZFKstkrMBir6RHuIm)rknPezUHuN1ez(JuAsGh04k47InfGJsJRGBZccXbb8UcOGVl2ua(yuZFn0t30YC)jquZ9qVvTSoiFmYkZqM7zITHksobdrDNYtC)dY86xhsRn5JrwzgYCptSnurYjyiQ7uEI7FqMx)6qATjFmYkZqM7zITHksobdrDNYtC)dYCJR1jDd8GgxbFxSPaCuACfCBwqioiaNkfxRaE5ahLgxb3sHahCpuCSdZXccXbo5mjetIGgc4nfGcVnaf8DXMcWhXyQYCpzIZx06m5eme1DkpX9NWeBdvmiZYCBv(yeJPkZ9KjoFrRZKtWqu3P8e3FctSnuXGmlZToGJsJRGBZccXbEqJRGVl2uab4O04k4wke4GtLIRvaVCG7HIJDyowqioWD1cm6fefpeqa(tNbme8bzutIYaVAcOGVOyBOcOliGacWXETOOnMzzcOqaULLzqU4wRqTco3sUonUgxR1(wrcCK1OOUIcqbNSuECEIJIGJicCtYpoAGq8CEIJIJkpfOlmGJw86fMak4wQ)fJgqbhT41lCnaFrY9zTTxgyd3Vn1PXjhulfyFQNWYiQvBBK52DzBBBBBBjLWw6LlS5nclJHmLqGWOn2InlWHfLmcldgdzkz02iKxWezduBBB)BewiBJLX2i6cRf4wUySa1ybo1QjBsGheIdCYEs8tCfVm7Qfy0JPYmAXRxiZUgqab42yceIj4DZtb6cd4y5Dtg60KqCW7kx7dCKRdtX)0f6046feId6cCYs5Xb34lFoh5FgzgDsWOOzOtW7(OGyY0ffB8kkde8ebn0f4uRuOWWhWBdChxzprn8YrQbokzVi82AlxUmf4V1wbVBBk7urzhfciGaaa",
+["EA_AR_ST"] = "dyKnfaaluSlHO(fbggbDmrTmi9muQPjeUMQQTbI(Mkmoq4CKO1rczGQi6GaTqsvEOQGjkuUiPQ2OkQ8rvrgPkkDsvPSssWmHkUjjzNKYpvrQHQIWrrj0srj9uktfWvjHYwrj4RQcDwvKSwH0BjPUlPYEv(RQOgSihwQfdv9yunzOsxwYMvL4ZG0OfQonOwnju9AuIMnrDBvA3i(nsdhIJRkvlhkpNqtNQRRQSDvu8Dvu14fICEISEvjTFbV8aMwEM(GpdY6ZgW0qhWmvnhJkoGPLhWmqUdtjIdyA5bmT8aMDBogDgiRwEMlHuZUnhJodqcPMbYDykz(0qhWSBZXOZe4ng0YlsDLcj1eA8g7QtnUvJRUGcc4TOlwV)veEfsQf9MWlfjKHtV4BxxiDiKntiLvcjezLmHu(4hLjKYh)OmHuwjKqKvYes5JFuMqkRmc2mHu(4hnOGaEl6HKAo9IVDgcLhVjKsgMavxi9JECmZLqQz3MJrNbiHuZa5omLmFAShWSBZXOZaz1qNbiHuZa5omLmZLqQz3MJrNpTigWSBZXOZe4ng0YlsDLcj1eA8g7QtnUvJRUGcc4TOlwV)veEfsQf9MWlfjKHtV4BxxiDiKntiLvcjezLmHu(4hLjKYh)OmHuwjKqKvYes5JFuMqkRmc2mHu(4hnOGaEl6HKAo9IVDgcLhVjKsgMavxi9JECmZLqQz3MJrNbiHuZa5omLmFA)dy2T5y0zc4TOlwV)veEfsQ50l(2ziuE8MqkzycuDHeBiYqIYMjKydXpKOhmHeBiYqIYEgGesndK7WuYmxcPMDBogD(mwlKQ9PHodqcPMHdLImZ8c5CFeUdtjZobgmfd2LMpn0bmT8aMDBogDMGpXkKuFse5wQWyiuE8Mqkzycugo9IVDDHuiLzhuqWNyfsQpjIClvymekpEtiLmmbkdNEX3UUqkKYrmdqcPMbYDykzMlHuZUnhJoFgGesndhkfzgRfs1(0qNzEHCUpc3HPKzw9(xrC4wE(8zVrW)bl7SqJb34LlXbm7b6fF7tV5ZNp7XQzj4hwloG5ZWPfDfdb32lCNHkenISq0F0SqiqrNPQ8ow79aMD2sgrgMWYzXDhrurceGhMgzzyclfuYVi1FZaA5I4Idygof0MlnGzaTCrCR8zpOIfbbf6NhfkySdKtaGd9X)3EkASsLIh9g9PREXabbbbbF9jrTyGGGGGGUR9QQB0BKo1n6Jx5iDQZR6vvVcn6nkE8rvfdQEpcnQQwfoqf1GQbolwjYXGrCykz2PXGHctA5qchAJl9ZNpFg4NhNIntF5xK6Vzpz6ZcfMimLmn2O5JzQAYxl)gXlSZuehMsMEZIvV0FY(0YZ0N8cfJxpqViT34HLHDPP3mT(wZ0h8zqwF2aMzif)Tytd9x5mGt)W0YzHcf(p7SLmYSZimYObfMpF(g",
+["EA_OR"] = "dKuGgaaljCleH2fqQ(fOAyG0Xu0YOupduMgqCnLyBsKVbfJdkDoIQ1Pu6DiQmqeroifTqLKEOsQMirXfvkSrcIpcKmsebNKsYkbQEjqkntIs3uIANkv)uPOHIiPJIiLLsq9urtfQUQsIARis8veP6SkPSwGYBLu3vs2RQ)IiQbtQdl1IPqpMKjtGlt1Mru6ZuIrtbNgfRgifVwjHzJs3wHDd53OA4iCCkPwoGNtOPlCDqSDefFxjrgpbPZtK1JOQ9J0FE8VpFUHjjVPWF3(4pl3kaU4X)(84pnvbdhjE8Vpp(ZrRa4p3u4C(exIWFkSt4D80ku4aKPzFc7zir4phTcG)472h)7ZJ)C0ka(t4rdyXdh5djQUgXn0aJQAbElOIcoCvlgIU1qCKYP66bxW2MnQOAqGILCuDTy0iLVfAfvpXUGPeScQEkVe2P8cQEIzXUGQNywSlO6P8syNYPGdx1IbvxR4dJDuG4kdnc5Smilvu9IngmpXLi8NMQGHJEgse(ZrRa4p(U9XFoAfa)j8ObS4HJ8HevxJ4gAGrvTaVfurbhUQfdr3Aios5uD9GlyBZgvuniqXsoQUwXhg7OqmAKY3cTIQHnxwGITGQNYlHDkVGQNywSlOAyZfqKxQGQNyxWucwbvdd7SKnSN4se(ttvWWrpdjc)5Ova8hFh2XFoAfa)j8ObS4HJ8HevxJ4gAGrvTaVfurbhUQfdr3Aios5uD9GlyBZgvuniqXsoQUwmAKY3cTIQNyxWucwbvpLxc7uEbvpXSyxq1tml2fu9uEjSt5uWHRAXGQRv8HXokqCLHgHCwgKLkQEXgdMN4se(ttvWWrpdjc)5Ova8hpXLi8NYY5epf2j8o(U9ZmCcHabPcgo6jPcWWbycPhFh2XFAfkCaY0SpX(exIWFkSt4D8C0ka(t4rdyXdh5djQUgXn0aJQAbElOIcoCvlgIU1qCKYP66bxW2MnQOAqGILCuDTIpm2rHy0iLVfAfvpXUaBolO6f5WWwq1WMlWazsbhUQfdQUwXhg7OaXvgAeYzzqwQO6fBmyEgse(ZrRa4p(oih)5Ova8NWvTyq11iUYqJqoldYsfvpLxsommpXLi8NMQGHJEgse(ZrRa4p((YX)(84phTcG)eoerNQRjjc2wYbkqCLHgHCwgKLcfFySJkQMQNWOGdhIOt11KebBl5afiUYqJqoldYsHIpm2rfvt1tqEIlr4pnvbdh9mKi8NJwbWF8exIWFklNt8uyNW7472pZWjeceKky4ONPBnehfmn7JhpTczecdBqknatBK1fp(Z15dJD8vF84XtzBXyLje0Hl4PnuBqMqTxSN2tqSFs6EVctiaT4XF8SShTmD0h)jj4SeSmOv80qeeIBHd3idh0zzqRaUZswPgYt8M1rH4XFkRBPvsh)jEZ6Oi9456KgPzAcnwjBlMYGHGuXLLt6lwbkWKXnnlBpwf0a2WaydWwdudHwM8Llt(YKhQKfwWmnnnnnxtCN8LxBaMy5byGzdktttZbyMGAnzgcLluXvxZ46Yw28PmUOcGHiy4ONBcWyHb1SuD6wdXrkNQXBwhfuD6XJhpnHeg4ap3GLSsnKNGk3GuCargo67WSNyEwUrqAwRqHdqghfmC0x9PmozBiSX3Np37H)CdtsEtHFscolXtYaf0TPAsKQfshUroeKak4MYIVLePAHWbOAqlJaKlr1PbE8mjCLvY8D7sqFIV56FFoHcf6YZnqKLdO815dIoAJmSmH0x9XJh)a",
+["fin"] = "duJXbaGlsqBJeAMkuMnIBkv6xsr3wQyNIAVWUr6Nkfggf9BrgOsLgQsvgUqhuQ6yu15ijwOsvDAvwScwUIEiPONIAzu45cMOczQuAYkX0jUiPWvvk5zsjxNkDzjBvkSzsvBNe5JkL6Rkf9zPupMkgPsfVMKYOjPACKKojPYHv11iLoVsADkunnsuFJey4Hfzpy9hfzdyb39DMPaSi7HfCVJCjAawK9Wcoelcb5wETTu2dwwJf4qSieW21ybU3rUefceW6OdUhrA8Z7hivawiqq2awW9oYLObyr2dl4qSieK9QOOQEvalRXcCiwecy7ASa37ixIcbcyD0b3Jin(59dKkaleiqaVz9Q17o)aSqap2hKTIlVulGnmn0A6n0AA6vwRb4UL8JE5Hf8ofjsoQAGvxKyy8MnxUGtAUOW2TB2ouU0tQfW9UI6Pj49sXAUlFeLQzNuIcEBwJg1mCjkYTm8QcU7tDFIoQutLkQCjkgapQ0)Uebzp483PaR)OG5y5OBeYgkAc2UHMi79MMMkaSgu9PPtPzQt8LF4iNSI9Habca",
+["finn"] = "dutDbaGlLIETsLzQemBv1nvP(fvYTvWof1Er7g0(vk9tLKggGFdzGkjgQskdwPQHdvhekoMilujvlwqlNupKk8uILrv9CfnrO0ufAYuLPt5IQOUQcvxwY1f4XaTvvInRkTDvOpQe5RkeFMk1HLAKQKUMQy0QiptjQtsfToLqNMKZRcgNsHTPq6BkuMjgzor5vbHm7ZiL7guJMmYCIrkyanfcozK5eJugAqnIsUkVT7VBqnA7(RLUOepGxuWaAkeKgnkoHHbQVDP1Qo8xtgP4ane2gdPrJgLf6PnoUxBLhfFa)hGK)daq65jrzKQ3Hjq3tgPr5USgBBnJuUwF8VcUJYjZWNl6YLNAcI0EB62Tl3ZkaQSYJcMa7estzneEPxru)JLEaHGuwsoFP0tfcY8Y(PnOC3WG(7eAL(ybnfcYqkyR3o4BmNOCg(I0GLd0aEBDO6RSdCDkcEb6elZ(JcqjUQdMtjaaGXOK7HIYRccPrJgj",
+["NEW_SEQUENCE"] = "dCd2baGlsuTnskZKey2Q6Mks)sH6BKK2jQ2lSBr(jjI)ss8BjgijsdLe0PPQHlQdQehLu4ycohPKfsk1JPOfRIwUs9qk4PilJsEUqturzQuzYkPPtCrv6QkIll11LKdJYwviBMuX2jf9rsO(QIQpRGggLAKKO8AsvnAsvEMKQtsHghjvxts58QW0iv62kW6iHmcWbEae)oxf6QXKl3WfCl4anLzUlr4apahOftXxsr4apahOyU)h86HA11naYDKBqlMIVKajh5gum3)dbciJPZk)lJyBp787iCqGaUfCGwmfFjfHd8aCGI5(FWdAPM6bTa5oYnOftXxsGKJCdkM7)HabKX0zL)LrSTND(DeoiqGasbSOmjVYKEfKLTvn7GvnB7GLUQcAEZ0FPAZIWbb00wyZycdoqkR)87t6dsprYrfnE8QpAw2RkF4WXdJDvYl9kOLkrVYgKcl5ERuY)A27bLscKIP7OEh9Le41TcQdAklvXEJjP3A2jXxsqBqZADyvVaEa0nPtzB2gkdYmHD6FVCaTbr5204mWTuZgKtjgapeSTTvfeNnObXVZvHUAm5YnCHabcaa",
+["EA_AR_MT"] = "dyK8eaalvXUOsv)cvmmQKJb0YGQNbftJkLRHuTnuP8nIyCksDoQuX6qkmqfjDqvAHurEOIIjsv6IurTrfr(OIsJKQQ6KkQSsujZeuCtO0ojQFQiXqve6OOsvlfP0tjnvL6QOsLTQi4RkrolvvzTuvElv4UeP9k9xLGbJKdlAXGQhJYKbLUSWMvc9zvPrtvCAv1QPsLEnsrZMGBRWUH8BedhWXvIA5G8CcnDkxxjTDfr9DQQy8uvPZJQwVIQ2VkUGDxzWQoFx4s7cy3vgV7QytgerS7kd2D1lZ(eKy3vgS7kd2D1rYGivV0QGvnEGO6izqKQBEGO6LzFcQwLX7U6izqKQCSe6nSafd(dLdeXtcnK6a2iHv6HloSu0eJLxdelouoeTeXcA46HrgWtt6HIoOeCmphk6GsWX8COaXbDde8WfhwkAhkhmYaEApicZtIqHWh9k9qrhxIKQgpquDKmis1npqu9YSpbvRYy6U6izqKQxAv8QgpquDKmis1npqu9YSpbvRYU1D1rYGiv5yj0Bybkg8hkhiINeAi1bSrcR0dxCyPOjglVgiwCOCiAjIf0W1dJmGNM0dfDqj4yEou0bLGJ55qbId6gi4HloSu0ouoyKb80EqeMNeHcHp6v6HIoUejvnEGO6izqKQBEGO6LzFcQwLP3D1rYGiv5WsrtmwEnqS4q5GrgWt7bryEseke(OxPhkmtdYnCmphkmttNB4sEouyMgKB4yQU5bIQxM9jOQgpquDKmisTQ0garAvgV6MhiQcdHauvTaysRiM9jOQte6tG(gFTkJ3DLb7U6izqKQCwfJdLJPciK8b0dIW8Kiui8rVpmYaEAspuhkqmhU4Skghkhtfqi5dOheH5jrOq4JEFyKb80KEOouGUvDZdevVm7tqvnEGO6izqKAv38arvyieGQ0garAvgVQAbWKwrm7tqv1y51az)uOwTQZHGV(fSjKq)eUqi2D1zid4PvNQvRw1LIKM3vOuS7AvHjfnUda20cyRI7c3nqx40XbDnng8Qydl9Mw2Dv)hcacFenR6XmarAWHd8pX9cFen5eclYNRv3PqGmXURct8Mm(URUtHazAyvNbl3FVUm)G)E9kbyIByilrFUz95nW6U(g(MD4K379EV35Nvu279EV3RzYZJD4B4x)n8T0qWV(ZpyNh78V(g(Gd3hwVVoT0RpSjwyEfLFLVv9gImOpG9jOQtb6)(rPWHcgsclz1QvR6D18qGQ6SWI85A1zvNNqaj(jOkJbhusvSjAnfMdzb0KdK9jO6uvVXI5QGvzWQoJwKaXIzidG0s4FHVXxNQkNJOQZ3fU0Ua2DvfiyZ5TY40DNQ7PmtLbbD5Yf9Q(peaQozxUh)WvTA1Aba",
+["EA_SR_MT"] = "dCuUfaalO0TafyxGI8lk1WqshtklJqptjMgfY1GkBtuPVrjghr15uOwhfQbckPdsrluuQhkQyIqrxuuYgbL4JkKrcQOtkQYkrOMjrPBkk2Ps6NGkzOGk1rbf0srcpLQPc0vbvyRGs5RGs1zfv1ArIERs1Dvk7v1FHcgSIoSKftj9ysMmfCzuBguvFgQA0i40iA1GQ8AOqZMi3gWUH8BsnCqoocz5s1Zjy6cxxbBNOW3bf14bf68i16jkA)I8Bh8RT7zzIbNcmKb8RIh8EMs11ch8RTdE3ufKAKWb)A7G3dAi(oqP667aLQRVBhvhphmIbOtZDKMq1b22nWLHTeX2QsisZDHOqk2yQBPzZICJseBRkHqGjAGrkon3rAfHcHyjse(T0CjxC4mcBAkpxl5EhKgIVtbdXvCppuWDzus3B3hqKX9O6454Xxfp4DGs113TJQJNdgXa0P5ostO6aB7g4YWwIyBvjecmrdmsXP5UsdyTcSiTIqHqSejc)wA2KJBP1WMMInrr5lyttCJxKJnnxA4mACUyttXMOO8fSPzZcoX7G0q8DkyiUI7bneFhOuD9JVUCW7aLQRVBhvhphmIbOtZDKMq1b22nWLHTeX2QsieyIgyKItZDLgWAfyrAfHcHyjse(T0Sjh3sBbBAkkNQL2ySPzBSf5l4Uh0q8DGs113bPH47uWqCfp(Qrh8RTdEhOuD9D7O645GrmaDAUJ0eQoW2UbUmSLi2wvcHat0aJuCAUlefsXgt1UzlAVSLMTXwKVGdBAU0g3SG7oineF3ufKA09GgIVduQU(Xxfp4DGs113TJQJNdgXa0P5ostO6aB7g4YWwIyBvjecmrdmsXP5UquifBmv7MTO9YwA2gBr(coSP5sBCZcU7G0q8DtvqQr3dAi(oqP66h3PGH4k(Q4DqAi(USAn0DpyiyzaPcsn6oC3j1DYG(XxXDWV2o4DGs113The40ChwHKkAUJfPvekeILir4XQ0awRylntZ2sIy7bbon3HviPIM7yrAfHcHyjseESknG1k2sZ0Sz0DqAi(UPki1O7bneFhOuD9J7G0q8Dz1AO7uWqCfFv8UhmeSmGubPgD3zIgyuqwspECppK1bsPa2QozzvIfo49C0awR4z)4XJ7YwcbCazOc2WDrQIg1eBITwBmvl3HDUWO5qVeo4J7z4OWSI6G3HtwcsIeHX7eIasWyBBRKAysIeHrBwc(01WDWsIrHWbVllJVu0h8oyjXOW54EoWbm00KAaZI4nX0ceCdkRg2XL3ikXKnnZicKTPPPPPPSWdgPPMpGeLJKzg4rGaLaWimNV4i4r5iRYmd8OeGYm5lKXkMMMM4PCugZrYeGq2JYxKAor(yo6oMSGQtcfKA0D4QtINevsPPZenWifNMGLeJI0054XJ7MdbbD)EwsWNUgUpYZc24UaPg91fXM87zk0qjLhk4UmyuqQrp77yYWVgKIV2UdNSe0DzqfMenggKMGDsfgfcUFFTa47zzIbNcmKb8UdXQ8W8RI52Udcx581wJkvQ4UNfc(6UIZrdavrzLuImOF2pE84h",
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[0] = {
+},
+}
+GSESpellCache = {
+["enUS"] = {
+["Dispatch"] = 196819,
+["Between the Eyes"] = 315341,
+},
+}
+GSEVariables = {
+}
+GSEMacros = {
+["dmgCt"] = {
+["name"] = "dmgCt",
+["value"] = 4,
+["text"] = "/console floatingCombatTextCombatDamage 1\n",
+["icon"] = 3528304,
+["manageMacro"] = "/console floatingCombatTextCombatDamage 1\n",
+},
+["Trinket 2"] = {
+["name"] = "Trinket 2",
+["value"] = 16,
+["text"] = "#showtooltip\n/use 14\n",
+["icon"] = 133442,
+["manageMacro"] = "#showtooltip\n/use 14\n",
+},
+["Fr_Tar_2"] = {
+["name"] = "Fr_Tar_2",
+["value"] = 10,
+["text"] = "/target party2\n",
+["icon"] = 878232,
+["manageMacro"] = "/target party2\n",
+},
+["En_Tar_2"] = {
+["name"] = "En_Tar_2",
+["value"] = 6,
+["text"] = "/target arena2\n",
+["icon"] = 878234,
+["manageMacro"] = "/target arena2\n",
+},
+["Arena names_1"] = {
+["name"] = "Arena names_1",
+["value"] = 1,
+["text"] = "/run local n=\"UnitNameNPC\"local x=1-GetCVar(n)SetCVar(n,x)SetCVar(\"UnitNameFriendlyPetName\",x)SetCVar(\"UnitNameNoncombatCreatureName\",x)SetCVar(\"UnitNameFriendlyPlayerName\",x)\n",
+["icon"] = 915744,
+["manageMacro"] = "/run local n=\"UnitNameNPC\"local x=1-GetCVar(n)SetCVar(n,x)SetCVar(\"UnitNameFriendlyPetName\",x)SetCVar(\"UnitNameNoncombatCreatureName\",x)SetCVar(\"UnitNameFriendlyPlayerName\",x)\n",
+},
+["Dispel_Shadow"] = {
+["name"] = "Dispel_Shadow",
+["value"] = 3,
+["text"] = "#showtooltip\n/cast [mod:shift] Mass Dispel; [help] Purify Disease; [harm] Dispel Magic; Purify Disease\n",
+["icon"] = 134400,
+["manageMacro"] = "#showtooltip\n/cast [mod:shift] Mass Dispel; [help] Purify Disease; [harm] Dispel Magic; Purify Disease\n",
+},
+["Honor"] = {
+["name"] = "Honor",
+["value"] = 12,
+["text"] = "/whisper Shample h\n",
+["icon"] = 3528312,
+["manageMacro"] = "/whisper Shample h\n",
+},
+["Renew_Stun"] = {
+["name"] = "Renew_Stun",
+["value"] = 14,
+["text"] = "#showtooltip\n/cast [mod:shift, @player][help] Renew; [harm] Holy Word: Chastise ; Renew\n",
+["icon"] = 134400,
+["manageMacro"] = "#showtooltip\n/cast [mod:shift, @player][help] Renew; [harm] Holy Word: Chastise ; Renew\n",
+},
+["Fr_Tar_1"] = {
+["name"] = "Fr_Tar_1",
+["value"] = 9,
+["text"] = "/target party1\n",
+["icon"] = 878232,
+["manageMacro"] = "/target party1\n",
+},
+["F_Silence"] = {
+["name"] = "F_Silence",
+["value"] = 8,
+["text"] = "#showtooltip\n/cast [nomod] Silence; [mod:shift, @focus] Silence; Silence\n",
+["icon"] = 134400,
+["manageMacro"] = "#showtooltip\n/cast [nomod] Silence; [mod:shift, @focus] Silence; Silence\n",
+},
+["Dispel"] = {
+["name"] = "Dispel",
+["value"] = 2,
+["text"] = "#showtooltip\n/cast [mod:shift] Mass Dispel; [help] Purify; [harm] Dispel Magic; Purify\n",
+["icon"] = 134400,
+["manageMacro"] = "#showtooltip\n/cast [mod:shift] Mass Dispel; [help] Purify; [harm] Dispel Magic; Purify\n",
+},
+["Trinket 1"] = {
+["name"] = "Trinket 1",
+["value"] = 15,
+["text"] = "#showtooltip\n/use 13\n",
+["icon"] = 133876,
+["manageMacro"] = "#showtooltip\n/use 13\n",
+},
+["nameplates"] = {
+["name"] = "nameplates",
+["value"] = 13,
+["text"] = "/run C_NamePlate.SetNamePlateFriendlySize(50, 100)\n",
+["icon"] = 895888,
+["manageMacro"] = "/run C_NamePlate.SetNamePlateFriendlySize(50, 100)\n",
+},
+["En_Tar_3"] = {
+["name"] = "En_Tar_3",
+["value"] = 7,
+["text"] = "/target arena3\n",
+["icon"] = 878234,
+["manageMacro"] = "/target arena3\n",
+},
+["Fr_Tar_3"] = {
+["name"] = "Fr_Tar_3",
+["value"] = 11,
+["text"] = "/target player\n",
+["icon"] = 878232,
+["manageMacro"] = "/target player\n",
+},
+["En_Tar_1"] = {
+["name"] = "En_Tar_1",
+["value"] = 5,
+["text"] = "/target arena1\n",
+["icon"] = 878234,
+["manageMacro"] = "/target arena1\n",
+},
+}

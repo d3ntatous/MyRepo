@@ -1,0 +1,49 @@
+VER 3 010000000000000A "BL" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [nomod] Healing Stream Totem;[mod:shift] Bloodlust
+END
+VER 3 0100000000000004 "CapTotem" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod,@cursor] Capacitor Totem; [mod:shift] Healing Stream Totem
+END
+VER 3 010000000000000B "FroLoc" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [nomod] Ice Strike; [mod:shift] Burrow
+END
+VER 3 0100000000000007 "Frost/Flame" "134400"
+#showtooltip
+/cast [mod:alt] Frost Shock
+/castsequence  reset=target/5  Flame Shock, Frost Shock
+END
+VER 3 0100000000000008 "Ground/Counter" "134400"
+#showtooltip
+/cast [nomod] Grounding Totem
+/cast [nomod] Counterstrike Totem
+/cast [mod:shift, @cursor] Static Field Totem
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Grounding Totem" or G"Counterstrike Totem")
+END
+VER 3 0100000000000003 "heal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift]!Chain Heal;Healing Surge
+END
+VER 3 0100000000000005 "heals" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Chain Heal; Healing Wave
+END
+VER 3 0100000000000002 "Lightning" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift]!Lightning Bolt;Chain Lightning
+END
+VER 3 0100000000000006 "LoungeDog" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] !Ghost Wolf;
+END
+VER 3 0100000000000001 "Purge/Cleanse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [help] Purify Spirit; [harm] Purge; Purge
+END
+VER 3 0100000000000009 "talent" "INV_Misc_QuestionMark"
+#showtooltip
+/use [nomod,known:Grounding Totem]Grounding Totem;[nomod,known:Counterstrike Totem]Counterstrike Totem
+/use [known:Static Field Totem,mod:shift,@cursor] Static Field Totem
+END

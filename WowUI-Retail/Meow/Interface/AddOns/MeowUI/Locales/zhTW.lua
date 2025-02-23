@@ -1,0 +1,32 @@
+local L = ElvUI[1].Libs.ACL:NewLocale("ElvUI", "zhTW")
+if not L then return end
+
+L["Layout Set"] = "ElvUI 配置導入完成"
+L["%s is a layout for ElvUI."] = "%s 是基於 ElvUI 插件平台製作的界面配置方案"
+L["Credits"] = true
+L["Installation"] = true
+L["The installation guide should pop up automatically after you have completed the ElvUI installation. If you wish to re-run the installation process for this layout then please click the button below."] = "在完成了 ElvUI 的安裝後，本安裝器的安裝嚮導會自動彈出。如果你想重新進行一次安裝流程，以獲得界面配置的導入，請點擊下方的「安裝」按鈕。"
+L["Install"] = "安裝"
+L["Run the installation process."] = "運行安裝流程。"
+L["Installer"] = true
+L["Welcome to the installation for"] = "歡迎安裝 "
+L["This installation process will guide you through a few steps to add"] = "本安裝流程將通過簡單的幾步引導你，將"
+L["profiles for various addons."] = "的配置導入到對應的插件中。"
+L["Please press the continue button if you wish to go through the installation process, otherwise click the ‘Skip Process’ button."] = "點擊「繼續」按鈕開始安裝流程。"
+L["Skip Process"] = "跳過安裝"
+L["Please click the 'MeowUI' button below to import the ElvUI profile."] = "點擊下方的「MeowUI」按鈕，將為你導入 ElvUI 配置。"
+L["Importance: |cff07D400High|r"] = "重要度：|cff07D400高|r"
+L["Join the Discord or KOOK if you have any questions or issues"] = "加入到 Discord 或 KOOK 社區，以獲取更多幫助，反饋與提出需求。"
+L["Recommended"] = "友情推薦"
+L["You have completed the installation process."] = "你已經完成了安裝流程。"
+L["Please click the button below in order to finalize the process and automatically reload your UI."] = "請點擊下方的「完成」按鈕，新的界面將會自動載入。"
+L["Finished"] = "完成"
+L["Welcome"] = "歡迎"
+L["Layout"] = "佈局"
+L["Installation Complete"] = "安裝完成"
+L["Plater Profile Set"] = "Plater 配置導入完成"
+L["Details Profile Set"] = "Details 配置導入完成"
+L["Please click the 'Details' button below to import the Details profile."] = "點擊下方的「Details」按鈕，將為你導入 Details 配置。"
+L["Please click the 'Plater' button below to import the Plater profile."] = "點擊下方的「Plater」按鈕，將為你導入 Plater 配置。"
+L["You can gain access to the latest MeowWAs, to your liking, by subscribing to one of the 3-Tier packages provided on Patreon or Afdian."] = "你可以通過在「Patreon」或「愛發電」上訂閱，從而獲取一直保持著更新的 MeowWA 套件。"
+L["Here, I would also like to recommend the sites of four friends."] = "在此，我還將推薦四位好友的站點。"

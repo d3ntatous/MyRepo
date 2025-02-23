@@ -1,0 +1,20 @@
+Blizzard_ObjectiveTracker: enabled
+Blizzard_CompactRaidFrames: enabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+AddOnSkins: disabled
+ElvUI_GennUI: disabled
+ElvUI: disabled
+ElvUI_Libraries: disabled
+ElvUI_Options: disabled
+ElvUI_WindTools: disabled
+GladiusEx: disabled
+FatalArenaFrames: enabled
+sArena Updated: disabled
+Gladius: disabled
+MoveAny: enabled
+ShadowedUF_Options: disabled
+ShadowedUnitFrames: disabled
+ElvUI_EltreumUI: disabled
+ElvUI_CustomMedia: disabled
+xCT+: disabled

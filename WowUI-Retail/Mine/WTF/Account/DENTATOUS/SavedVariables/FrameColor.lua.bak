@@ -1,0 +1,251 @@
+
+FrameColorDB = {
+["profileKeys"] = {
+["Nexùs - Spinebreaker"] = "Default",
+["Shockhoof - Spinebreaker"] = "Default",
+["Chilon - Draenor"] = "Default",
+["Yupaw - Draenor"] = "Default",
+["Noreliå - Draenor"] = "Default",
+["Bhaall - Spinebreaker"] = "Default",
+["Arcanoid - Draenor"] = "Default",
+["Bonebilly - Draenor"] = "Default",
+["Flamestout - Draenor"] = "Default",
+["Norelia - Spinebreaker"] = "Default",
+["Dragovation - Draenor"] = "Default",
+["Shample - Draenor"] = "Default",
+["Sneaknpeak - Silvermoon"] = "Default",
+["Poper - Silvermoon"] = "Default",
+["Judgerinio - Silvermoon"] = "Default",
+["Greedissgood - Draenor"] = "Default",
+["Pawfong - Draenor"] = "Default",
+["Riseandshine - Draenor"] = "Default",
+["Yupaw - Silvermoon"] = "Default",
+["Judgerinio - Draenor"] = "Default",
+["Tothekneejin - Twilight's Hammer"] = "Default",
+["Bety - Draenor"] = "Default",
+["Felowny - Silvermoon"] = "Default",
+["Riseåndshine - Silvermoon"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+["ActionBars"] = {
+["ClassTalentFrame"] = {
+},
+["CharacterFrame"] = {
+},
+["Ace3_Skin"] = {
+},
+["InspectFrame"] = {
+},
+["TargetFrame"] = {
+},
+["FrameColor_Skin"] = {
+},
+["FriendsFrame"] = {
+},
+["DelvesFrame"] = {
+},
+["PlayerSpellsFrame"] = {
+},
+["PlayerFrame"] = {
+},
+},
+["Group"] = {
+["InspectFrame"] = {
+},
+["ClassTalentFrame"] = {
+},
+["CharacterFrame"] = {
+},
+["FriendsFrame"] = {
+},
+["DelvesFrame"] = {
+},
+["Ace3_Skin"] = {
+},
+["PlayerFrame"] = {
+},
+["PlayerSpellsFrame"] = {
+},
+["TargetFrame"] = {
+},
+["FrameColor_Skin"] = {
+},
+},
+["MicroMenu"] = {
+["Talents"] = {
+["color"] = {
+["r"] = 0.6235294342041016,
+["g"] = 0.6235294342041016,
+["b"] = 0.6235294342041016,
+},
+},
+["Guild"] = {
+["color"] = {
+["r"] = 0.5372549295425415,
+["g"] = 0.5529412031173706,
+["b"] = 0.545098066329956,
+},
+},
+["Achievements"] = {
+["color"] = {
+["r"] = 0.5490196347236633,
+["g"] = 0.5607843399047852,
+["b"] = 0.5372549295425415,
+},
+},
+["Character"] = {
+["color"] = {
+["r"] = 0.5843137502670288,
+["g"] = 0.5647059082984924,
+["b"] = 0.5764706134796143,
+},
+},
+["Quest"] = {
+["color"] = {
+["r"] = 0.6823529601097107,
+["g"] = 0.6980392336845398,
+["b"] = 0.6823529601097107,
+},
+},
+["GroupFinder"] = {
+["color"] = {
+["r"] = 0.5333333611488342,
+["g"] = 0.5176470875740051,
+["b"] = 0.5254902243614197,
+},
+},
+["Spellbook"] = {
+["color"] = {
+["r"] = 0.6549019813537598,
+["g"] = 0.6509804129600525,
+["b"] = 0.6627451181411743,
+},
+},
+["Menu"] = {
+["color"] = {
+["r"] = 0.6470588445663452,
+["g"] = 0.6627451181411743,
+["b"] = 0.6274510025978088,
+},
+},
+["Collections"] = {
+["color"] = {
+["r"] = 0.5960784554481506,
+["g"] = 0.6078431606292725,
+["b"] = 0.6117647290229797,
+},
+},
+["EncounterJournal"] = {
+["color"] = {
+["r"] = 0.5960784554481506,
+["g"] = 0.5960784554481506,
+["b"] = 0.5960784554481506,
+},
+},
+["Store"] = {
+["color"] = {
+["r"] = 0.6470588445663452,
+["g"] = 0.6431372761726379,
+["b"] = 0.6274510025978088,
+},
+},
+},
+["Skins"] = {
+["Ace3_Skin"] = {
+},
+["DelvesFrame"] = {
+},
+["InspectFrame"] = {
+},
+["PlayerSpellsFrame"] = {
+},
+["TargetFrame"] = {
+},
+["FrameColor_Skin"] = {
+},
+["CharacterFrame"] = {
+},
+["PlayerFrame"] = {
+},
+["FriendsFrame"] = {
+},
+["ClassTalentFrame"] = {
+},
+},
+["Windows"] = {
+["ClassTalentFrame"] = {
+},
+["CharacterFrame"] = {
+},
+["Ace3_Skin"] = {
+},
+["PlayerFrame"] = {
+},
+["InspectFrame"] = {
+},
+["TargetFrame"] = {
+},
+["FrameColor_Skin"] = {
+},
+["FriendsFrame"] = {
+},
+["DelvesFrame"] = {
+},
+["PlayerSpellsFrame"] = {
+},
+},
+["UnitFrames"] = {
+["InspectFrame"] = {
+},
+["TargetFrame"] = {
+},
+["FrameColor_Skin"] = {
+},
+["FriendsFrame"] = {
+},
+["DelvesFrame"] = {
+},
+["Ace3_Skin"] = {
+},
+["PlayerFrame"] = {
+},
+["PlayerSpellsFrame"] = {
+},
+["CharacterFrame"] = {
+},
+["ClassTalentFrame"] = {
+},
+},
+["HUD"] = {
+["InspectFrame"] = {
+},
+["CornerIcon"] = {
+["color"] = {
+["r"] = 0.2392157018184662,
+["g"] = 0.2392157018184662,
+["b"] = 0.2392157018184662,
+},
+},
+["TargetFrame"] = {
+},
+["FrameColor_Skin"] = {
+},
+["FriendsFrame"] = {
+},
+["DelvesFrame"] = {
+},
+["PlayerSpellsFrame"] = {
+},
+["PlayerFrame"] = {
+},
+["CharacterFrame"] = {
+},
+["Ace3_Skin"] = {
+},
+["ClassTalentFrame"] = {
+},
+},
+},
+},
+}

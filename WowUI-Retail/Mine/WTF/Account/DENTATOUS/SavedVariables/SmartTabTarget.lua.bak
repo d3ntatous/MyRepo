@@ -1,0 +1,64 @@
+
+SmartTabTargetSavedVariables = {
+["profileKeys"] = {
+["Nexùs - Spinebreaker"] = "Nexùs - Spinebreaker",
+["Chilon - Draenor"] = "Chilon - Draenor",
+["Elorien - Draenor"] = "Elorien - Draenor",
+["Shample - Draenor"] = "Shample - Draenor",
+["Popdrin - Silvermoon"] = "Popdrin - Silvermoon",
+["Pawfong - Draenor"] = "Pawfong - Draenor",
+["Bonebilly - Draenor"] = "Bonebilly - Draenor",
+["Greedissgood - Draenor"] = "Greedissgood - Draenor",
+["Dragovation - Draenor"] = "Dragovation - Draenor",
+["Poper - Silvermoon"] = "Poper - Silvermoon",
+["Judgerinio - Silvermoon"] = "Judgerinio - Silvermoon",
+["Hydrolic - Silvermoon"] = "Hydrolic - Silvermoon",
+["Leafyouto - Draenor"] = "Leafyouto - Draenor",
+["Namednelf - Draenor"] = "Namednelf - Draenor",
+["Flamestout - Draenor"] = "Flamestout - Draenor",
+["Tothekneejin - Twilight's Hammer"] = "Tothekneejin - Twilight's Hammer",
+["Namedman - Draenor"] = "Namedman - Draenor",
+["Riseandshine - Draenor"] = "Riseandshine - Draenor",
+["Noreliå - Draenor"] = "Noreliå - Draenor",
+},
+["profiles"] = {
+["Nexùs - Spinebreaker"] = {
+},
+["Chilon - Draenor"] = {
+},
+["Elorien - Draenor"] = {
+},
+["Shample - Draenor"] = {
+},
+["Popdrin - Silvermoon"] = {
+},
+["Pawfong - Draenor"] = {
+},
+["Bonebilly - Draenor"] = {
+},
+["Greedissgood - Draenor"] = {
+},
+["Dragovation - Draenor"] = {
+},
+["Poper - Silvermoon"] = {
+},
+["Judgerinio - Silvermoon"] = {
+},
+["Hydrolic - Silvermoon"] = {
+},
+["Leafyouto - Draenor"] = {
+},
+["Namednelf - Draenor"] = {
+},
+["Flamestout - Draenor"] = {
+},
+["Tothekneejin - Twilight's Hammer"] = {
+},
+["Namedman - Draenor"] = {
+},
+["Riseandshine - Draenor"] = {
+},
+["Noreliå - Draenor"] = {
+},
+},
+}

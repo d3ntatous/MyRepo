@@ -1,0 +1,8 @@
+## Interface: 100205
+## Title: FatalArenaFrames
+## Notes: Hides enemy frames in arena
+## Author: Fatal
+## Version: 2.0.1
+## LoadWith: Blizzard_CompactRaidFrames
+
+FatalArenaFrames.lua
