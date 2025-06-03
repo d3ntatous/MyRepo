@@ -1,2 +1,0 @@
-
-MERData = nil

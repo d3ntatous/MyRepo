@@ -1,0 +1,14 @@
+## Interface: 110002
+## Title: SharedMedia Additional Sounds
+## Notes: Inserts additionnal sounds into SharedMediaLib's storage.
+## Version: 11.0.2
+## Author: Original by Stassart, maintained by AllInOneMighty.
+## X-Category: Audio & Video
+## X-Credits: Stassart
+## OptionalDeps: LibSharedMedia-3.0, LibSharedMedia-2.0, SharedMediaLib
+
+Libs\LibStub\LibStub.lua
+
+Core.lua
+SharedMediaAdditionalSounds.lua
+

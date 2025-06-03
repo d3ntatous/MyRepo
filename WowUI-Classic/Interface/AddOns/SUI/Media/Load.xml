@@ -1,4 +1,0 @@
-<Ui xmlns='http://www.blizzard.com/wow/ui/'>
-  <Include file='RegisterMediaLSM.lua'/>
-  <Include file='BFAUI\ArtFrames.xml'/>
-</Ui>

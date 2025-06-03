@@ -1,4 +1,0 @@
-
-ElvCharacterDB = {
-	["ConvertKeybindings"] = true,
-}

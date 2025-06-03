@@ -1,0 +1,47 @@
+
+RaiderIO_Config = {
+["profilePoint"] = {
+["y"] = 0,
+["x"] = -16.00000190734863,
+["point"] = "TOPLEFT",
+},
+["minimapIcon"] = {
+["minimapPos"] = 304.7982845085967,
+["showInCompartment"] = true,
+["lock"] = false,
+["hide"] = false,
+},
+}
+RaiderIO_LastCharacter = "eu-Greedissgood-draenor"
+RaiderIO_MissingCharacters = {
+["eu-Nd-Twilight"] = true,
+["eu-Kantben-draenor"] = true,
+["eu-Greedissgood-draenor"] = true,
+["eu-Unholyice-draenor"] = true,
+["eu-Allknowing-draenor"] = true,
+["eu-Holyscrusher-draenor"] = true,
+["eu-Girdz-draenor"] = true,
+["eu-Bogaty-draenor"] = true,
+["eu-Nd-twilights-hammer"] = true,
+["eu-Codeblack-draenor"] = true,
+["eu-Totemooic-draenor"] = true,
+["eu-Maffija-draenor"] = true,
+["eu-Seathesource-draenor"] = true,
+["eu-Zoshir-draenor"] = true,
+["eu-Rekrotica-draenor"] = true,
+["eu-Goredax-draenor"] = true,
+["eu-Mordium-draenor"] = true,
+["eu-Parakay-draenor"] = true,
+["eu-Hakoni-draenor"] = true,
+["eu-Axebaby-bloodfeather"] = true,
+["eu-Fruiting-draenor"] = true,
+["eu-Lolkak-haomarush"] = true,
+["eu-Demohun-draenor"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
+}

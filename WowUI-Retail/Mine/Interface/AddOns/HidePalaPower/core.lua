@@ -1,1 +1,0 @@
-RegisterAttributeDriver(PaladinPowerBarFrame, "state-visibility", "hide")

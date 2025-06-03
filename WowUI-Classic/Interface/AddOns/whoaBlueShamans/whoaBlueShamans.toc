@@ -1,7 +1,0 @@
-## Interface: 11306
-## Title: whoa |cff0070deBlueShamans|r (for WoW Classic)
-## Notes: Replaces shamans pink color to blue
-## Author: delabarra
-## Version: 1.1.2
-
-whoaBlueShamans.lua

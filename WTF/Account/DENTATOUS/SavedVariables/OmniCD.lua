@@ -1,0 +1,127 @@
+
+OmniCDDB = {
+["profileKeys"] = {
+["Shample - Draenor"] = "SHAMAN",
+["Greedissgood - Draenor"] = "Default",
+["Riseandshine - Draenor"] = "Riseandshine - Draenor",
+["Nexùs - Draenor"] = "Default",
+["Poper - Silvermoon"] = "Default",
+["Hydrolic - Silvermoon"] = "Default",
+["Bonebilly - Draenor"] = "WARRIOR",
+},
+["namespaces"] = {
+},
+["cooldowns"] = {
+},
+["version"] = 4,
+["profiles"] = {
+["Riseandshine - Draenor"] = {
+["General"] = {
+["fonts"] = {
+["statusBar"] = {
+["font"] = "TeX Gyre Adventor Bold",
+},
+["icon"] = {
+["font"] = "TeX Gyre Adventor Bold",
+},
+["anchor"] = {
+["font"] = "TeX Gyre Adventor Bold",
+},
+},
+},
+["Party"] = {
+["party"] = {
+["extraBars"] = {
+["raidBar1"] = {
+["manualPos"] = {
+["raidBar1"] = {
+["y"] = 458.986903803343,
+["x"] = 438.6125683212449,
+},
+},
+},
+},
+["icons"] = {
+["scale"] = 0.7,
+["showTooltip"] = true,
+},
+["position"] = {
+["attachMore"] = "BOTTOMLEFT",
+["columns"] = 3,
+["paddingX"] = 2,
+["attach"] = "BOTTOMLEFT",
+["layout"] = "vertical",
+["uf"] = "Cell-Party",
+["anchorMore"] = "TOPLEFT",
+["offsetY"] = 10,
+["preset"] = "manual",
+["paddingY"] = 2,
+},
+},
+},
+},
+["WARRIOR"] = {
+["Party"] = {
+["party"] = {
+["position"] = {
+["anchor"] = "TOPRIGHT",
+["preset"] = "TOPLEFT",
+["attach"] = "TOPLEFT",
+},
+["extraBars"] = {
+["raidBar1"] = {
+["manualPos"] = {
+["raidBar1"] = {
+["y"] = 534.7202224230714,
+["x"] = 208.2130422210757,
+},
+},
+},
+},
+},
+},
+},
+["Default"] = {
+["Party"] = {
+["party"] = {
+["extraBars"] = {
+["raidBar1"] = {
+["manualPos"] = {
+["raidBar1"] = {
+["y"] = 468.5869035887663,
+["x"] = 503.1462778163041,
+},
+},
+},
+},
+["position"] = {
+["anchor"] = "TOPRIGHT",
+["attach"] = "TOPLEFT",
+["preset"] = "TOPLEFT",
+},
+},
+},
+},
+["SHAMAN"] = {
+["Party"] = {
+["party"] = {
+["extraBars"] = {
+["raidBar1"] = {
+["manualPos"] = {
+["raidBar1"] = {
+["y"] = 506.9867074179638,
+["x"] = 210.8798585677178,
+},
+},
+},
+},
+["position"] = {
+["anchor"] = "TOPRIGHT",
+["preset"] = "TOPLEFT",
+["attach"] = "TOPLEFT",
+},
+},
+},
+},
+},
+}

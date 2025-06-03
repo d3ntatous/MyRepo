@@ -1,0 +1,16 @@
+
+SimpleCombatLoggerDB = {
+["profileKeys"] = {
+["Shample - Draenor"] = "Default",
+["Greedissgood - Draenor"] = "Default",
+["Riseandshine - Draenor"] = "Default",
+["Nexùs - Draenor"] = "Default",
+["Poper - Silvermoon"] = "Default",
+["Bonebilly - Draenor"] = "Default",
+["Hydrolic - Silvermoon"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+},
+},
+}

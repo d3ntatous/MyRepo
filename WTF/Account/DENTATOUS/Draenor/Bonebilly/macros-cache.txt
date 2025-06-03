@@ -1,0 +1,9 @@
+VER 3 0100000000000002 "rav" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@cursor] Ravager
+END
+VER 3 0100000000000001 "rgslam" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Raging Blow
+/cast Slam
+END

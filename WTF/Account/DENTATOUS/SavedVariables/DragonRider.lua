@@ -1,0 +1,206 @@
+
+DragonRider_DB = {
+["toggleModels"] = true,
+["cooldownTimer"] = {
+["aerialHalt"] = true,
+["whirlingSurge"] = true,
+["bronzeTimelock"] = true,
+},
+["showtooltip"] = true,
+["speedometerScale"] = 0.8999999761581421,
+["speedTextScale"] = 12,
+["sideArt"] = true,
+["speedometerPosX"] = 0,
+["sideArtStyle"] = 1,
+["multiplayer"] = true,
+["speedometerPosPoint"] = 2,
+["themeSpeed"] = 5,
+["mainFrameSize"] = {
+["height"] = 525,
+["width"] = 550,
+},
+["fadeSpeed"] = true,
+["barStyle"] = 1,
+["speedBarColor"] = {
+["vigor"] = {
+["a"] = 1,
+["b"] = 0.6078431372549019,
+["g"] = 0.5647058823529412,
+["r"] = 0,
+},
+["slow"] = {
+["a"] = 1,
+["b"] = 0,
+["g"] = 0.3803921568627451,
+["r"] = 0.7686274509803922,
+},
+["over"] = {
+["a"] = 1,
+["b"] = 0.7647058823529411,
+["g"] = 0.3019607843137255,
+["r"] = 0.6588235294117647,
+},
+},
+["speedometerPosY"] = -4,
+["themeVigor"] = 1,
+["tempFixes"] = {
+["hideVigor"] = true,
+},
+["vigorProgressStyle"] = 1,
+["muteVigorSound"] = false,
+["glyphDetector"] = true,
+["lightningRush"] = true,
+["fadeVigor"] = true,
+["speedValUnits"] = 5,
+["speedTextColor"] = {
+["vigor"] = {
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
+["slow"] = {
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
+["over"] = {
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
+},
+["DynamicFOV"] = true,
+["statistics"] = {
+},
+["useAccountData"] = false,
+["raceData"] = {
+["Riseandshine - Draenor"] = {
+},
+["Account"] = {
+[2119] = {
+["score"] = 50.095,
+["character"] = "Riseandshine - Draenor",
+},
+[2092] = {
+["score"] = 79.856,
+["character"] = "Riseandshine - Draenor",
+},
+[2083] = {
+["score"] = 68.313,
+["character"] = "Riseandshine - Draenor",
+},
+[2096] = {
+["score"] = 66.092,
+["character"] = "Riseandshine - Draenor",
+},
+[2042] = {
+["score"] = 57.06,
+["character"] = "Riseandshine - Draenor",
+},
+[2069] = {
+["score"] = 26.983,
+["character"] = "Riseandshine - Draenor",
+},
+[3187] = {
+["score"] = 46.408,
+["character"] = "Riseandshine - Draenor",
+},
+[2058] = {
+["score"] = 51.296,
+["character"] = "Riseandshine - Draenor",
+},
+[2046] = {
+["score"] = 57.995,
+["character"] = "Poper - Silvermoon",
+},
+[2047] = {
+["score"] = 71.902,
+["character"] = "Poper - Silvermoon",
+},
+[2048] = {
+["score"] = 42.965,
+["character"] = "Riseandshine - Draenor",
+},
+[2050] = {
+["score"] = 38.8,
+["character"] = "Riseandshine - Draenor",
+},
+[2052] = {
+["score"] = 51.229,
+["character"] = "Riseandshine - Draenor",
+},
+[2054] = {
+["score"] = 49.184,
+["character"] = "Riseandshine - Draenor",
+},
+[2056] = {
+["score"] = 44.954,
+["character"] = "Riseandshine - Draenor",
+},
+[2926] = {
+["score"] = 79.487,
+["character"] = "Riseandshine - Draenor",
+},
+[2060] = {
+["score"] = 42.871,
+["character"] = "Riseandshine - Draenor",
+},
+[2062] = {
+["score"] = 51.146,
+["character"] = "Riseandshine - Draenor",
+},
+[2064] = {
+["score"] = 59.477,
+["character"] = "Riseandshine - Draenor",
+},
+[2066] = {
+["score"] = 63.259,
+["character"] = "Riseandshine - Draenor",
+},
+[2085] = {
+["score"] = 67.861,
+["character"] = "Riseandshine - Draenor",
+},
+[2070] = {
+["score"] = 35.239,
+["character"] = "Riseandshine - Draenor",
+},
+[2103] = {
+["score"] = 51.762,
+["character"] = "Riseandshine - Draenor",
+},
+[2074] = {
+["score"] = 61.038,
+["character"] = "Riseandshine - Draenor",
+},
+[2076] = {
+["score"] = 61.235,
+["character"] = "Riseandshine - Draenor",
+},
+[2078] = {
+["score"] = 54.686,
+["character"] = "Riseandshine - Draenor",
+},
+[2080] = {
+["score"] = 40.502,
+["character"] = "Riseandshine - Draenor",
+},
+[2089] = {
+["score"] = 82.768,
+["character"] = "Riseandshine - Draenor",
+},
+[2101] = {
+["score"] = 62.463,
+["character"] = "Riseandshine - Draenor",
+},
+[2098] = {
+["score"] = 56.123,
+["character"] = "Riseandshine - Draenor",
+},
+[2433] = {
+["score"] = 73.438,
+["character"] = "Poper - Silvermoon",
+},
+},
+},
+}

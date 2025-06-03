@@ -1,4 +1,0 @@
-Blizzard_ObjectiveTracker: enabled
-Blizzard_CompactRaidFrames: enabled
-WeakAurasCompanion: enabled
-WeakAurasArchive: enabled

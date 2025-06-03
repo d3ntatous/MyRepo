@@ -1,4 +1,0 @@
-<Ui xmlns='http://www.blizzard.com/wow/ui/'>
-  <Include file='_Bartender.lua'/>
-  <Include file='_Safequeue.lua'/>
-</Ui>

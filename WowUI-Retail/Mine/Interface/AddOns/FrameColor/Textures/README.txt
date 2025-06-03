@@ -1,1 +1,0 @@
---@TODO add texture path instructions

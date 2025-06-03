@@ -1,0 +1,160 @@
+
+FrameColor4DB = {
+["profileKeys"] = {
+["Shample - Draenor"] = "Default",
+["Greedissgood - Draenor"] = "Default",
+["Riseandshine - Draenor"] = "Default",
+["Nexùs - Draenor"] = "Default",
+["Poper - Silvermoon"] = "Default",
+["Hydrolic - Silvermoon"] = "Default",
+["Bonebilly - Draenor"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+["_LFDMicroButton"] = {
+["enabled"] = false,
+},
+["_StoreMicroButton"] = {
+["enabled"] = false,
+},
+["_PlayerSpellsMicroButton"] = {
+["enabled"] = false,
+},
+["_AchievementMicroButton"] = {
+["enabled"] = false,
+},
+["_CharacterMicroButton"] = {
+["colors"] = {
+["btn_normal_color"] = {
+["rgbaValues"] = {
+1,
+1,
+1,
+},
+["lockedColor"] = true,
+["followClassColor"] = false,
+},
+["btn_highlight_color"] = {
+["followClassColor"] = false,
+},
+["btn_pushed_color"] = {
+["rgbaValues"] = {
+1,
+1,
+1,
+},
+["followClassColor"] = false,
+},
+},
+["enabled"] = false,
+},
+["_SettingsPanel"] = {
+["colors"] = {
+["main"] = {
+["followClassColor"] = false,
+},
+},
+["enabled"] = true,
+},
+["_EJMicroButton"] = {
+["enabled"] = false,
+},
+["protected"] = {
+["leadingColors"] = {
+["global"] = {
+["enabled"] = true,
+["colors"] = {
+["main"] = {
+["rgbaValues"] = {
+0.6313725709915161,
+0.6313725709915161,
+0.6313725709915161,
+},
+},
+},
+},
+["ActionBars"] = {
+["enabled"] = true,
+["colors"] = {
+["main"] = {
+["rgbaValues"] = {
+0.5607843399047852,
+0.5607843399047852,
+0.5607843399047852,
+},
+},
+},
+},
+["HUD"] = {
+["enabled"] = true,
+},
+["UnitFrames"] = {
+["enabled"] = true,
+},
+},
+},
+["_CollectionsMicroButton"] = {
+["enabled"] = false,
+},
+["_ChatFrame"] = {
+["colors"] = {
+["background"] = {
+["lockedColor"] = false,
+["followClassColor"] = false,
+},
+},
+["enabled"] = false,
+},
+["_MainMenuMicroButton"] = {
+["enabled"] = false,
+},
+["_GameMenuFrame"] = {
+["colors"] = {
+["controls"] = {
+["rgbaValues"] = {
+0.8666667342185974,
+0.8666667342185974,
+0.8666667342185974,
+},
+["followClassColor"] = false,
+},
+["main"] = {
+["rgbaValues"] = {
+0.09803922474384308,
+0.09803922474384308,
+0.09803922474384308,
+},
+["followClassColor"] = false,
+},
+["background"] = {
+["rgbaValues"] = {
+nil,
+nil,
+nil,
+0.8398435115814209,
+},
+["followClassColor"] = false,
+},
+["button_highlight"] = {
+["rgbaValues"] = {
+0.7490196228027344,
+0.6509804129600525,
+0.3450980484485626,
+},
+["followClassColor"] = false,
+},
+},
+["enabled"] = true,
+},
+["_GuildMicroButton"] = {
+["enabled"] = false,
+},
+["_QuestLogMicroButton"] = {
+["enabled"] = false,
+},
+["_ProfessionMicroButton"] = {
+["enabled"] = false,
+},
+},
+},
+}

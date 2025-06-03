@@ -1,3 +1,0 @@
-VER 3 0100000000000001 "test" "1272527"
-/run local m=PlayerFrame.PlayerFrameContent.PlayerFrameContentMain.ManaBarArea.ManaBar if m:IsShown()then m:Hide()else m:Show()end
-END

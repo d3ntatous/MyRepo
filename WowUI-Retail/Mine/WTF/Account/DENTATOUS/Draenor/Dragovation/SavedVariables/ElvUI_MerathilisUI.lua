@@ -1,2 +1,0 @@
-
-MERDataPerChar = nil

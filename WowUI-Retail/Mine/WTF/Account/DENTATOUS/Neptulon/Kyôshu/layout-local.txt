@@ -1,8 +1,0 @@
-Version: 1
-Frame: GladiusExButtonAnchorparty
-FrameLevel: 200
-Anchor: CENTER
-X: -33
-Y: -176
-W: 260
-H: 40
