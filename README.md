@@ -1,2 +1,2 @@
-# WowUI-ClassicHC
+# WowUI
 
