@@ -9,70 +9,6 @@ DragonRider_DB = {
 ["showtooltip"] = true,
 ["speedometerScale"] = 0.8999999761581421,
 ["speedTextScale"] = 12,
-["sideArt"] = true,
-["speedometerPosX"] = 0,
-["sideArtStyle"] = 1,
-["multiplayer"] = true,
-["speedometerPosPoint"] = 2,
-["themeSpeed"] = 5,
-["mainFrameSize"] = {
-["height"] = 525,
-["width"] = 550,
-},
-["fadeSpeed"] = true,
-["barStyle"] = 1,
-["speedBarColor"] = {
-["vigor"] = {
-["a"] = 1,
-["b"] = 0.6078431372549019,
-["g"] = 0.5647058823529412,
-["r"] = 0,
-},
-["slow"] = {
-["a"] = 1,
-["b"] = 0,
-["g"] = 0.3803921568627451,
-["r"] = 0.7686274509803922,
-},
-["over"] = {
-["a"] = 1,
-["b"] = 0.7647058823529411,
-["g"] = 0.3019607843137255,
-["r"] = 0.6588235294117647,
-},
-},
-["speedometerPosY"] = -4,
-["themeVigor"] = 1,
-["tempFixes"] = {
-["hideVigor"] = true,
-},
-["vigorProgressStyle"] = 1,
-["muteVigorSound"] = false,
-["glyphDetector"] = true,
-["lightningRush"] = true,
-["fadeVigor"] = true,
-["speedValUnits"] = 5,
-["speedTextColor"] = {
-["vigor"] = {
-["b"] = 1,
-["g"] = 1,
-["r"] = 1,
-},
-["slow"] = {
-["b"] = 1,
-["g"] = 1,
-["r"] = 1,
-},
-["over"] = {
-["b"] = 1,
-["g"] = 1,
-["r"] = 1,
-},
-},
-["DynamicFOV"] = true,
-["statistics"] = {
-},
-["useAccountData"] = false,
 ["raceData"] = {
 ["Riseandshine - Draenor"] = {
 },
@@ -85,9 +21,9 @@ DragonRider_DB = {
 ["score"] = 79.856,
 ["character"] = "Riseandshine - Draenor",
 },
-[2083] = {
-["score"] = 68.313,
-["character"] = "Riseandshine - Draenor",
+[2433] = {
+["score"] = 73.438,
+["character"] = "Poper - Silvermoon",
 },
 [2096] = {
 ["score"] = 66.092,
@@ -105,8 +41,8 @@ DragonRider_DB = {
 ["score"] = 46.408,
 ["character"] = "Riseandshine - Draenor",
 },
-[2058] = {
-["score"] = 51.296,
+[2098] = {
+["score"] = 56.123,
 ["character"] = "Riseandshine - Draenor",
 },
 [2046] = {
@@ -157,12 +93,12 @@ DragonRider_DB = {
 ["score"] = 63.259,
 ["character"] = "Riseandshine - Draenor",
 },
-[2085] = {
-["score"] = 67.861,
-["character"] = "Riseandshine - Draenor",
-},
 [2070] = {
 ["score"] = 35.239,
+["character"] = "Riseandshine - Draenor",
+},
+[2101] = {
+["score"] = 62.463,
 ["character"] = "Riseandshine - Draenor",
 },
 [2103] = {
@@ -189,18 +125,82 @@ DragonRider_DB = {
 ["score"] = 82.768,
 ["character"] = "Riseandshine - Draenor",
 },
-[2101] = {
-["score"] = 62.463,
+[2085] = {
+["score"] = 67.861,
 ["character"] = "Riseandshine - Draenor",
 },
-[2098] = {
-["score"] = 56.123,
+[2058] = {
+["score"] = 51.296,
 ["character"] = "Riseandshine - Draenor",
 },
-[2433] = {
-["score"] = 73.438,
-["character"] = "Poper - Silvermoon",
+[2083] = {
+["score"] = 68.313,
+["character"] = "Riseandshine - Draenor",
 },
 },
 },
+["speedometerPosX"] = 0,
+["sideArtStyle"] = 1,
+["multiplayer"] = true,
+["speedometerPosPoint"] = 2,
+["themeSpeed"] = 5,
+["useAccountData"] = false,
+["speedBarColor"] = {
+["vigor"] = {
+["a"] = 1,
+["r"] = 0,
+["g"] = 0.5647058823529412,
+["b"] = 0.6078431372549019,
+},
+["slow"] = {
+["a"] = 1,
+["r"] = 0.7686274509803922,
+["g"] = 0.3803921568627451,
+["b"] = 0,
+},
+["over"] = {
+["a"] = 1,
+["r"] = 0.6588235294117647,
+["g"] = 0.3019607843137255,
+["b"] = 0.7647058823529411,
+},
+},
+["barStyle"] = 1,
+["fadeSpeed"] = true,
+["speedometerPosY"] = -4,
+["DynamicFOV"] = true,
+["tempFixes"] = {
+["hideVigor"] = true,
+},
+["vigorProgressStyle"] = 1,
+["muteVigorSound"] = false,
+["speedTextColor"] = {
+["vigor"] = {
+["r"] = 1,
+["g"] = 1,
+["b"] = 1,
+},
+["slow"] = {
+["r"] = 1,
+["g"] = 1,
+["b"] = 1,
+},
+["over"] = {
+["r"] = 1,
+["g"] = 1,
+["b"] = 1,
+},
+},
+["lightningRush"] = true,
+["speedValUnits"] = 5,
+["fadeVigor"] = true,
+["glyphDetector"] = true,
+["themeVigor"] = 1,
+["statistics"] = {
+},
+["mainFrameSize"] = {
+["height"] = 525,
+["width"] = 550,
+},
+["sideArt"] = true,
 }

@@ -1,18 +1,24 @@
 
 SimulationCraftDB = {
 ["profileKeys"] = {
+["Worganizer - Silvermoon"] = "Worganizer - Silvermoon",
+["Poper - Silvermoon"] = "Poper - Silvermoon",
+["Judgerinio - Silvermoon"] = "Judgerinio - Silvermoon",
 ["Shample - Draenor"] = "Shample - Draenor",
-["Greedissgood - Draenor"] = "Greedissgood - Draenor",
 ["Riseandshine - Draenor"] = "Riseandshine - Draenor",
 ["Nexùs - Draenor"] = "Nexùs - Draenor",
-["Poper - Silvermoon"] = "Poper - Silvermoon",
-["Bonebilly - Draenor"] = "Bonebilly - Draenor",
 ["Hydrolic - Silvermoon"] = "Hydrolic - Silvermoon",
+["Greedissgood - Draenor"] = "Greedissgood - Draenor",
+["Bonebilly - Draenor"] = "Bonebilly - Draenor",
 },
 ["profiles"] = {
-["Shample - Draenor"] = {
+["Worganizer - Silvermoon"] = {
 },
-["Greedissgood - Draenor"] = {
+["Poper - Silvermoon"] = {
+},
+["Judgerinio - Silvermoon"] = {
+},
+["Shample - Draenor"] = {
 },
 ["Riseandshine - Draenor"] = {
 ["minimap"] = {
@@ -21,11 +27,11 @@ SimulationCraftDB = {
 },
 ["Nexùs - Draenor"] = {
 },
-["Poper - Silvermoon"] = {
+["Hydrolic - Silvermoon"] = {
+},
+["Greedissgood - Draenor"] = {
 },
 ["Bonebilly - Draenor"] = {
-},
-["Hydrolic - Silvermoon"] = {
 },
 },
 }

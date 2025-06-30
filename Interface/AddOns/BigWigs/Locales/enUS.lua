@@ -1,6 +1,8 @@
 local _, addonTbl = ...
 local L = addonTbl.API:NewLocale("BigWigs", "enUS")
 
+L.tempNew = "NEW: You can now type |cFFFFFFFF/bwtemp|r to see the Mythic+ keystones of your party members."
+
 -- Core.lua
 L.berserk = "Berserk"
 L.berserk_desc = "Show a bar and timed warnings for when the boss will go berserk."
@@ -260,7 +262,29 @@ L.N25 = "Normal 25"
 L.H10 = "Heroic 10"
 L.H25 = "Heroic 25"
 
+-----------------------------------------------------------------------
+-- TOOLS
+-----------------------------------------------------------------------
 
+L.youAreInCombat = "You cannot do that in combat."
+
+-----------------------------------------------------------------------
+-- Keystones.lua
+--
+
+L.keystoneTitle = "BigWigs Keystones"
+L.keystoneHeaderParty = "Party"
+L.keystoneRefreshParty = "Refresh Party"
+L.keystoneHeaderGuild = "Guild"
+L.keystoneRefreshGuild = "Refresh Guild"
+L.keystoneLevelTooltip = "Keystone level: |cFFFFFFFF%s|r"
+L.keystoneMapTooltip = "Dungeon: |cFFFFFFFF%s|r"
+L.keystoneRatingTooltip = "Mythic+ rating: |cFFFFFFFF%d|r"
+L.keystoneHiddenTooltip = "The player has chosen to hide this information."
+L.keystoneTabOnline = "Online"
+L.keystoneTabAlts = "Alts"
+L.keystoneTabTeleports = "Teleports"
+L.keystoneHeaderMyCharacters = "My Characters"
 
 -----------------------------------------------------------------------
 -- PLUGINS
@@ -280,6 +304,7 @@ L.sizeDesc = "Normally you set the size by dragging the anchor. If you need an e
 L.fontSizeDesc = "Adjust the font size using the slider or type the value into the box which has a much higher maximum of 200."
 L.disabled = "Disabled"
 L.disableDesc = "You are about to disable the feature '%s' which is |cffff4411not recommended|r.\n\nAre you sure you want to do this?"
+L.keybinding = "Keybinding"
 
 -- Anchor Points / Grow Directions
 L.UP = "Up"
@@ -687,6 +712,8 @@ L.sendPull = "Sending a pull timer to your group."
 L.wrongPullFormat = "Invalid pull timer. A correct example is: /pull 5"
 L.countdownBegins = "Begin Countdown"
 L.countdownBegins_desc = "Choose how much time should be remaining on the pull timer (in seconds) when the countdown begins."
+L.pullExplainer = "\n|cFF33FF99/pull|r will start a normal pull timer.\n|cFF33FF99/pull 7|r will start a 7 second pull timer, you can use any number.\nAlternatively, you can also set a keybinding below.\n\n"
+L.pullKeybindingDesc = "Choose a keybinding for starting a pull timer."
 
 -----------------------------------------------------------------------
 -- RaidIcon.lua

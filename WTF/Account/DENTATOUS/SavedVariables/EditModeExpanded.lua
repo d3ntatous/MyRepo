@@ -1,6 +1,108 @@
 
 EditModeExpandedADB = {
 ["char"] = {
+["Worganizer - Silvermoon"] = {
+["EssentialCooldownViewerSpellIDs"] = {
+[""] = {
+-2,
+-1,
+},
+},
+["UtilityCooldownViewerSpellIDs"] = {
+[""] = {
+-2,
+-1,
+},
+},
+},
+["Poper - Silvermoon"] = {
+["BuffBarCooldownViewerSpellIDs"] = {
+["11873-43579-"] = {
+11873,
+43579,
+},
+},
+["EssentialCooldownViewerSpellIDs"] = {
+["11852-11853-11861-43337-11860-11862-"] = {
+11852,
+11853,
+11861,
+43337,
+11860,
+11862,
+-2,
+-1,
+},
+},
+["BuffIconCooldownViewerSpellIDs"] = {
+["42743-42818-42858-42898-42899-42900-"] = {
+42743,
+42818,
+42858,
+42898,
+42899,
+42900,
+},
+},
+["UtilityCooldownViewerSpellIDs"] = {
+["37315-37329-37343-37357-37371-37385-37399-37413-37427-37553-37441-37455-37469-37497-"] = {
+37315,
+37329,
+37343,
+37357,
+37371,
+37385,
+37399,
+37413,
+37427,
+37553,
+37441,
+37455,
+37469,
+37497,
+-2,
+-1,
+},
+},
+},
+["Judgerinio - Silvermoon"] = {
+["EssentialCooldownViewerSpellIDs"] = {
+["19397-19393-19403-19400-19395-19392-52352-"] = {
+19397,
+19393,
+19403,
+19400,
+19395,
+19392,
+52352,
+-2,
+-1,
+},
+},
+["BuffIconCooldownViewerSpellIDs"] = {
+["22622-"] = {
+22622,
+},
+},
+["UtilityCooldownViewerSpellIDs"] = {
+["19407-22244-19410-19412-19409-22243-19411-22360-22390-22361-19427-46302-"] = {
+19407,
+22244,
+19410,
+19412,
+19409,
+22243,
+19411,
+22360,
+22390,
+22361,
+19427,
+46302,
+-2,
+-1,
+},
+},
+},
 ["Shample - Draenor"] = {
 ["BuffBarCooldownViewerSpellIDs"] = {
 ["13936-"] = {
@@ -115,16 +217,16 @@ EditModeExpandedADB = {
 10062,
 754,
 },
-["10062-754-"] = {
-10062,
-754,
-},
 [56851622] = {
 23652,
 24146,
 24245,
 24043,
 44888,
+},
+["10062-754-"] = {
+10062,
+754,
 },
 },
 ["UtilityCooldownViewerSpellIDs"] = {
@@ -209,6 +311,24 @@ EditModeExpandedADB = {
 -1,
 13020,
 },
+[56851622] = {
+13382,
+13385,
+13706,
+13708,
+13384,
+13386,
+13388,
+13390,
+13389,
+13705,
+13392,
+13391,
+13387,
+13445,
+-2,
+-1,
+},
 ["14839-16773-14920-14948-15030-15118-15149-15736-15950-15981-16565-16114-16211-16864-16503-16534-"] = {
 14839,
 16773,
@@ -229,148 +349,6 @@ EditModeExpandedADB = {
 [-1] = -1,
 [-2] = -2,
 },
-[56851622] = {
-13382,
-13385,
-13706,
-13708,
-13384,
-13386,
-13388,
-13390,
-13389,
-13705,
-13392,
-13391,
-13387,
-13445,
--2,
--1,
-},
-},
-},
-["Greedissgood - Draenor"] = {
-["BuffBarCooldownViewerSpellIDs"] = {
-["18794-"] = {
-18794,
-},
-},
-["EssentialCooldownViewerSpellIDs"] = {
-["34924-34925-"] = {
-34924,
-34925,
--2,
--1,
-},
-["18860-35028-35029-18799-18816-18812-33527-"] = {
-18860,
-35028,
-35029,
-18799,
-18816,
-18812,
-33527,
--2,
--1,
-},
-["34924-34925-9943-9931-9948-9944-18763-"] = {
-34924,
-34925,
-9943,
-9931,
-9948,
-9944,
-18763,
--2,
--1,
-},
-["18860-35028-35029-18799-18816-18812-33527-63107-"] = {
-18860,
-35028,
-35029,
-18799,
-18816,
-18812,
-33527,
-63107,
--2,
--1,
-},
-},
-["BuffIconCooldownViewerSpellIDs"] = {
-["9957-9951-9950-"] = {
-9957,
-9951,
-9950,
-},
-["18797-18796-18817-18818-"] = {
-18797,
-18796,
-18817,
-18818,
-},
-["9927-9928-9957-9929-9952-9950-"] = {
-9927,
-9928,
-9957,
-9929,
-9952,
-9950,
-},
-["9952-9950-"] = {
-9952,
-9950,
-},
-},
-["UtilityCooldownViewerSpellIDs"] = {
-["18804-18800-18798-18803-18807-18802-18801-63185-"] = {
-18804,
-18800,
-18798,
-18803,
-18807,
-18802,
-18801,
-63185,
--2,
--1,
-},
-["9936-9941-9932-9930-9935-9939-9934-9933-9937-"] = {
-9936,
-9941,
-9932,
-9930,
-9935,
-9939,
-9934,
-9933,
-9937,
--2,
--1,
-},
-["18804-18800-18798-18803-18807-18802-18801-"] = {
-18804,
-18800,
-18798,
-18803,
-18807,
-18802,
-18801,
--2,
--1,
-},
-["9936-9932-9930-9935-9942-9939-9934-9933-"] = {
-9936,
-9932,
-9930,
-9935,
-9942,
-9939,
-9934,
-9933,
--2,
--1,
-},
 },
 },
 ["Riseandshine - Draenor"] = {
@@ -389,9 +367,28 @@ EditModeExpandedADB = {
 4158,
 56188,
 },
+["11464-25015-25741-"] = {
+11464,
+25015,
+25741,
+},
 },
 ["EssentialCooldownViewerSpellIDs"] = {
 [""] = {
+-2,
+-1,
+},
+[256] = {
+3194,
+2231,
+2232,
+2235,
+2234,
+4551,
+2584,
+2233,
+2228,
+2230,
 -2,
 -1,
 },
@@ -409,20 +406,6 @@ EditModeExpandedADB = {
 [-2] = -2,
 [-1] = -1,
 },
-[256] = {
-3194,
-2231,
-2232,
-2235,
-2234,
-4551,
-2584,
-2233,
-2228,
-2230,
--2,
--1,
-},
 ["3194-2231-2232-2235-2234-4551-2584-2233-2228-2230-"] = {
 3194,
 2231,
@@ -437,8 +420,40 @@ EditModeExpandedADB = {
 [-2] = -2,
 [-1] = -1,
 },
+["8194-24723-24885-11348-8197-8198-8196-7483-8204-8193-"] = {
+8194,
+24723,
+24885,
+11348,
+8197,
+8198,
+8196,
+7483,
+8204,
+8193,
+-2,
+-1,
+},
+["8194-24723-11348-8197-8198-8196-7483-8204-8193-"] = {
+8194,
+24723,
+11348,
+8197,
+8198,
+8196,
+7483,
+8204,
+8193,
+-2,
+-1,
+},
 },
 ["BuffIconCooldownViewerSpellIDs"] = {
+["10301-10327-24788-"] = {
+10301,
+10327,
+24788,
+},
 [56030000] = {
 55766,
 -428930,
@@ -466,6 +481,19 @@ EditModeExpandedADB = {
 -2,
 -1,
 },
+[256] = {
+4646,
+4742,
+3143,
+4070,
+4071,
+3091,
+3117,
+2229,
+4073,
+-2,
+-1,
+},
 [56030000] = {
 4646,
 4742,
@@ -479,16 +507,19 @@ EditModeExpandedADB = {
 [-2] = -2,
 [-1] = -1,
 },
-[256] = {
-4646,
-4742,
-3143,
-4070,
-4071,
-3091,
-3117,
-2229,
-4073,
+["7478-8199-8201-7479-30745-7481-7476-8200-8202-7484-7480-7477-"] = {
+7478,
+8199,
+8201,
+7479,
+30745,
+7481,
+7476,
+8200,
+8202,
+7484,
+7480,
+7477,
 -2,
 -1,
 },
@@ -524,6 +555,16 @@ EditModeExpandedADB = {
 -2,
 -1,
 },
+["11733-11852-11853-11861-11860-11862-"] = {
+11733,
+11852,
+11853,
+11861,
+11860,
+11862,
+-2,
+-1,
+},
 },
 ["BuffIconCooldownViewerSpellIDs"] = {
 ["42743-42818-42858-42898-42899-42900-"] = {
@@ -533,6 +574,15 @@ EditModeExpandedADB = {
 42898,
 42899,
 42900,
+},
+["42743-42818-42858-42898-42899-42900-43655-"] = {
+42743,
+42818,
+42858,
+42898,
+42899,
+42900,
+43655,
 },
 },
 ["UtilityCooldownViewerSpellIDs"] = {
@@ -552,39 +602,7 @@ EditModeExpandedADB = {
 -2,
 -1,
 },
-},
-},
-["Poper - Silvermoon"] = {
-["BuffBarCooldownViewerSpellIDs"] = {
-["11873-43579-"] = {
-11873,
-43579,
-},
-},
-["EssentialCooldownViewerSpellIDs"] = {
-["11852-11853-11861-43337-11860-11862-"] = {
-11852,
-11853,
-11861,
-43337,
-11860,
-11862,
--2,
--1,
-},
-},
-["BuffIconCooldownViewerSpellIDs"] = {
-["42743-42818-42858-42898-42899-42900-"] = {
-42743,
-42818,
-42858,
-42898,
-42899,
-42900,
-},
-},
-["UtilityCooldownViewerSpellIDs"] = {
-["37315-37329-37343-37357-37371-37385-37399-37413-37427-37553-37441-37455-37469-37497-"] = {
+["37315-37329-37343-37357-37371-37385-37399-37553-37441-37455-37469-37483-37497-"] = {
 37315,
 37329,
 37343,
@@ -592,70 +610,12 @@ EditModeExpandedADB = {
 37371,
 37385,
 37399,
-37413,
-37427,
 37553,
 37441,
 37455,
 37469,
+37483,
 37497,
--2,
--1,
-},
-},
-},
-["Hydrolic - Silvermoon"] = {
-["BuffBarCooldownViewerSpellIDs"] = {
-["33157-33121-30039-30040-33227-"] = {
-33157,
-33121,
-30039,
-30040,
-33227,
-},
-},
-["EssentialCooldownViewerSpellIDs"] = {
-["29968-29969-29970-29971-29973-29974-29976-32978-33014-33015-"] = {
-29968,
-29969,
-29970,
-29971,
-29973,
-29974,
-29976,
-32978,
-33014,
-33015,
--2,
--1,
-},
-},
-["BuffIconCooldownViewerSpellIDs"] = {
-["30037-30038-32833-60950-61710-"] = {
-30037,
-30038,
-32833,
-60950,
-61710,
-},
-},
-["UtilityCooldownViewerSpellIDs"] = {
-["29980-29979-29978-29986-29993-29990-29983-32755-29982-29977-29988-29989-29987-29985-32762-"] = {
-29980,
-29979,
-29978,
-29986,
-29993,
-29990,
-29983,
-32755,
-29982,
-29977,
-29988,
-29989,
-29987,
-29985,
-32762,
 -2,
 -1,
 },
@@ -674,6 +634,10 @@ EditModeExpandedADB = {
 },
 },
 ["EssentialCooldownViewerSpellIDs"] = {
+[""] = {
+-2,
+-1,
+},
 [55229303] = {
 17294,
 17292,
@@ -771,33 +735,416 @@ EditModeExpandedADB = {
 -2,
 -1,
 },
+[""] = {
+-2,
+-1,
+},
+},
+},
+["Greedissgood - Draenor"] = {
+["BuffBarCooldownViewerSpellIDs"] = {
+["18794-"] = {
+18794,
+},
+},
+["EssentialCooldownViewerSpellIDs"] = {
+["18860-35028-35029-18799-18812-33527-"] = {
+18860,
+35028,
+35029,
+18799,
+18812,
+33527,
+-2,
+-1,
+},
+["18860-35028-35029-18799-18816-18812-33527-"] = {
+18860,
+35028,
+35029,
+18799,
+18816,
+18812,
+33527,
+-2,
+-1,
+},
+["18860-35028-35029-18799-18816-18812-33527-63107-"] = {
+18860,
+35028,
+35029,
+18799,
+18816,
+18812,
+33527,
+63107,
+-2,
+-1,
+},
+["18860-35028-35029-18792-18814-18811-18812-33527-"] = {
+18860,
+35028,
+35029,
+18792,
+18814,
+18811,
+18812,
+33527,
+-2,
+-1,
+},
+["18860-35028-35029-18799-18816-18814-18811-18812-33527-"] = {
+18860,
+35028,
+35029,
+18799,
+18816,
+18814,
+18811,
+18812,
+33527,
+-2,
+-1,
+},
+["18860-35028-35029-18799-18792-18814-18812-33527-"] = {
+18860,
+35028,
+35029,
+18799,
+18792,
+18814,
+18812,
+33527,
+-2,
+-1,
+},
+["18860-35028-35029-18799-18792-18814-18811-18812-33527-"] = {
+18860,
+35028,
+35029,
+18799,
+18792,
+18814,
+18811,
+18812,
+33527,
+-2,
+-1,
+},
+["18860-35028-63512-18792-18814-18811-18812-33527-"] = {
+18860,
+35028,
+18792,
+18814,
+18811,
+63512,
+18812,
+33527,
+[-1] = -1,
+[-2] = -2,
+},
+["34924-34925-9943-9931-9948-9944-18763-"] = {
+34924,
+34925,
+9943,
+9931,
+9948,
+9944,
+18763,
+-2,
+-1,
+},
+["34924-34925-"] = {
+34924,
+34925,
+-2,
+-1,
+},
+["18860-35028-35029-18799-18814-18811-18812-33527-"] = {
+18860,
+35028,
+35029,
+18799,
+18814,
+18811,
+18812,
+33527,
+-2,
+-1,
+},
+},
+["BuffIconCooldownViewerSpellIDs"] = {
+["9927-9928-9957-9929-9952-9950-"] = {
+9927,
+9928,
+9957,
+9929,
+9952,
+9950,
+},
+["18815-18797-18796-18825-18795-18817-18820-18818-"] = {
+18815,
+18797,
+18796,
+18825,
+18795,
+18817,
+18820,
+18818,
+},
+["18797-18796-18817-18818-"] = {
+18797,
+18796,
+18817,
+18818,
+},
+["18797-18796-18825-18795-18817-18820-18818-"] = {
+18797,
+18796,
+18825,
+18795,
+18817,
+18820,
+18818,
+},
+["18815-18797-18796-18825-18817-18820-18818-"] = {
+18815,
+18797,
+18796,
+18825,
+18817,
+18820,
+18818,
+},
+["9957-9951-9950-"] = {
+9957,
+9951,
+9950,
+},
+["18815-18797-18796-18795-18817-18820-18818-"] = {
+18815,
+18797,
+18796,
+18795,
+18817,
+18820,
+18818,
+},
+["9952-9950-"] = {
+9952,
+9950,
+},
+["9927-9928-9957-9952-9950-"] = {
+9927,
+9928,
+9957,
+9952,
+9950,
+},
+},
+["UtilityCooldownViewerSpellIDs"] = {
+["18804-18800-18798-18803-18807-18802-18801-63185-"] = {
+18804,
+18800,
+18798,
+18803,
+18807,
+18802,
+18801,
+63185,
+-2,
+-1,
+},
+["9936-9941-9932-9930-9935-9939-9934-9933-9937-"] = {
+9936,
+9941,
+9932,
+9930,
+9935,
+9939,
+9934,
+9933,
+9937,
+-2,
+-1,
+},
+["9936-9932-9930-9935-9942-9939-9934-9933-"] = {
+9936,
+9932,
+9930,
+9935,
+9942,
+9939,
+9934,
+9933,
+-2,
+-1,
+},
+["18804-18809-18800-18798-18803-18807-18802-18801-18805-"] = {
+18804,
+18809,
+18800,
+18798,
+18803,
+18807,
+[-18801] = 18801,
+[-18802] = 18802,
+[-2] = -2,
+[-18805] = 18805,
+[-1] = -1,
+},
+["18804-18800-18798-18803-18807-18802-18801-"] = {
+18804,
+18800,
+18798,
+18803,
+18807,
+18802,
+18801,
+-2,
+-1,
+},
+["18804-18809-18800-18798-18807-18802-18801-18805-"] = {
+18804,
+18809,
+18800,
+18798,
+18807,
+18802,
+18801,
+18805,
+-2,
+-1,
+},
+},
+},
+["Hydrolic - Silvermoon"] = {
+["BuffBarCooldownViewerSpellIDs"] = {
+["33157-33121-30039-30040-33227-"] = {
+33157,
+33121,
+30039,
+30040,
+33227,
+},
+["33157-33121-30039-30040-33227-33365-"] = {
+33157,
+33121,
+30039,
+30040,
+33227,
+33365,
+},
+},
+["EssentialCooldownViewerSpellIDs"] = {
+["29968-29969-29970-29971-29973-29974-29976-32978-33014-33015-"] = {
+29968,
+29969,
+29970,
+29971,
+29973,
+29974,
+29976,
+32978,
+33014,
+33015,
+-2,
+-1,
+},
+},
+["BuffIconCooldownViewerSpellIDs"] = {
+["30037-30038-32833-60950-61710-"] = {
+30037,
+30038,
+32833,
+60950,
+61710,
+},
+["30037-30038-32833-60950-32869-61710-"] = {
+30037,
+30038,
+32833,
+60950,
+32869,
+61710,
+},
+},
+["UtilityCooldownViewerSpellIDs"] = {
+["29980-29979-29978-29986-29993-29990-29983-32755-29982-29977-29988-29989-29987-29985-32757-32759-32762-"] = {
+29980,
+29979,
+29978,
+29986,
+29993,
+29990,
+29983,
+32755,
+29982,
+29977,
+29988,
+29989,
+29987,
+29985,
+32757,
+32759,
+32762,
+-2,
+-1,
+},
+["29980-29979-29978-29986-29993-29990-29983-32755-29982-29977-29988-29989-29987-29985-32762-"] = {
+29980,
+29979,
+29978,
+29986,
+29993,
+29990,
+29983,
+32755,
+29982,
+29977,
+29988,
+29989,
+29987,
+29985,
+32762,
+-2,
+-1,
+},
 },
 },
 },
 ["global"] = {
 ["PetActionBar"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 },
 ["2-Nexùs-Draenor-Nexus"] = {
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 },
@@ -805,7 +1152,21 @@ EditModeExpandedADB = {
 },
 ["UtilityCooldownViewer"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["y"] = 437.6666564941406,
+["x"] = 1541.49951171875,
+["settings"] = {
+},
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+["y"] = 1199,
+["x"] = 0,
+["settings"] = {
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 ["y"] = 1199,
 ["x"] = 0,
 ["settings"] = {
@@ -814,18 +1175,26 @@ EditModeExpandedADB = {
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 ["y"] = 1199,
 ["x"] = 0,
+["settings"] = {
+},
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["y"] = 437.6666564941406,
 ["x"] = 1541.49951171875,
 ["settings"] = {
 },
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
+["settings"] = {
 },
-["0-Classic"] = {
+},
+["1-Laptop"] = {
+["y"] = 1199,
+["x"] = 0,
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 ["y"] = 67.70000457763672,
@@ -839,47 +1208,147 @@ EditModeExpandedADB = {
 ["settings"] = {
 },
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["y"] = 1199,
 ["x"] = 0,
-},
-["0-Modern"] = {
-},
-["2-Poper-Silvermoon-popMeow"] = {
-["settings"] = {
-},
-},
-["2-Greedissgood-Draenor-2"] = {
-["y"] = 1199,
-["x"] = 0,
-},
-},
-},
-["MultiBarBottomLeft"] = {
-["profiles"] = {
-["2-Bonebilly-Draenor-Warrior"] = {
-},
-["2-Hydrolic-Silvermoon-Hyrdolic"] = {
-},
-["2-Greedissgood-Draenor-Lock"] = {
-},
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
-},
-["2-Poper-Silvermoon-Rogue"] = {
 },
 ["0-Classic"] = {
 },
-["2-Shample-Draenor-shample"] = {
-},
-["2-Nexùs-Draenor-Nexus"] = {
-},
-["2-Greedissgood-Draenor-Greedisgood"] = {
-},
-["0-Modern"] = {
-},
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
+["y"] = 1199,
+["x"] = 0,
+},
+},
+},
+["GameMenuFrame"] = {
+["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["defaultScale"] = 1,
+["defaultY"] = 348.9999694824219,
+["defaultX"] = 1305.333129882813,
+["x"] = 1305.333129882813,
+["enabled"] = false,
+["y"] = 348.9999694824219,
+["clamped"] = 1,
+},
+["0-Modern"] = {
+["enabled"] = false,
+["defaultY"] = 366.9999694824219,
+["defaultX"] = 1305.333129882813,
+["x"] = 1305.333129882813,
+["y"] = 366.9999694824219,
+["defaultScale"] = 1,
+["clamped"] = 1,
+},
+["2-Bonebilly-Draenor-Warrior"] = {
+["defaultScale"] = 1,
+["defaultY"] = 348.9999694824219,
+["defaultX"] = 1305.333129882813,
+["x"] = 1305.333129882813,
+["enabled"] = false,
+["y"] = 348.9999694824219,
+["clamped"] = 1,
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["enabled"] = false,
+["defaultY"] = 348.9999694824219,
+["defaultX"] = 1305.333129882813,
+["x"] = 1305.333129882813,
+["defaultScale"] = 1,
+["y"] = 348.9999694824219,
+["clamped"] = 1,
+},
+["2-Hydrolic-Silvermoon-Hyrdolic"] = {
+["defaultScale"] = 1,
+["defaultY"] = 348.9999694824219,
+["defaultX"] = 1305.333129882813,
+["x"] = 1305.333129882813,
+["enabled"] = false,
+["y"] = 348.9999694824219,
+["clamped"] = 1,
+},
+["2-Greedissgood-Draenor-Lock"] = {
+["enabled"] = false,
+},
+["2-Riseandshine-Draenor-Shadow"] = {
+["defaultScale"] = 1,
+["x"] = 1305.333129882813,
+["defaultX"] = 1305.333129882813,
+["defaultY"] = 348.9999694824219,
+["y"] = 348.9999694824219,
+["enabled"] = false,
+["clamped"] = 1,
+},
+["2-Poper-Silvermoon-popMeow"] = {
+["defaultScale"] = 1,
+["defaultY"] = 348.9999694824219,
+["defaultX"] = 1305.333129882813,
+["x"] = 1305.333129882813,
+["y"] = 348.9999694824219,
+["enabled"] = false,
+["clamped"] = 1,
+},
+["1-Laptop"] = {
+["enabled"] = false,
+["defaultY"] = 348.9999694824219,
+["defaultX"] = 1305.333129882813,
+["x"] = 1305.333129882813,
+["defaultScale"] = 1,
+["y"] = 348.9999694824219,
+["clamped"] = 1,
+},
+["1-MyDeafault"] = {
+["enabled"] = false,
+["defaultY"] = 348.9999694824219,
+["defaultX"] = 1305.333129882813,
+["x"] = 1305.333129882813,
+["y"] = 348.9999694824219,
+["defaultScale"] = 1,
+["clamped"] = 1,
+},
+["2-Shample-Draenor-shample"] = {
+["defaultScale"] = 1,
+["defaultY"] = 348.9999694824219,
+["defaultX"] = 1305.333129882813,
+["x"] = 1305.333129882813,
+["enabled"] = false,
+["y"] = 348.9999694824219,
+["clamped"] = 1,
+},
+["2-Nexùs-Draenor-Nexus"] = {
+["defaultScale"] = 1,
+["defaultY"] = 348.9999694824219,
+["defaultX"] = 1305.333129882813,
+["x"] = 1305.333129882813,
+["y"] = 366.9999694824219,
+["enabled"] = false,
+["clamped"] = 1,
+},
+["1-Default"] = {
+["enabled"] = false,
+["defaultY"] = 348.9999694824219,
+["defaultX"] = 1305.333129882813,
+["x"] = 1305.333129882813,
+["y"] = 348.9999694824219,
+["defaultScale"] = 1,
+["clamped"] = 1,
+},
+["0-Classic"] = {
+["enabled"] = false,
+},
+["2-Poper-Silvermoon-Rogue"] = {
+["enabled"] = false,
+},
+["2-Greedissgood-Draenor-2"] = {
+["defaultScale"] = 1,
+["defaultY"] = 348.9999694824219,
+["defaultX"] = 1305.333129882813,
+["x"] = 1305.333129882813,
+["enabled"] = false,
+["y"] = 348.9999694824219,
+["clamped"] = 1,
 },
 },
 },
@@ -900,8 +1369,8 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 949.9332275390625,
 ["x"] = 1379.931762695313,
-["enabled"] = true,
 ["y"] = 485.0000915527344,
+["enabled"] = true,
 ["clamped"] = 1,
 },
 ["0-Classic"] = {
@@ -915,7 +1384,7 @@ EditModeExpandedADB = {
 },
 },
 },
-["0-Modern"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 ["enabled"] = true,
 ["settings"] = {
 [12] = {
@@ -937,7 +1406,7 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["0-Modern"] = {
 ["enabled"] = true,
 ["settings"] = {
 [12] = {
@@ -950,31 +1419,107 @@ EditModeExpandedADB = {
 },
 },
 },
-["MultiBarLeft"] = {
+["PetFrame"] = {
+["settings"] = {
+[12] = {
+},
+},
 ["profiles"] = {
-["2-Bonebilly-Draenor-Warrior"] = {
-},
-["2-Hydrolic-Silvermoon-Hyrdolic"] = {
-},
-["2-Greedissgood-Draenor-Lock"] = {
-},
 ["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["settings"] = {
+[12] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
 },
-["0-Classic"] = {
 },
-["2-Shample-Draenor-shample"] = {
+["0-Modern"] = {
+["settings"] = {
+[12] = {
 },
-["2-Nexùs-Draenor-Nexus"] = {
+},
+},
+["2-Bonebilly-Draenor-Warrior"] = {
+["settings"] = {
+[12] = {
+},
+},
 },
 ["2-Greedissgood-Draenor-Greedisgood"] = {
+["settings"] = {
+[12] = {
 },
-["0-Modern"] = {
+},
+},
+["2-Hydrolic-Silvermoon-Hyrdolic"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Greedissgood-Draenor-Lock"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Riseandshine-Draenor-Shadow"] = {
+["settings"] = {
+[12] = {
+},
+},
 },
 ["2-Poper-Silvermoon-popMeow"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["1-Laptop"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["1-MyDeafault"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Shample-Draenor-shample"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Nexùs-Draenor-Nexus"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["1-Default"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Classic"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Poper-Silvermoon-Rogue"] = {
+["settings"] = {
+[12] = {
+},
+},
 },
 ["2-Greedissgood-Draenor-2"] = {
+["settings"] = {
+[12] = {
+},
+},
 },
 },
 },
@@ -988,7 +1533,37 @@ EditModeExpandedADB = {
 },
 },
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["y"] = 96,
+["x"] = 632.3331909179688,
+["settings"] = {
+[17] = {
+["HideDD"] = {
+},
+},
+},
+},
+["0-Modern"] = {
+["y"] = 96,
+["x"] = 632.3331909179688,
+["settings"] = {
+[17] = {
+["HideDD"] = {
+},
+},
+},
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+["y"] = 96,
+["x"] = 632.3331909179688,
+["settings"] = {
+[17] = {
+["HideDD"] = {
+},
+},
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 ["y"] = 96,
 ["x"] = 632.3331909179688,
 ["settings"] = {
@@ -1018,7 +1593,7 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["y"] = 96,
 ["x"] = 632.3331909179688,
 ["settings"] = {
@@ -1028,9 +1603,33 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
+["y"] = 96,
+["x"] = 632.3331909179688,
+["settings"] = {
+[17] = {
+["HideDD"] = {
 },
-["0-Classic"] = {
+},
+},
+},
+["1-Laptop"] = {
+["settings"] = {
+[17] = {
+["HideDD"] = {
+},
+},
+},
+},
+["1-MyDeafault"] = {
+["y"] = 96,
+["x"] = 632.3331909179688,
+["settings"] = {
+[17] = {
+["HideDD"] = {
+},
+},
+},
 },
 ["2-Shample-Draenor-shample"] = {
 ["y"] = 96,
@@ -1052,7 +1651,7 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["y"] = 96,
 ["x"] = 632.3331909179688,
 ["settings"] = {
@@ -1062,25 +1661,9 @@ EditModeExpandedADB = {
 },
 },
 },
-["0-Modern"] = {
-["y"] = 96,
-["x"] = 632.3331909179688,
-["settings"] = {
-[17] = {
-["HideDD"] = {
+["0-Classic"] = {
 },
-},
-},
-},
-["2-Poper-Silvermoon-popMeow"] = {
-["y"] = 96,
-["x"] = 632.3331909179688,
-["settings"] = {
-[17] = {
-["HideDD"] = {
-},
-},
-},
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 ["y"] = 96,
@@ -1109,8 +1692,8 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 758.8181762695312,
 ["x"] = 758.8181762695312,
-["y"] = 424.8180541992188,
 ["enabled"] = true,
+["y"] = 424.8180541992188,
 ["clamped"] = 1,
 },
 ["2-Greedissgood-Draenor-Lock"] = {
@@ -1137,17 +1720,35 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 985.3333129882812,
 ["x"] = 985.3333129882812,
-["y"] = 247.0000152587891,
 ["enabled"] = true,
+["y"] = 247.0000152587891,
 ["clamped"] = 1,
 },
 },
 },
 ["MainStatusTrackingBarContainer"] = {
+["y"] = 0,
+["x"] = 1147.833251953125,
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["y"] = 5.00005054473877,
+["x"] = 1147.800048828125,
+["settings"] = {
+},
+},
+["0-Modern"] = {
+["settings"] = {
+},
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
 ["y"] = 0,
 ["x"] = 1243.400024414063,
+["settings"] = {
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["y"] = 11.4999942779541,
+["x"] = 1147.833251953125,
 ["settings"] = {
 },
 },
@@ -1159,15 +1760,25 @@ EditModeExpandedADB = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["y"] = 5.00005054473877,
 ["x"] = 1147.800048828125,
 ["settings"] = {
 },
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
+["y"] = 0,
+["x"] = 1147.833251953125,
+["settings"] = {
 },
-["0-Classic"] = {
+},
+["1-Laptop"] = {
+["y"] = 14.19999885559082,
+["x"] = 1147.833251953125,
+["settings"] = {
+},
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 ["y"] = 9.999977111816406,
@@ -1181,117 +1792,304 @@ EditModeExpandedADB = {
 ["settings"] = {
 },
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
-["y"] = 11.4999942779541,
+["1-Default"] = {
+["y"] = 14.19999885559082,
 ["x"] = 1147.833251953125,
 ["settings"] = {
 },
-},
-["0-Modern"] = {
-},
-["2-Poper-Silvermoon-popMeow"] = {
-["y"] = 0,
-["x"] = 1147.833251953125,
-["settings"] = {
-},
-},
-["2-Greedissgood-Draenor-2"] = {
-["y"] = 0,
-["x"] = 1147.833251953125,
-["settings"] = {
-},
-},
-},
-},
-["MultiBar7"] = {
-["profiles"] = {
-["2-Bonebilly-Draenor-Warrior"] = {
-},
-["2-Hydrolic-Silvermoon-Hyrdolic"] = {
-},
-["2-Greedissgood-Draenor-Lock"] = {
-},
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
-},
-["2-Poper-Silvermoon-Rogue"] = {
 },
 ["0-Classic"] = {
 },
-["2-Shample-Draenor-shample"] = {
-},
-["2-Nexùs-Draenor-Nexus"] = {
-},
-["2-Greedissgood-Draenor-Greedisgood"] = {
-},
-["0-Modern"] = {
-},
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
+["y"] = 0,
+["x"] = 1147.833251953125,
+["settings"] = {
 },
 },
 },
-["TotemFrame"] = {
-["defaultScale"] = 1,
+},
+["PlayerFrame"] = {
+["settings"] = {
+[12] = {
+},
+},
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["settings"] = {
+[12] = {
+1,
+["HidePermanently"] = 0,
+["HideIcons"] = 0,
+["HideName"] = 1,
+["HideLevel"] = 1,
+["HideTextures"] = 1,
+["HideHealth"] = 1,
+},
+},
+},
+["0-Modern"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Bonebilly-Draenor-Warrior"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Hydrolic-Silvermoon-Hyrdolic"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Greedissgood-Draenor-Lock"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Riseandshine-Draenor-Shadow"] = {
+["settings"] = {
+[12] = {
+1,
+["HidePermanently"] = 0,
+["HideIcons"] = 0,
+["HideName"] = 1,
+["HideLevel"] = 1,
+["HideTextures"] = 1,
+["HideHealth"] = 1,
+},
+},
+},
+["2-Poper-Silvermoon-popMeow"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["1-Laptop"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["1-MyDeafault"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
 ["2-Shample-Draenor-shample"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Nexùs-Draenor-Nexus"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["1-Default"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Classic"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Poper-Silvermoon-Rogue"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Greedissgood-Draenor-2"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+},
+},
+["QuickJoinToastButton"] = {
 ["defaultScale"] = 1,
-["defaultY"] = 447.800048828125,
-["defaultX"] = 1000.433288574219,
-["x"] = 1000.433288574219,
-["y"] = 447.800048828125,
+["defaultY"] = 268,
+["clamped"] = 1,
+["defaultX"] = -1.999997019767761,
+["y"] = 268,
 ["enabled"] = true,
+["x"] = -1.999997019767761,
+["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["defaultScale"] = 1,
+["defaultY"] = 223,
+["settings"] = {
+},
+["defaultX"] = 1.000004291534424,
+["x"] = 6.00000524520874,
+["enabled"] = true,
+["y"] = 239.6665649414063,
+["clamped"] = 1,
+},
+["0-Modern"] = {
+["enabled"] = true,
+["defaultY"] = 268,
+["defaultX"] = -1.999997019767761,
+},
+["2-Bonebilly-Draenor-Warrior"] = {
+["defaultScale"] = 1,
+["defaultY"] = 205.0000152587891,
+["defaultX"] = 0,
+["x"] = 0,
+["enabled"] = true,
+["y"] = 205.0000152587891,
 ["clamped"] = 1,
 },
 ["2-Greedissgood-Draenor-Greedisgood"] = {
-["enabled"] = true,
-["defaultY"] = 490.5998840332031,
-["settings"] = {
-},
-["defaultX"] = 982.5,
-["x"] = 495.8331298828125,
-["y"] = 455.6000366210938,
 ["defaultScale"] = 1,
+["defaultY"] = 223,
+["defaultX"] = 1.000004291534424,
+["x"] = 1.000004291534424,
+["enabled"] = true,
+["y"] = 223,
 ["clamped"] = 1,
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
-["enabled"] = true,
-["defaultY"] = 309.2998657226563,
-["defaultX"] = 1168.799926757813,
-["x"] = 1168.799926757813,
-["y"] = 309.2998657226563,
 ["defaultScale"] = 1,
+["defaultY"] = 205.0000152587891,
+["defaultX"] = 9.999996185302734,
+["x"] = 9.999996185302734,
+["enabled"] = true,
+["y"] = 205.0000152587891,
 ["clamped"] = 1,
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 ["enabled"] = true,
+["defaultY"] = 268,
+["defaultX"] = -1.999997019767761,
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["defaultScale"] = 1,
-["defaultY"] = 522.9999389648438,
+["defaultY"] = 223,
 ["settings"] = {
-[10] = 1,
 },
-["defaultX"] = 1088.333251953125,
-["x"] = 950.4331665039062,
-["y"] = 465.9665832519531,
+["defaultX"] = 1.000004291534424,
+["x"] = 6.00000524520874,
+["y"] = 239.6665649414063,
 ["enabled"] = true,
 ["clamped"] = 1,
 },
+["2-Poper-Silvermoon-popMeow"] = {
+["y"] = 268,
+["x"] = -1.999997019767761,
+["defaultX"] = -1.999997019767761,
+["defaultY"] = 268,
+["enabled"] = true,
+},
+["1-Laptop"] = {
+["defaultScale"] = 1,
+["defaultY"] = 210.0000152587891,
+["defaultX"] = 0,
+["x"] = 0,
+["enabled"] = true,
+["y"] = 210.0000152587891,
+["clamped"] = 1,
+},
+["1-MyDeafault"] = {
+["enabled"] = true,
+["defaultY"] = 268,
+["defaultX"] = -1.999997019767761,
+},
+["2-Shample-Draenor-shample"] = {
+["defaultScale"] = 1,
+["defaultY"] = 205.0000152587891,
+["defaultX"] = 0,
+["x"] = 0,
+["enabled"] = true,
+["y"] = 205.0000152587891,
+["clamped"] = 1,
+},
+["2-Nexùs-Draenor-Nexus"] = {
+["y"] = 268,
+["x"] = -1.999997019767761,
+["defaultX"] = 1.000004291534424,
+["enabled"] = true,
+["defaultScale"] = 1,
+["defaultY"] = 223,
+["clamped"] = 1,
+},
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 210.0000152587891,
+["defaultX"] = 0,
+["x"] = 0,
+["y"] = 210.0000152587891,
+["enabled"] = true,
+["clamped"] = 1,
+},
+["0-Classic"] = {
+["enabled"] = true,
+["defaultY"] = 268,
+["defaultX"] = -1.999997019767761,
+},
+["2-Poper-Silvermoon-Rogue"] = {
+["enabled"] = true,
+["defaultY"] = 268,
+["defaultX"] = -1.999997019767761,
+},
 ["2-Greedissgood-Draenor-2"] = {
 ["defaultScale"] = 1,
-["defaultY"] = 270.0000305175781,
-["defaultX"] = 1118.333251953125,
-["x"] = 1118.333251953125,
-["y"] = 270.0000305175781,
+["defaultY"] = 223,
+["defaultX"] = 1.000004291534424,
+["x"] = 1.000004291534424,
 ["enabled"] = true,
+["y"] = 223,
 ["clamped"] = 1,
 },
 },
 },
 ["DebuffFrame"] = {
+["settings"] = {
+[12] = {
+},
+},
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Modern"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 ["settings"] = {
 [12] = {
 },
@@ -1309,19 +2107,25 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["1-MyDeafault"] = {
 ["settings"] = {
 [12] = {
 },
@@ -1339,19 +2143,19 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["0-Modern"] = {
+["0-Classic"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 ["settings"] = {
 [12] = {
 },
@@ -1368,15 +2172,44 @@ EditModeExpandedADB = {
 ["ChatFrameMenuButton"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 95.00000762939453,
+["clamped"] = 1,
 ["defaultX"] = -3.499997854232788,
+["y"] = 95.00000762939453,
+["enabled"] = true,
+["x"] = -3.499997854232788,
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["defaultScale"] = 1,
+["defaultY"] = 50.00000381469727,
+["settings"] = {
+},
+["defaultX"] = -0.4999963939189911,
+["x"] = 78.33333587646484,
+["enabled"] = true,
+["y"] = 233.3334350585938,
+["clamped"] = 1,
+},
+["0-Modern"] = {
+["enabled"] = true,
+["defaultY"] = 95.00000762939453,
+["defaultX"] = -3.499997854232788,
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 31.99999809265137,
 ["defaultX"] = -1.500000715255737,
 ["x"] = 0,
-["y"] = 31.99999809265137,
 ["enabled"] = true,
+["y"] = 31.99999809265137,
+["clamped"] = 1,
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["defaultScale"] = 1,
+["defaultY"] = 50.00000381469727,
+["defaultX"] = -0.4999963939189911,
+["x"] = 0,
+["enabled"] = true,
+["y"] = 50.00000381469727,
 ["clamped"] = 1,
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
@@ -1384,8 +2217,8 @@ EditModeExpandedADB = {
 ["defaultY"] = 32.00000381469727,
 ["defaultX"] = 8.49999713897705,
 ["x"] = 8.49999713897705,
-["y"] = 32.00000381469727,
 ["enabled"] = true,
+["y"] = 32.00000381469727,
 ["clamped"] = 1,
 },
 ["2-Greedissgood-Draenor-Lock"] = {
@@ -1393,7 +2226,7 @@ EditModeExpandedADB = {
 ["defaultY"] = 95.00000762939453,
 ["defaultX"] = -3.499997854232788,
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 50.00000381469727,
 ["settings"] = {
@@ -1404,12 +2237,23 @@ EditModeExpandedADB = {
 ["enabled"] = true,
 ["clamped"] = 1,
 },
-["2-Poper-Silvermoon-Rogue"] = {
-["enabled"] = true,
-["defaultY"] = 95.00000762939453,
+["2-Poper-Silvermoon-popMeow"] = {
+["y"] = 95.00000762939453,
+["x"] = -3.499997854232788,
 ["defaultX"] = -3.499997854232788,
+["defaultY"] = 95.00000762939453,
+["enabled"] = true,
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+["defaultScale"] = 1,
+["defaultY"] = 31.99999809265137,
+["defaultX"] = -1.500000715255737,
+["x"] = 0,
+["enabled"] = true,
+["y"] = 31.99999809265137,
+["clamped"] = 1,
+},
+["1-MyDeafault"] = {
 ["enabled"] = true,
 ["defaultY"] = 95.00000762939453,
 ["defaultX"] = -3.499997854232788,
@@ -1419,8 +2263,8 @@ EditModeExpandedADB = {
 ["defaultY"] = 31.99999809265137,
 ["defaultX"] = -1.500000715255737,
 ["x"] = 0,
-["y"] = 31.99999809265137,
 ["enabled"] = true,
+["y"] = 31.99999809265137,
 ["clamped"] = 1,
 },
 ["2-Nexùs-Draenor-Nexus"] = {
@@ -1428,65 +2272,71 @@ EditModeExpandedADB = {
 ["x"] = -3.499997854232788,
 ["defaultX"] = -0.4999963939189911,
 ["enabled"] = true,
-["defaultY"] = 50.00000381469727,
 ["defaultScale"] = 1,
+["defaultY"] = 50.00000381469727,
 ["clamped"] = 1,
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["defaultScale"] = 1,
-["defaultY"] = 50.00000381469727,
-["defaultX"] = -0.4999963939189911,
+["defaultY"] = 31.99999809265137,
+["defaultX"] = -1.500000715255737,
 ["x"] = 0,
-["y"] = 50.00000381469727,
+["y"] = 31.99999809265137,
 ["enabled"] = true,
 ["clamped"] = 1,
 },
-["0-Modern"] = {
+["0-Classic"] = {
 ["enabled"] = true,
 ["defaultY"] = 95.00000762939453,
 ["defaultX"] = -3.499997854232788,
 },
-["2-Poper-Silvermoon-popMeow"] = {
-["y"] = 95.00000762939453,
-["x"] = -3.499997854232788,
-["defaultX"] = -3.499997854232788,
+["2-Poper-Silvermoon-Rogue"] = {
 ["enabled"] = true,
 ["defaultY"] = 95.00000762939453,
+["defaultX"] = -3.499997854232788,
 },
 ["2-Greedissgood-Draenor-2"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 50.00000381469727,
 ["defaultX"] = -0.4999963939189911,
 ["x"] = 0,
-["y"] = 50.00000381469727,
 ["enabled"] = true,
+["y"] = 50.00000381469727,
 ["clamped"] = 1,
 },
 },
 },
 ["VehicleSeatIndicator"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 },
 ["2-Nexùs-Draenor-Nexus"] = {
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 },
@@ -1495,8 +2345,34 @@ EditModeExpandedADB = {
 ["QueueStatusButton"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 10,
+["clamped"] = 1,
 ["defaultX"] = 2814.66650390625,
+["y"] = 10,
+["enabled"] = true,
+["x"] = 2814.66650390625,
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["defaultScale"] = 1,
+["defaultY"] = 16.50008964538574,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 2446.699951171875,
+["x"] = 686.6993408203125,
+["enabled"] = true,
+["y"] = 232.8332061767578,
+["clamped"] = 1,
+},
+["0-Modern"] = {
+["enabled"] = true,
+["defaultY"] = 10,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 2814.66650390625,
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 16.5,
@@ -1506,8 +2382,21 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 2410.16650390625,
 ["x"] = 2410.16650390625,
-["y"] = 16.5,
 ["enabled"] = true,
+["y"] = 16.5,
+["clamped"] = 1,
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["enabled"] = true,
+["defaultY"] = 14.49999904632568,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 2402.666748046875,
+["x"] = 738.499755859375,
+["defaultScale"] = 1,
+["y"] = 277.0001525878906,
 ["clamped"] = 1,
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
@@ -1519,8 +2408,8 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 2290.16650390625,
 ["x"] = 2290.16650390625,
-["y"] = 10.19999980926514,
 ["enabled"] = true,
+["y"] = 10.19999980926514,
 ["clamped"] = 1,
 },
 ["2-Greedissgood-Draenor-Lock"] = {
@@ -1532,7 +2421,7 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 2814.66650390625,
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 16.50008964538574,
 ["settings"] = {
@@ -1545,16 +2434,31 @@ EditModeExpandedADB = {
 ["enabled"] = true,
 ["clamped"] = 1,
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 ["enabled"] = true,
-["defaultY"] = 10,
+["x"] = 1082.999877929688,
 ["settings"] = {
 [12] = {
 },
 },
 ["defaultX"] = 2814.66650390625,
+["defaultY"] = 10,
+["y"] = 241.6665344238281,
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+["defaultScale"] = 1,
+["defaultY"] = 2.000025987625122,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 2288.666748046875,
+["x"] = 2288.666748046875,
+["enabled"] = true,
+["y"] = 2.000025987625122,
+["clamped"] = 1,
+},
+["1-MyDeafault"] = {
 ["enabled"] = true,
 ["defaultY"] = 10,
 ["settings"] = {
@@ -1572,8 +2476,8 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 2410.16650390625,
 ["x"] = 2410.16650390625,
-["y"] = 16.5,
 ["enabled"] = true,
+["y"] = 16.5,
 ["clamped"] = 1,
 },
 ["2-Nexùs-Draenor-Nexus"] = {
@@ -1585,11 +2489,11 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 2443.999755859375,
 ["y"] = 313.3333435058594,
-["defaultY"] = 25.99995803833008,
 ["defaultScale"] = 1,
+["defaultY"] = 25.99995803833008,
 ["clamped"] = 1,
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["enabled"] = true,
 ["defaultY"] = 14.49999904632568,
 ["settings"] = {
@@ -1602,7 +2506,7 @@ EditModeExpandedADB = {
 ["defaultScale"] = 1,
 ["clamped"] = 1,
 },
-["0-Modern"] = {
+["0-Classic"] = {
 ["enabled"] = true,
 ["defaultY"] = 10,
 ["settings"] = {
@@ -1611,16 +2515,14 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 2814.66650390625,
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 ["enabled"] = true,
-["x"] = 1082.999877929688,
+["defaultY"] = 10,
 ["settings"] = {
 [12] = {
 },
 },
 ["defaultX"] = 2814.66650390625,
-["y"] = 241.6665344238281,
-["defaultY"] = 10,
 },
 ["2-Greedissgood-Draenor-2"] = {
 ["defaultScale"] = 1,
@@ -1631,160 +2533,131 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 2504.66650390625,
 ["x"] = 2504.66650390625,
+["enabled"] = true,
 ["y"] = 0,
-["enabled"] = true,
 ["clamped"] = 1,
 },
 },
 },
-["ExpansionLandingPageMinimapButton"] = {
-["defaultScale"] = 1,
-["defaultY"] = 967.0000610351562,
-["defaultX"] = 2648.66650390625,
+["TargetFrame"] = {
+["settings"] = {
+[12] = {
+},
+},
 ["profiles"] = {
-["2-Bonebilly-Draenor-Warrior"] = {
-["defaultScale"] = 1,
-["defaultY"] = 50.99997711181641,
-["settings"] = {
-[12] = {
-},
-},
-["defaultX"] = 527.5000610351562,
-["x"] = 527.5000610351562,
-["y"] = 50.99997711181641,
-["enabled"] = true,
-["clamped"] = 1,
-},
-["2-Hydrolic-Silvermoon-Hyrdolic"] = {
-["defaultScale"] = 1,
-["defaultY"] = 51,
-["settings"] = {
-[12] = {
-},
-},
-["defaultX"] = 537.5000610351562,
-["x"] = 537.5000610351562,
-["y"] = 51,
-["enabled"] = true,
-["clamped"] = 1,
-},
-["2-Greedissgood-Draenor-Lock"] = {
-["enabled"] = true,
-["defaultY"] = 967.0000610351562,
-["settings"] = {
-[12] = {
-},
-},
-["defaultX"] = 2648.66650390625,
-},
 ["2-Riseandshine-Draenor-OGRiseandShine"] = {
-["defaultScale"] = 1,
-["defaultY"] = 57.49997329711914,
 ["settings"] = {
 [12] = {
 },
 },
-["defaultX"] = 528.5000610351562,
-["x"] = 528.5000610351562,
-["y"] = 57.49999237060547,
-["enabled"] = true,
-["clamped"] = 1,
-},
-["2-Poper-Silvermoon-Rogue"] = {
-["enabled"] = true,
-["defaultY"] = 967.0000610351562,
-["settings"] = {
-[12] = {
-},
-},
-["defaultX"] = 2648.66650390625,
-},
-["0-Classic"] = {
-["enabled"] = true,
-["defaultY"] = 965,
-["settings"] = {
-[12] = {
-},
-},
-["defaultX"] = 2663.666748046875,
-},
-["2-Shample-Draenor-shample"] = {
-["defaultScale"] = 1,
-["defaultY"] = 50.99997711181641,
-["settings"] = {
-[12] = {
-},
-},
-["defaultX"] = 527.5000610351562,
-["x"] = 527.5000610351562,
-["y"] = 50.99997711181641,
-["enabled"] = true,
-["clamped"] = 1,
-},
-["2-Nexùs-Draenor-Nexus"] = {
-["enabled"] = true,
-["x"] = 2340.333984375,
-["settings"] = {
-[12] = {
-},
-},
-["defaultX"] = 513.5000610351562,
-["y"] = 1046.666748046875,
-["defaultY"] = 36.34997177124023,
-["defaultScale"] = 1,
-["clamped"] = 1,
-},
-["2-Greedissgood-Draenor-Greedisgood"] = {
-["enabled"] = true,
-["defaultY"] = 54.59993743896484,
-["settings"] = {
-[12] = {
-},
-},
-["defaultX"] = 528.5000610351562,
-["x"] = 528.5000610351562,
-["y"] = 54.59993743896484,
-["defaultScale"] = 1,
-["clamped"] = 1,
 },
 ["0-Modern"] = {
-["enabled"] = true,
-["defaultY"] = 965,
 ["settings"] = {
 [12] = {
 },
 },
-["defaultX"] = 2663.666748046875,
+},
+["2-Bonebilly-Draenor-Warrior"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Hydrolic-Silvermoon-Hyrdolic"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Greedissgood-Draenor-Lock"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Riseandshine-Draenor-Shadow"] = {
+["settings"] = {
+[12] = {
+},
+},
 },
 ["2-Poper-Silvermoon-popMeow"] = {
-["enabled"] = true,
-["x"] = 524.5005493164062,
 ["settings"] = {
 [12] = {
 },
 },
-["defaultX"] = 2648.66650390625,
-["y"] = 36.16630935668945,
-["defaultY"] = 967.0000610351562,
+},
+["1-Laptop"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["1-MyDeafault"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Shample-Draenor-shample"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Nexùs-Draenor-Nexus"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["1-Default"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Classic"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Poper-Silvermoon-Rogue"] = {
+["settings"] = {
+[12] = {
+},
+},
 },
 ["2-Greedissgood-Draenor-2"] = {
-["defaultScale"] = 1,
-["defaultY"] = 28.40000343322754,
 ["settings"] = {
 [12] = {
 },
 },
-["defaultX"] = 549.8500366210938,
-["x"] = 549.8500366210938,
-["y"] = 28.40000343322754,
-["enabled"] = true,
-["clamped"] = 1,
 },
 },
 },
 ["BagsBar"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["settings"] = {
+},
+},
+["0-Modern"] = {
+["settings"] = {
+},
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+["settings"] = {
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 ["settings"] = {
 },
 },
@@ -1794,13 +2667,19 @@ EditModeExpandedADB = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["settings"] = {
 },
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
+["settings"] = {
 },
-["0-Classic"] = {
+},
+["1-Laptop"] = {
+["settings"] = {
+},
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 ["settings"] = {
@@ -1810,15 +2689,13 @@ EditModeExpandedADB = {
 ["settings"] = {
 },
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["settings"] = {
 },
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
-["settings"] = {
-},
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 ["settings"] = {
@@ -1828,30 +2705,39 @@ EditModeExpandedADB = {
 },
 ["ContainerFrameCombinedBags"] = {
 ["profiles"] = {
-["2-Greedissgood-Draenor-2"] = {
-["defaultScale"] = 1,
-["defaultY"] = 85.00000762939453,
-["defaultX"] = 2426.66650390625,
-["x"] = 2426.66650390625,
-["y"] = 85.00000762939453,
-["enabled"] = true,
-["clamped"] = 1,
-},
 ["2-Bonebilly-Draenor-Warrior"] = {
 ["enabled"] = true,
 ["x"] = 2426.66650390625,
 ["defaultX"] = 2426.66650390625,
 ["defaultY"] = 85.00000762939453,
+["defaultScale"] = 1,
+["y"] = 85.00000762939453,
+["clamped"] = 1,
+},
+["2-Hydrolic-Silvermoon-Hyrdolic"] = {
+["defaultScale"] = 1,
+["defaultY"] = 85.00000762939453,
+["defaultX"] = 2426.66650390625,
+["x"] = 2426.66650390625,
+["y"] = 85.00000762939453,
+["enabled"] = true,
+["clamped"] = 1,
+},
+["2-Greedissgood-Draenor-Lock"] = {
+["enabled"] = true,
+},
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["enabled"] = true,
+["x"] = 2426.66650390625,
+["settings"] = {
+},
+["defaultX"] = 2426.66650390625,
+["defaultY"] = 85.00000762939453,
 ["y"] = 85.00000762939453,
 ["defaultScale"] = 1,
 ["clamped"] = 1,
 },
-["2-Shample-Draenor-shample"] = {
-["defaultScale"] = 1,
-["enabled"] = true,
-["clamped"] = 1,
-},
-["2-Nexùs-Draenor-Nexus"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 ["defaultScale"] = 1,
 ["enabled"] = true,
 ["clamped"] = 1,
@@ -1861,52 +2747,87 @@ EditModeExpandedADB = {
 ["x"] = 2060.8330078125,
 ["settings"] = {
 },
+["defaultX"] = 2426.66650390625,
+["defaultY"] = 85.00000762939453,
 ["y"] = 226.6667633056641,
 ["defaultScale"] = 1,
 ["clamped"] = 1,
 },
-["2-Greedissgood-Draenor-Lock"] = {
+["2-Shample-Draenor-shample"] = {
+["defaultScale"] = 1,
 ["enabled"] = true,
+["clamped"] = 1,
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Nexùs-Draenor-Nexus"] = {
 ["enabled"] = true,
+["defaultY"] = 85.00000762939453,
+["defaultX"] = 2426.66650390625,
 ["x"] = 2426.66650390625,
-["settings"] = {
-},
 ["defaultScale"] = 1,
 ["y"] = 85.00000762939453,
 ["clamped"] = 1,
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["1-Default"] = {
 ["defaultScale"] = 1,
 ["enabled"] = true,
+["clamped"] = 1,
+},
+["2-Riseandshine-Draenor-Shadow"] = {
+["y"] = 85.00000762939453,
+["x"] = 2426.66650390625,
+["settings"] = {
+},
+["enabled"] = true,
+["defaultScale"] = 1,
+["clamped"] = 1,
+},
+["0-Modern"] = {
+["defaultScale"] = 1,
+["enabled"] = true,
+["clamped"] = 1,
+},
+["2-Greedissgood-Draenor-2"] = {
+["defaultScale"] = 1,
+["defaultY"] = 85.00000762939453,
+["defaultX"] = 2426.66650390625,
+["x"] = 2426.66650390625,
+["enabled"] = true,
+["y"] = 85.00000762939453,
 ["clamped"] = 1,
 },
 },
 },
 ["CompactArenaFrame"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 },
 ["2-Nexùs-Draenor-Nexus"] = {
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 },
@@ -1915,8 +2836,34 @@ EditModeExpandedADB = {
 ["LOC"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 571,
+["clamped"] = 1,
 ["defaultX"] = 1305.333129882813,
+["y"] = 571,
+["enabled"] = false,
+["x"] = 1305.333129882813,
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["defaultScale"] = 1,
+["defaultY"] = 571,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 1305.333129882813,
+["x"] = 1305.333129882813,
+["enabled"] = false,
+["y"] = 571,
+["clamped"] = 1,
+},
+["0-Modern"] = {
+["enabled"] = false,
+["defaultY"] = 571,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 1305.333129882813,
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 571,
@@ -1926,8 +2873,21 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 1305.333129882813,
 ["x"] = 1305.333129882813,
-["y"] = 571,
 ["enabled"] = false,
+["y"] = 571,
+["clamped"] = 1,
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["enabled"] = false,
+["defaultY"] = 571,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 1305.333129882813,
+["x"] = 1305.333129882813,
+["defaultScale"] = 1,
+["y"] = 571,
 ["clamped"] = 1,
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
@@ -1939,8 +2899,8 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 1305.333129882813,
 ["x"] = 1305.333129882813,
-["y"] = 571,
 ["enabled"] = false,
+["y"] = 571,
 ["clamped"] = 1,
 },
 ["2-Greedissgood-Draenor-Lock"] = {
@@ -1952,7 +2912,7 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 1305.333129882813,
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 571,
 ["settings"] = {
@@ -1965,7 +2925,18 @@ EditModeExpandedADB = {
 ["enabled"] = false,
 ["clamped"] = 1,
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
+["enabled"] = false,
+["x"] = 1305.333129882813,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 1305.333129882813,
+["defaultY"] = 571,
+["y"] = 571,
+},
+["1-Laptop"] = {
 ["enabled"] = false,
 ["defaultY"] = 571,
 ["settings"] = {
@@ -1973,8 +2944,12 @@ EditModeExpandedADB = {
 },
 },
 ["defaultX"] = 1305.333129882813,
+["x"] = 1305.333129882813,
+["defaultScale"] = 1,
+["y"] = 571,
+["clamped"] = 1,
 },
-["0-Classic"] = {
+["1-MyDeafault"] = {
 ["enabled"] = false,
 ["defaultY"] = 571,
 ["settings"] = {
@@ -1992,8 +2967,8 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 1305.333129882813,
 ["x"] = 1305.333129882813,
-["y"] = 571,
 ["enabled"] = false,
+["y"] = 571,
 ["clamped"] = 1,
 },
 ["2-Nexùs-Draenor-Nexus"] = {
@@ -2005,11 +2980,11 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 1305.333129882813,
 ["y"] = 571,
-["defaultY"] = 571,
 ["defaultScale"] = 1,
+["defaultY"] = 571,
 ["clamped"] = 1,
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["enabled"] = false,
 ["defaultY"] = 571,
 ["settings"] = {
@@ -2022,7 +2997,7 @@ EditModeExpandedADB = {
 ["defaultScale"] = 1,
 ["clamped"] = 1,
 },
-["0-Modern"] = {
+["0-Classic"] = {
 ["enabled"] = false,
 ["defaultY"] = 571,
 ["settings"] = {
@@ -2031,16 +3006,14 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 1305.333129882813,
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 ["enabled"] = false,
-["x"] = 1305.333129882813,
+["defaultY"] = 571,
 ["settings"] = {
 [12] = {
 },
 },
 ["defaultX"] = 1305.333129882813,
-["y"] = 571,
-["defaultY"] = 571,
 },
 ["2-Greedissgood-Draenor-2"] = {
 ["defaultScale"] = 1,
@@ -2051,15 +3024,29 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 1305.333129882813,
 ["x"] = 1305.333129882813,
-["y"] = 571,
 ["enabled"] = false,
+["y"] = 571,
 ["clamped"] = 1,
 },
 },
 },
 ["BuffIconCooldownViewer"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["y"] = 45,
+["x"] = 1345.833251953125,
+["settings"] = {
+},
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+["y"] = 1199,
+["x"] = 0,
+["settings"] = {
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 ["y"] = 1199,
 ["x"] = 0,
 ["settings"] = {
@@ -2068,18 +3055,26 @@ EditModeExpandedADB = {
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 ["y"] = 1199,
 ["x"] = 0,
+["settings"] = {
+},
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["y"] = 45,
 ["x"] = 1345.833251953125,
 ["settings"] = {
 },
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
+["settings"] = {
 },
-["0-Classic"] = {
+},
+["1-Laptop"] = {
+["y"] = 1199,
+["x"] = 0,
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 ["y"] = 602.0000610351562,
@@ -2091,15 +3086,13 @@ EditModeExpandedADB = {
 ["settings"] = {
 },
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["y"] = 1199,
 ["x"] = 0,
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
-["settings"] = {
-},
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 ["y"] = 1199,
@@ -2109,53 +3102,85 @@ EditModeExpandedADB = {
 },
 ["MultiBar6"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 },
 ["2-Nexùs-Draenor-Nexus"] = {
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 },
 },
 },
 ["ExtraAbilityContainer"] = {
+["y"] = 324,
+["x"] = 792.3333129882812,
 ["profiles"] = {
-["2-Bonebilly-Draenor-Warrior"] = {
-["y"] = 477.9999694824219,
-["x"] = 1908.333129882813,
-},
-["2-Hydrolic-Silvermoon-Hyrdolic"] = {
-["y"] = 344.2999572753906,
-["x"] = 1308.333374023438,
-},
-["2-Greedissgood-Draenor-Lock"] = {
-},
 ["2-Riseandshine-Draenor-OGRiseandShine"] = {
 ["y"] = 608.2999877929688,
 ["x"] = 2035.299926757813,
 ["settings"] = {
 },
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["0-Modern"] = {
 },
-["0-Classic"] = {
+["2-Bonebilly-Draenor-Warrior"] = {
+["y"] = 477.9999694824219,
+["x"] = 1908.333129882813,
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["y"] = 344.2999572753906,
+["x"] = 1308.333374023438,
+["settings"] = {
+},
+},
+["2-Hydrolic-Silvermoon-Hyrdolic"] = {
+["y"] = 344.2999572753906,
+["x"] = 1308.333374023438,
+["settings"] = {
+},
+},
+["2-Greedissgood-Draenor-Lock"] = {
+},
+["2-Riseandshine-Draenor-Shadow"] = {
+["y"] = 608.2999877929688,
+["x"] = 2035.299926757813,
+["settings"] = {
+},
+},
+["2-Poper-Silvermoon-popMeow"] = {
+["y"] = 324,
+["x"] = 792.3333129882812,
+},
+["1-Laptop"] = {
+["y"] = 344.2999572753906,
+["x"] = 1308.333374023438,
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 ["y"] = 338.9999694824219,
@@ -2167,15 +3192,15 @@ EditModeExpandedADB = {
 ["settings"] = {
 },
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
-["y"] = 344.2999572753906,
+["1-Default"] = {
+["y"] = 387.5999755859375,
 ["x"] = 1308.333374023438,
+["settings"] = {
 },
-["0-Modern"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
-["y"] = 324,
-["x"] = 792.3333129882812,
+["0-Classic"] = {
+},
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 ["y"] = 647.9999389648438,
@@ -2185,7 +3210,41 @@ EditModeExpandedADB = {
 },
 ["FocusSpellBar"] = {
 ["defaultScale"] = 1,
+["settings"] = {
+[16] = 100,
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["clamped"] = 1,
+["enabled"] = true,
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["defaultScale"] = 1.33299994468689,
+["defaultY"] = 570.1443481445312,
+["settings"] = {
+[16] = 100,
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["defaultX"] = 1110.6015625,
+["x"] = 1648.604125976563,
+["enabled"] = true,
+["y"] = 810.9864501953125,
+["clamped"] = 1,
+},
+["0-Modern"] = {
+["enabled"] = true,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
 ["defaultScale"] = 1.33299994468689,
 ["defaultY"] = 669.96923828125,
@@ -2198,8 +3257,24 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 860.5390625,
 ["x"] = 863.0064697265625,
-["y"] = 569.1439819335938,
 ["enabled"] = true,
+["y"] = 569.1439819335938,
+["clamped"] = 1,
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["defaultScale"] = 1.33299994468689,
+["defaultY"] = 672.9698486328125,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+[16] = 100,
+},
+["defaultX"] = 1004.641784667969,
+["x"] = 1004.641784667969,
+["enabled"] = true,
+["y"] = 672.9698486328125,
 ["clamped"] = 1,
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
@@ -2213,9 +3288,9 @@ EditModeExpandedADB = {
 },
 },
 ["defaultX"] = 935.9580078125,
-["x"] = 935.9580078125,
-["y"] = 269.1690979003906,
+["x"] = 954.846923828125,
 ["enabled"] = true,
+["y"] = 268.0579528808594,
 ["clamped"] = 1,
 },
 ["2-Greedissgood-Draenor-Lock"] = {
@@ -2227,7 +3302,7 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["defaultScale"] = 1.33299994468689,
 ["defaultY"] = 570.1443481445312,
 ["settings"] = {
@@ -2243,16 +3318,33 @@ EditModeExpandedADB = {
 ["enabled"] = true,
 ["clamped"] = 1,
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 ["enabled"] = true,
 ["settings"] = {
+[16] = 100,
 [17] = {
 ["AnchorToDropdown"] = {
 },
 },
 },
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+["defaultScale"] = 1.33299994468689,
+["defaultY"] = 387.9987182617188,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+[16] = 100,
+},
+["defaultX"] = 1188.721069335938,
+["x"] = 1188.721069335938,
+["enabled"] = true,
+["y"] = 387.9987182617188,
+["clamped"] = 1,
+},
+["1-MyDeafault"] = {
 ["enabled"] = true,
 ["settings"] = {
 [17] = {
@@ -2273,8 +3365,8 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 875.5428466796875,
 ["x"] = 875.5428466796875,
-["y"] = 709.979248046875,
 ["enabled"] = true,
+["y"] = 709.979248046875,
 ["clamped"] = 1,
 },
 ["2-Nexùs-Draenor-Nexus"] = {
@@ -2289,13 +3381,13 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 1099.19873046875,
 ["x"] = 814.9603881835938,
-["enabled"] = true,
 ["y"] = 1184.715942382813,
+["enabled"] = true,
 ["clamped"] = 1,
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["defaultScale"] = 1.33299994468689,
-["defaultY"] = 672.9698486328125,
+["defaultY"] = 424.1077880859375,
 ["settings"] = {
 [17] = {
 ["AnchorToDropdown"] = {
@@ -2303,13 +3395,13 @@ EditModeExpandedADB = {
 },
 [16] = 100,
 },
-["defaultX"] = 1004.641784667969,
-["x"] = 1004.641784667969,
-["y"] = 672.9698486328125,
+["defaultX"] = 1111.501831054688,
+["x"] = 1282.259765625,
+["y"] = 453.6636352539063,
 ["enabled"] = true,
 ["clamped"] = 1,
 },
-["0-Modern"] = {
+["0-Classic"] = {
 ["enabled"] = true,
 ["settings"] = {
 [17] = {
@@ -2318,10 +3410,9 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 ["enabled"] = true,
 ["settings"] = {
-[16] = 100,
 [17] = {
 ["AnchorToDropdown"] = {
 },
@@ -2340,15 +3431,51 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 1991.822021484375,
 ["x"] = 1991.822021484375,
-["y"] = 258.0662841796875,
 ["enabled"] = true,
+["y"] = 258.0662841796875,
 ["clamped"] = 1,
 },
 },
 },
 ["FocusToT"] = {
+["enabled"] = true,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["clamped"] = 1,
 ["defaultScale"] = 1,
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["defaultScale"] = 1.33299994468689,
+["defaultY"] = 536.1443481445312,
+["settings"] = {
+[12] = {
+},
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["defaultX"] = 1146.64501953125,
+["x"] = 974.035400390625,
+["enabled"] = false,
+["y"] = 348.0969543457031,
+["clamped"] = 1,
+},
+["0-Modern"] = {
+["enabled"] = true,
+["settings"] = {
+[12] = {
+},
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
 ["defaultScale"] = 1.33299994468689,
 ["defaultY"] = 635.9692993164062,
@@ -2362,8 +3489,25 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 896.5825805664062,
 ["x"] = 994.073974609375,
-["y"] = 591.8247680664062,
 ["enabled"] = true,
+["y"] = 591.8247680664062,
+["clamped"] = 1,
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["defaultScale"] = 1.33299994468689,
+["defaultY"] = 638.9699096679688,
+["settings"] = {
+[12] = {
+},
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["defaultX"] = 1040.685302734375,
+["x"] = 1040.685302734375,
+["enabled"] = true,
+["y"] = 638.9699096679688,
 ["clamped"] = 1,
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
@@ -2379,8 +3523,8 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 972.0014038085938,
 ["x"] = 972.0014038085938,
-["y"] = 235.1690521240234,
 ["enabled"] = true,
+["y"] = 235.1690521240234,
 ["clamped"] = 1,
 },
 ["2-Greedissgood-Draenor-Lock"] = {
@@ -2394,7 +3538,7 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["defaultScale"] = 1.33299994468689,
 ["defaultY"] = 536.1443481445312,
 ["settings"] = {
@@ -2411,8 +3555,20 @@ EditModeExpandedADB = {
 ["enabled"] = false,
 ["clamped"] = 1,
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 ["enabled"] = true,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+[12] = {
+},
+},
+},
+["1-Laptop"] = {
+["defaultScale"] = 1.33299994468689,
+["defaultY"] = 353.9987487792969,
 ["settings"] = {
 [12] = {
 },
@@ -2421,8 +3577,13 @@ EditModeExpandedADB = {
 },
 },
 },
+["defaultX"] = 1224.764526367188,
+["x"] = 1224.764526367188,
+["enabled"] = true,
+["y"] = 353.9987487792969,
+["clamped"] = 1,
 },
-["0-Classic"] = {
+["1-MyDeafault"] = {
 ["enabled"] = true,
 ["settings"] = {
 [12] = {
@@ -2446,8 +3607,8 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 911.58642578125,
 ["x"] = 878.2449340820312,
-["y"] = 786.007080078125,
 ["enabled"] = true,
+["y"] = 786.007080078125,
 ["clamped"] = 1,
 },
 ["2-Nexùs-Draenor-Nexus"] = {
@@ -2463,13 +3624,13 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 1135.2421875,
 ["x"] = 2085.44677734375,
-["enabled"] = true,
 ["y"] = 154.0487976074219,
+["enabled"] = true,
 ["clamped"] = 1,
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["defaultScale"] = 1.33299994468689,
-["defaultY"] = 638.9699096679688,
+["defaultY"] = 390.1077575683594,
 ["settings"] = {
 [12] = {
 },
@@ -2478,13 +3639,13 @@ EditModeExpandedADB = {
 },
 },
 },
-["defaultX"] = 1040.685302734375,
-["x"] = 1040.685302734375,
-["y"] = 638.9699096679688,
+["defaultX"] = 1147.545166015625,
+["x"] = 536.5596923828125,
+["y"] = 304.2525024414063,
 ["enabled"] = true,
 ["clamped"] = 1,
 },
-["0-Modern"] = {
+["0-Classic"] = {
 ["enabled"] = true,
 ["settings"] = {
 [12] = {
@@ -2495,14 +3656,14 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 ["enabled"] = true,
 ["settings"] = {
+[12] = {
+},
 [17] = {
 ["AnchorToDropdown"] = {
 },
-},
-[12] = {
 },
 },
 },
@@ -2519,8 +3680,8 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 2027.865478515625,
 ["x"] = 2027.865478515625,
-["y"] = 224.0663146972656,
 ["enabled"] = true,
+["y"] = 224.0663146972656,
 ["clamped"] = 1,
 },
 },
@@ -2528,8 +3689,29 @@ EditModeExpandedADB = {
 ["Achievements"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 127.9999923706055,
+["clamped"] = 1,
 ["defaultX"] = 1428.333251953125,
+["y"] = 127.9999923706055,
+["enabled"] = true,
+["x"] = 1428.333251953125,
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["defaultScale"] = 1,
+["defaultY"] = 127.9999923706055,
+["settings"] = {
+[16] = 100,
+},
+["defaultX"] = 1428.333251953125,
+["x"] = 1423.331176757813,
+["enabled"] = true,
+["y"] = 893.0006713867188,
+["clamped"] = 1,
+},
+["0-Modern"] = {
+["enabled"] = true,
+["defaultY"] = 127.9999923706055,
+["defaultX"] = 1428.333251953125,
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 127.9999923706055,
@@ -2537,17 +3719,31 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 1428.333251953125,
 ["x"] = 1922.499755859375,
-["y"] = 297.9998474121094,
 ["enabled"] = true,
+["y"] = 297.9998474121094,
+["clamped"] = 1,
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["defaultScale"] = 1,
+["defaultY"] = 127.9999923706055,
+["settings"] = {
+[16] = 85,
+},
+["defaultX"] = 1428.333251953125,
+["x"] = 1095.979858398438,
+["enabled"] = true,
+["y"] = 131.9214630126953,
 ["clamped"] = 1,
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 127.9999923706055,
+["settings"] = {
+},
 ["defaultX"] = 1428.333251953125,
-["x"] = 1428.333251953125,
-["y"] = 127.9999923706055,
+["x"] = 2163.331787109375,
 ["enabled"] = true,
+["y"] = 759.6661987304688,
 ["clamped"] = 1,
 },
 ["2-Greedissgood-Draenor-Lock"] = {
@@ -2555,7 +3751,7 @@ EditModeExpandedADB = {
 ["defaultY"] = 127.9999923706055,
 ["defaultX"] = 1428.333251953125,
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 127.9999923706055,
 ["settings"] = {
@@ -2567,12 +3763,25 @@ EditModeExpandedADB = {
 ["enabled"] = true,
 ["clamped"] = 1,
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
+["y"] = 167.1665191650391,
+["x"] = 1957.499755859375,
+["settings"] = {
+},
+["defaultX"] = 1428.333251953125,
+["defaultY"] = 127.9999923706055,
 ["enabled"] = true,
+},
+["1-Laptop"] = {
+["defaultScale"] = 1,
 ["defaultY"] = 127.9999923706055,
 ["defaultX"] = 1428.333251953125,
+["x"] = 1428.333251953125,
+["enabled"] = true,
+["y"] = 127.9999923706055,
+["clamped"] = 1,
 },
-["0-Classic"] = {
+["1-MyDeafault"] = {
 ["enabled"] = true,
 ["defaultY"] = 127.9999923706055,
 ["defaultX"] = 1428.333251953125,
@@ -2582,8 +3791,8 @@ EditModeExpandedADB = {
 ["defaultY"] = 127.9999923706055,
 ["defaultX"] = 1428.333251953125,
 ["x"] = 1428.333251953125,
-["y"] = 127.9999923706055,
 ["enabled"] = true,
+["y"] = 127.9999923706055,
 ["clamped"] = 1,
 },
 ["2-Nexùs-Draenor-Nexus"] = {
@@ -2591,11 +3800,11 @@ EditModeExpandedADB = {
 ["x"] = 1428.333251953125,
 ["defaultX"] = 1428.333251953125,
 ["enabled"] = true,
-["defaultY"] = 127.9999923706055,
 ["defaultScale"] = 1,
+["defaultY"] = 127.9999923706055,
 ["clamped"] = 1,
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 127.9999923706055,
 ["defaultX"] = 1428.333251953125,
@@ -2604,36 +3813,58 @@ EditModeExpandedADB = {
 ["enabled"] = true,
 ["clamped"] = 1,
 },
-["0-Modern"] = {
+["0-Classic"] = {
 ["enabled"] = true,
 ["defaultY"] = 127.9999923706055,
 ["defaultX"] = 1428.333251953125,
 },
-["2-Poper-Silvermoon-popMeow"] = {
-["y"] = 167.1665191650391,
-["x"] = 1957.499755859375,
-["settings"] = {
-},
-["defaultX"] = 1428.333251953125,
+["2-Poper-Silvermoon-Rogue"] = {
 ["enabled"] = true,
 ["defaultY"] = 127.9999923706055,
+["defaultX"] = 1428.333251953125,
 },
 ["2-Greedissgood-Draenor-2"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 127.9999923706055,
 ["defaultX"] = 1428.333251953125,
 ["x"] = 1428.333251953125,
-["y"] = 127.9999923706055,
 ["enabled"] = true,
+["y"] = 127.9999923706055,
 ["clamped"] = 1,
 },
 },
 },
 ["FocusFrame"] = {
+["settings"] = {
+[12] = {
+},
+},
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["y"] = 518.6666870117188,
+["x"] = 1504.133544921875,
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Modern"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
 ["y"] = 767.9999389648438,
 ["x"] = 1099.733642578125,
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["y"] = 906.3998413085938,
+["x"] = 1288.533325195313,
 ["settings"] = {
 [12] = {
 },
@@ -2653,7 +3884,7 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["y"] = 518.6666870117188,
 ["x"] = 1504.133544921875,
 ["settings"] = {
@@ -2661,13 +3892,21 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+["y"] = 526.5333251953125,
+["x"] = 1533.911254882813,
+["settings"] = {
+[12] = {
+},
+},
+},
+["1-MyDeafault"] = {
 ["settings"] = {
 [12] = {
 },
@@ -2689,21 +3928,21 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
-["y"] = 906.3998413085938,
-["x"] = 1288.533325195313,
+["1-Default"] = {
+["y"] = 574.6666259765625,
+["x"] = 1430.977783203125,
 ["settings"] = {
 [12] = {
 },
 },
 },
-["0-Modern"] = {
+["0-Classic"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 ["settings"] = {
 [12] = {
 },
@@ -2721,132 +3960,107 @@ EditModeExpandedADB = {
 },
 ["MirrorTimerContainer"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 },
 ["2-Nexùs-Draenor-Nexus"] = {
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 },
 },
 },
-["BuffBarCooldownViewer"] = {
+["ChatFrame1"] = {
 ["profiles"] = {
-["2-Bonebilly-Draenor-Warrior"] = {
-["y"] = 430,
-["x"] = 1852.833129882813,
-["settings"] = {
-[17] = {
-["Resort"] = {
-["checked"] = "None",
-},
-},
-},
-},
-["2-Hydrolic-Silvermoon-Hyrdolic"] = {
-["y"] = 430,
-["x"] = 1852.833129882813,
-},
-["2-Greedissgood-Draenor-Lock"] = {
-},
 ["2-Riseandshine-Draenor-OGRiseandShine"] = {
-["y"] = 606.7000122070312,
-["x"] = 1735.300170898438,
-["settings"] = {
-[17] = {
-["Resort"] = {
-["checked"] = "None",
-},
-},
-},
-},
-["2-Poper-Silvermoon-Rogue"] = {
-},
-["0-Classic"] = {
-},
-["2-Shample-Draenor-shample"] = {
-["y"] = 463,
-["x"] = 1735.333374023438,
-},
-["2-Nexùs-Draenor-Nexus"] = {
-["y"] = 430,
-["x"] = 1852.833129882813,
-["settings"] = {
-[17] = {
-["Resort"] = {
-["checked"] = "None",
-},
-},
-},
-},
-["2-Greedissgood-Draenor-Greedisgood"] = {
-["y"] = 430,
-["x"] = 1852.833129882813,
-["settings"] = {
-[17] = {
-["Resort"] = {
-["checked"] = "None",
-},
-},
-},
 },
 ["0-Modern"] = {
 },
+["2-Bonebilly-Draenor-Warrior"] = {
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+},
+["2-Hydrolic-Silvermoon-Hyrdolic"] = {
+},
+["2-Greedissgood-Draenor-Lock"] = {
+},
+["2-Riseandshine-Draenor-Shadow"] = {
+},
 ["2-Poper-Silvermoon-popMeow"] = {
 },
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
+},
+["2-Shample-Draenor-shample"] = {
+},
+["2-Nexùs-Draenor-Nexus"] = {
+},
+["1-Default"] = {
+},
+["0-Classic"] = {
+},
+["2-Poper-Silvermoon-Rogue"] = {
+},
 ["2-Greedissgood-Draenor-2"] = {
-["y"] = 430,
-["x"] = 1852.833129882813,
-["settings"] = {
-[17] = {
-["Resort"] = {
-["checked"] = "None",
-},
-},
-},
 },
 },
 },
 ["DurabilityFrame"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 },
 ["2-Nexùs-Draenor-Nexus"] = {
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 },
@@ -2854,91 +4068,351 @@ EditModeExpandedADB = {
 },
 ["MainMenuBar"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 },
 ["2-Nexùs-Draenor-Nexus"] = {
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 },
 },
 },
-["ArcheologyDigsiteProgressBar"] = {
+["HolyPower"] = {
 ["profiles"] = {
-["2-Bonebilly-Draenor-Warrior"] = {
+["1-Laptop"] = {
+["defaultScale"] = 1,
+["defaultY"] = 419.1666564941406,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
 },
-["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 },
-["2-Greedissgood-Draenor-Lock"] = {
+[12] = {
 },
+},
+["defaultX"] = 1188.305419921875,
+["x"] = 1188.305419921875,
+["enabled"] = true,
+["y"] = 419.1666564941406,
+["clamped"] = 1,
+},
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 534.5,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+[12] = {
+},
+},
+["defaultX"] = 849.4332885742188,
+["x"] = 1360.26708984375,
+["y"] = 305.3333740234375,
+["enabled"] = true,
+["clamped"] = 1,
+},
+},
+},
+["ExpansionLandingPageMinimapButton"] = {
+["defaultScale"] = 1,
+["defaultY"] = 967.0000610351562,
+["clamped"] = 1,
+["defaultX"] = 2648.66650390625,
+["y"] = 967.0000610351562,
+["enabled"] = true,
+["x"] = 2648.66650390625,
+["profiles"] = {
 ["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["defaultScale"] = 1,
+["defaultY"] = 57.49997329711914,
+["settings"] = {
+[12] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
 },
-["0-Classic"] = {
-},
-["2-Shample-Draenor-shample"] = {
-},
-["2-Nexùs-Draenor-Nexus"] = {
-},
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["defaultX"] = 528.5000610351562,
+["x"] = 528.5000610351562,
+["enabled"] = true,
+["y"] = 57.49999237060547,
+["clamped"] = 1,
 },
 ["0-Modern"] = {
+["enabled"] = true,
+["defaultY"] = 965,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 2663.666748046875,
+},
+["2-Bonebilly-Draenor-Warrior"] = {
+["defaultScale"] = 1,
+["defaultY"] = 50.99997711181641,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 527.5000610351562,
+["x"] = 527.5000610351562,
+["enabled"] = true,
+["y"] = 50.99997711181641,
+["clamped"] = 1,
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["enabled"] = true,
+["defaultY"] = 54.59993743896484,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 528.5000610351562,
+["x"] = 528.5000610351562,
+["defaultScale"] = 1,
+["y"] = 54.59993743896484,
+["clamped"] = 1,
+},
+["2-Hydrolic-Silvermoon-Hyrdolic"] = {
+["defaultScale"] = 1,
+["defaultY"] = 51,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 537.5000610351562,
+["x"] = 537.5000610351562,
+["enabled"] = true,
+["y"] = 51,
+["clamped"] = 1,
+},
+["2-Greedissgood-Draenor-Lock"] = {
+["enabled"] = true,
+["defaultY"] = 967.0000610351562,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 2648.66650390625,
+},
+["2-Riseandshine-Draenor-Shadow"] = {
+["defaultScale"] = 1,
+["defaultY"] = 57.49997329711914,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 528.5000610351562,
+["x"] = 528.5000610351562,
+["y"] = 57.49999237060547,
+["enabled"] = true,
+["clamped"] = 1,
 },
 ["2-Poper-Silvermoon-popMeow"] = {
+["enabled"] = true,
+["x"] = 524.5005493164062,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 2648.66650390625,
+["defaultY"] = 967.0000610351562,
+["y"] = 36.16630935668945,
+},
+["1-Laptop"] = {
+["defaultScale"] = 1,
+["defaultY"] = 155.0000152587891,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 927.8331909179688,
+["x"] = 927.8331909179688,
+["enabled"] = true,
+["y"] = 155.0000152587891,
+["clamped"] = 1,
+},
+["1-MyDeafault"] = {
+["enabled"] = true,
+["defaultY"] = 967.0000610351562,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 2648.66650390625,
+},
+["2-Shample-Draenor-shample"] = {
+["defaultScale"] = 1,
+["defaultY"] = 50.99997711181641,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 527.5000610351562,
+["x"] = 527.5000610351562,
+["enabled"] = true,
+["y"] = 50.99997711181641,
+["clamped"] = 1,
+},
+["2-Nexùs-Draenor-Nexus"] = {
+["enabled"] = true,
+["x"] = 2340.333984375,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 513.5000610351562,
+["y"] = 1046.666748046875,
+["defaultScale"] = 1,
+["defaultY"] = 36.34997177124023,
+["clamped"] = 1,
+},
+["1-Default"] = {
+["enabled"] = true,
+["defaultY"] = 52.9999885559082,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 878.8331298828125,
+["x"] = 878.8331298828125,
+["y"] = 52.9999885559082,
+["defaultScale"] = 1,
+["clamped"] = 1,
+},
+["0-Classic"] = {
+["enabled"] = true,
+["defaultY"] = 965,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 2663.666748046875,
+},
+["2-Poper-Silvermoon-Rogue"] = {
+["enabled"] = true,
+["defaultY"] = 967.0000610351562,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 2648.66650390625,
 },
 ["2-Greedissgood-Draenor-2"] = {
+["defaultScale"] = 1,
+["defaultY"] = 28.40000343322754,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 549.8500366210938,
+["x"] = 549.8500366210938,
+["enabled"] = true,
+["y"] = 28.40000343322754,
+["clamped"] = 1,
 },
 },
 },
 ["PlayerCastingBarFrame"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 },
 ["2-Nexùs-Draenor-Nexus"] = {
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 },
 },
 },
 ["TargetSpellBar"] = {
+["enabled"] = true,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["clamped"] = 1,
 ["defaultScale"] = 1,
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["defaultScale"] = 1,
+["defaultY"] = 429.3999938964844,
+["settings"] = {
+[18] = {
+},
+[10] = 1,
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["defaultX"] = 1109.933227539063,
+["x"] = 1112.466674804688,
+["enabled"] = false,
+["y"] = 437.666748046875,
+["clamped"] = 1,
+},
+["0-Modern"] = {
+["enabled"] = true,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+[18] = {
+},
+},
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 417.5454711914063,
@@ -2952,8 +4426,25 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 918.4848022460938,
 ["x"] = 905.5757446289062,
-["y"] = 420.60595703125,
 ["enabled"] = true,
+["y"] = 420.60595703125,
+["clamped"] = 1,
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["defaultScale"] = 1,
+["defaultY"] = 419.8182067871094,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+[18] = {
+},
+},
+["defaultX"] = 918.3637084960938,
+["x"] = 918.3637084960938,
+["enabled"] = true,
+["y"] = 419.8182067871094,
 ["clamped"] = 1,
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
@@ -2969,8 +4460,8 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 1656.939331054688,
 ["x"] = 1656.939331054688,
-["y"] = 290.272705078125,
 ["enabled"] = true,
+["y"] = 290.272705078125,
 ["clamped"] = 1,
 },
 ["2-Greedissgood-Draenor-Lock"] = {
@@ -2982,7 +4473,7 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 429.3999938964844,
 ["settings"] = {
@@ -3000,18 +4491,35 @@ EditModeExpandedADB = {
 ["enabled"] = false,
 ["clamped"] = 1,
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 ["enabled"] = true,
 ["settings"] = {
-[18] = {
-},
 [17] = {
 ["AnchorToDropdown"] = {
 },
 },
+[18] = {
 },
 },
-["0-Classic"] = {
+},
+["1-Laptop"] = {
+["enabled"] = true,
+["defaultY"] = 360.583251953125,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+[18] = {
+},
+},
+["defaultX"] = 921.4445190429688,
+["x"] = 921.4445190429688,
+["defaultScale"] = 1,
+["y"] = 360.583251953125,
+["clamped"] = 1,
+},
+["1-MyDeafault"] = {
 ["enabled"] = true,
 ["settings"] = {
 [17] = {
@@ -3033,8 +4541,8 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 932.1212768554688,
 ["x"] = 932.1212768554688,
-["y"] = 453.9091796875,
 ["enabled"] = true,
+["y"] = 453.9091796875,
 ["clamped"] = 1,
 },
 ["2-Nexùs-Draenor-Nexus"] = {
@@ -3050,13 +4558,13 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 1102.933227539063,
 ["x"] = 1853.400146484375,
-["enabled"] = true,
 ["y"] = 171.0000915527344,
+["enabled"] = true,
 ["clamped"] = 1,
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["defaultScale"] = 1,
-["defaultY"] = 419.8182067871094,
+["defaultY"] = 473,
 ["settings"] = {
 [17] = {
 ["AnchorToDropdown"] = {
@@ -3065,13 +4573,13 @@ EditModeExpandedADB = {
 [18] = {
 },
 },
-["defaultX"] = 918.3637084960938,
-["x"] = 918.3637084960938,
-["y"] = 419.8182067871094,
+["defaultX"] = 1063.433227539063,
+["x"] = 962.6002197265625,
+["y"] = 318.8333435058594,
 ["enabled"] = true,
 ["clamped"] = 1,
 },
-["0-Modern"] = {
+["0-Classic"] = {
 ["enabled"] = true,
 ["settings"] = {
 [17] = {
@@ -3080,14 +4588,14 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 ["enabled"] = true,
 ["settings"] = {
-[17] = {
-["AnchorToDropdown"] = {
-},
-},
 [18] = {
+},
+[17] = {
+["AnchorToDropdown"] = {
+},
 },
 },
 },
@@ -3104,75 +4612,137 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 1776.333374023438,
 ["x"] = 1776.333374023438,
-["y"] = 245.0000152587891,
 ["enabled"] = true,
+["y"] = 245.0000152587891,
 ["clamped"] = 1,
 },
 },
 },
-["SecondaryStatusTrackingBarContainer"] = {
+["TotemFrame"] = {
+["defaultScale"] = 1,
 ["profiles"] = {
-["2-Bonebilly-Draenor-Warrior"] = {
-["y"] = 31.49999046325684,
-["x"] = 1147.833251953125,
-["settings"] = {
-},
-},
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
-["y"] = 31.49999046325684,
-["x"] = 1147.833251953125,
+["enabled"] = true,
+["defaultY"] = 413.0000305175781,
 ["settings"] = {
+[10] = 1,
+[16] = 120,
 },
+["defaultX"] = 1020.333312988281,
+["x"] = 850.2779541015625,
+["defaultScale"] = 1,
+["y"] = 344.1667175292969,
+["clamped"] = 1,
 },
 ["2-Greedissgood-Draenor-Lock"] = {
+["enabled"] = true,
 },
 ["2-Riseandshine-Draenor-OGRiseandShine"] = {
-["y"] = 33.70005416870117,
-["x"] = 1147.833251953125,
+["defaultScale"] = 1,
+["defaultY"] = 522.9999389648438,
 ["settings"] = {
+[10] = 1,
 },
-},
-["2-Poper-Silvermoon-Rogue"] = {
-},
-["0-Classic"] = {
-},
-["2-Shample-Draenor-shample"] = {
-["y"] = 31.49999046325684,
-["x"] = 1147.833251953125,
-["settings"] = {
-},
-},
-["2-Nexùs-Draenor-Nexus"] = {
-["y"] = 0,
-["x"] = 1147.833251953125,
-["settings"] = {
-},
-},
-["2-Greedissgood-Draenor-Greedisgood"] = {
-["y"] = 31.49999046325684,
-["x"] = 1147.833251953125,
-["settings"] = {
-},
+["defaultX"] = 1088.333251953125,
+["x"] = 950.4331665039062,
+["enabled"] = true,
+["y"] = 465.9665832519531,
+["clamped"] = 1,
 },
 ["0-Modern"] = {
+["enabled"] = true,
 },
-["2-Poper-Silvermoon-popMeow"] = {
-["y"] = 0,
-["x"] = 1147.833251953125,
+["1-Laptop"] = {
+["enabled"] = true,
+["defaultY"] = 540.9999389648438,
+["defaultX"] = 1601.166625976563,
+["x"] = 1601.166625976563,
+["defaultScale"] = 1,
+["y"] = 540.9999389648438,
+["clamped"] = 1,
+},
+["2-Shample-Draenor-shample"] = {
+["defaultScale"] = 1,
+["defaultY"] = 447.800048828125,
+["defaultX"] = 1000.433288574219,
+["x"] = 1000.433288574219,
+["enabled"] = true,
+["y"] = 447.800048828125,
+["clamped"] = 1,
+},
+["2-Riseandshine-Draenor-Shadow"] = {
+["defaultScale"] = 1,
+["defaultY"] = 522.9999389648438,
+["settings"] = {
+[10] = 1,
+},
+["defaultX"] = 1088.333251953125,
+["x"] = 950.4331665039062,
+["y"] = 465.9665832519531,
+["enabled"] = true,
+["clamped"] = 1,
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["enabled"] = true,
+["defaultY"] = 490.5998840332031,
 ["settings"] = {
 },
+["defaultX"] = 982.5,
+["x"] = 495.8331298828125,
+["defaultScale"] = 1,
+["y"] = 455.6000366210938,
+["clamped"] = 1,
+},
+["1-MyDeafault"] = {
+["enabled"] = true,
+},
+["1-Default"] = {
+["enabled"] = true,
+["defaultY"] = 569.4999389648438,
+["settings"] = {
+},
+["defaultX"] = 992.9334106445312,
+["x"] = 1016.267211914063,
+["y"] = 580.333251953125,
+["defaultScale"] = 1,
+["clamped"] = 1,
 },
 ["2-Greedissgood-Draenor-2"] = {
-["y"] = 17,
-["x"] = 1147.833251953125,
-["settings"] = {
-},
+["defaultScale"] = 1,
+["defaultY"] = 270.0000305175781,
+["defaultX"] = 1118.333251953125,
+["x"] = 1118.333251953125,
+["enabled"] = true,
+["y"] = 270.0000305175781,
+["clamped"] = 1,
 },
 },
 },
 ["GameTooltipDefaultContainer"] = {
+["settings"] = {
+[12] = {
+},
+},
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Modern"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 ["settings"] = {
 [12] = {
 },
@@ -3190,19 +4760,25 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["1-MyDeafault"] = {
 ["settings"] = {
 [12] = {
 },
@@ -3220,19 +4796,19 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["0-Modern"] = {
+["0-Classic"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 ["settings"] = {
 [12] = {
 },
@@ -3247,9 +4823,29 @@ EditModeExpandedADB = {
 },
 },
 ["StanceBar"] = {
+["settings"] = {
+},
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Modern"] = {
+["settings"] = {
+},
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
 ["settings"] = {
+[12] = {
+},
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["settings"] = {
+[12] = {
+},
 },
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
@@ -3258,13 +4854,21 @@ EditModeExpandedADB = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["settings"] = {
 },
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
+["settings"] = {
 },
-["0-Classic"] = {
+},
+["1-Laptop"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 ["settings"] = {
@@ -3274,15 +4878,15 @@ EditModeExpandedADB = {
 ["settings"] = {
 },
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["settings"] = {
+[12] = {
 },
 },
-["0-Modern"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
-["settings"] = {
+["0-Classic"] = {
 },
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 ["settings"] = {
@@ -3292,27 +4896,35 @@ EditModeExpandedADB = {
 },
 ["MainMenuBarVehicleLeaveButton"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 },
 ["2-Nexùs-Draenor-Nexus"] = {
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 },
@@ -3320,290 +4932,271 @@ EditModeExpandedADB = {
 },
 ["MultiBarRight"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 },
 ["2-Nexùs-Draenor-Nexus"] = {
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 },
 },
 },
-["PossessActionBar"] = {
+["SecondaryStatusTrackingBarContainer"] = {
+["y"] = 0,
+["x"] = 1147.833251953125,
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["y"] = 33.70005416870117,
+["x"] = 1147.833251953125,
+["settings"] = {
+},
+},
+["0-Modern"] = {
+["settings"] = {
+},
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+["y"] = 31.49999046325684,
+["x"] = 1147.833251953125,
+["settings"] = {
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["y"] = 31.49999046325684,
+["x"] = 1147.833251953125,
+["settings"] = {
+},
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
+["y"] = 31.49999046325684,
+["x"] = 1147.833251953125,
+["settings"] = {
+},
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
+["y"] = 33.70005416870117,
+["x"] = 1147.833251953125,
+["settings"] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
+},
+["2-Poper-Silvermoon-popMeow"] = {
+["y"] = 0,
+["x"] = 1147.833251953125,
+["settings"] = {
+},
+},
+["1-Laptop"] = {
+["y"] = 33.70005416870117,
+["x"] = 1147.833251953125,
+["settings"] = {
+},
+},
+["1-MyDeafault"] = {
+},
+["2-Shample-Draenor-shample"] = {
+["y"] = 31.49999046325684,
+["x"] = 1147.833251953125,
+["settings"] = {
+},
+},
+["2-Nexùs-Draenor-Nexus"] = {
+["y"] = 0,
+["x"] = 1147.833251953125,
+["settings"] = {
+},
+},
+["1-Default"] = {
+["y"] = 33.70005416870117,
+["x"] = 1147.833251953125,
+["settings"] = {
+},
 },
 ["0-Classic"] = {
 },
-["2-Shample-Draenor-shample"] = {
-},
-["2-Nexùs-Draenor-Nexus"] = {
-},
-["2-Greedissgood-Draenor-Greedisgood"] = {
-},
-["0-Modern"] = {
-},
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
+["y"] = 17,
+["x"] = 1147.833251953125,
+["settings"] = {
 },
 },
 },
-["PlayerFrame"] = {
+},
+["MultiBarLeft"] = {
 ["profiles"] = {
-["2-Bonebilly-Draenor-Warrior"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["2-Hydrolic-Silvermoon-Hyrdolic"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["2-Greedissgood-Draenor-Lock"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
 ["2-Riseandshine-Draenor-OGRiseandShine"] = {
-["settings"] = {
-[12] = {
-1,
-["HidePermanently"] = 0,
-["HideIcons"] = 0,
-["HideName"] = 1,
-["HideLevel"] = 1,
-["HideTextures"] = 1,
-["HideHealth"] = 1,
-},
-},
-},
-["2-Poper-Silvermoon-Rogue"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["0-Classic"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["2-Shample-Draenor-shample"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["2-Nexùs-Draenor-Nexus"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["2-Greedissgood-Draenor-Greedisgood"] = {
-["settings"] = {
-[12] = {
-},
-},
 },
 ["0-Modern"] = {
-["settings"] = {
-[12] = {
 },
+["2-Bonebilly-Draenor-Warrior"] = {
 },
+["2-Greedissgood-Draenor-Greedisgood"] = {
+},
+["2-Hydrolic-Silvermoon-Hyrdolic"] = {
+},
+["2-Greedissgood-Draenor-Lock"] = {
+},
+["2-Riseandshine-Draenor-Shadow"] = {
 },
 ["2-Poper-Silvermoon-popMeow"] = {
-["settings"] = {
-[12] = {
 },
+["1-Laptop"] = {
 },
+["1-MyDeafault"] = {
+},
+["2-Shample-Draenor-shample"] = {
+},
+["2-Nexùs-Draenor-Nexus"] = {
+},
+["1-Default"] = {
+},
+["0-Classic"] = {
+},
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
-["settings"] = {
-[12] = {
-},
-},
 },
 },
 },
 ["EncounterBar"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 },
 ["2-Nexùs-Draenor-Nexus"] = {
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 },
 },
 },
-["GameMenuFrame"] = {
+["MultiBarBottomLeft"] = {
 ["profiles"] = {
-["2-Bonebilly-Draenor-Warrior"] = {
-["defaultScale"] = 1,
-["defaultY"] = 348.9999694824219,
-["defaultX"] = 1305.333129882813,
-["x"] = 1305.333129882813,
-["y"] = 348.9999694824219,
-["enabled"] = false,
-["clamped"] = 1,
-},
-["2-Hydrolic-Silvermoon-Hyrdolic"] = {
-["defaultScale"] = 1,
-["defaultY"] = 348.9999694824219,
-["defaultX"] = 1305.333129882813,
-["x"] = 1305.333129882813,
-["y"] = 348.9999694824219,
-["enabled"] = false,
-["clamped"] = 1,
-},
-["2-Greedissgood-Draenor-Lock"] = {
-["enabled"] = false,
-},
 ["2-Riseandshine-Draenor-OGRiseandShine"] = {
-["defaultScale"] = 1,
-["defaultY"] = 348.9999694824219,
-["defaultX"] = 1305.333129882813,
-["x"] = 1305.333129882813,
-["y"] = 348.9999694824219,
-["enabled"] = false,
-["clamped"] = 1,
-},
-["2-Poper-Silvermoon-Rogue"] = {
-["enabled"] = false,
-},
-["0-Classic"] = {
-["enabled"] = false,
-},
-["2-Shample-Draenor-shample"] = {
-["defaultScale"] = 1,
-["defaultY"] = 348.9999694824219,
-["defaultX"] = 1305.333129882813,
-["x"] = 1305.333129882813,
-["y"] = 348.9999694824219,
-["enabled"] = false,
-["clamped"] = 1,
-},
-["2-Nexùs-Draenor-Nexus"] = {
-["defaultScale"] = 1,
-["defaultY"] = 348.9999694824219,
-["defaultX"] = 1305.333129882813,
-["x"] = 1305.333129882813,
-["enabled"] = false,
-["y"] = 366.9999694824219,
-["clamped"] = 1,
-},
-["2-Greedissgood-Draenor-Greedisgood"] = {
-["enabled"] = false,
-["defaultY"] = 348.9999694824219,
-["defaultX"] = 1305.333129882813,
-["x"] = 1305.333129882813,
-["y"] = 348.9999694824219,
-["defaultScale"] = 1,
-["clamped"] = 1,
 },
 ["0-Modern"] = {
-["enabled"] = false,
 },
-["2-Poper-Silvermoon-popMeow"] = {
-["defaultScale"] = 1,
-["defaultY"] = 348.9999694824219,
-["defaultX"] = 1305.333129882813,
-["x"] = 1305.333129882813,
-["enabled"] = false,
-["y"] = 348.9999694824219,
-["clamped"] = 1,
-},
-["2-Greedissgood-Draenor-2"] = {
-["defaultScale"] = 1,
-["defaultY"] = 348.9999694824219,
-["defaultX"] = 1305.333129882813,
-["x"] = 1305.333129882813,
-["y"] = 348.9999694824219,
-["enabled"] = false,
-["clamped"] = 1,
-},
-},
-},
-["PartyFrame"] = {
-["profiles"] = {
 ["2-Bonebilly-Draenor-Warrior"] = {
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 },
 ["2-Nexùs-Draenor-Nexus"] = {
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 },
 },
 },
 ["ToT"] = {
+["enabled"] = true,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["clamped"] = 1,
 ["defaultScale"] = 1,
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["defaultScale"] = 1,
+["defaultY"] = 395.3999938964844,
+["settings"] = {
+[12] = {
+},
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["defaultX"] = 1190.933349609375,
+["x"] = 972.6326904296875,
+["enabled"] = false,
+["y"] = 404.5001525878906,
+["clamped"] = 1,
+},
+["0-Modern"] = {
+["enabled"] = true,
+["settings"] = {
+[12] = {
+},
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 383.54541015625,
@@ -3617,8 +5210,26 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 999.4846801757812,
 ["x"] = 906.2728271484375,
-["y"] = 595.6970825195312,
 ["enabled"] = true,
+["y"] = 595.6970825195312,
+["clamped"] = 1,
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["defaultScale"] = 1,
+["defaultY"] = 385.8181762695313,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+[12] = {
+["HidePermanently"] = 1,
+},
+},
+["defaultX"] = 999.3636474609375,
+["x"] = 977.3944091796875,
+["enabled"] = true,
+["y"] = 385.0606079101563,
 ["clamped"] = 1,
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
@@ -3633,9 +5244,9 @@ EditModeExpandedADB = {
 },
 },
 ["defaultX"] = 1737.939453125,
-["x"] = 1737.939453125,
-["y"] = 256.272705078125,
+["x"] = 826.5759887695312,
 ["enabled"] = true,
+["y"] = 141.1207427978516,
 ["clamped"] = 1,
 },
 ["2-Greedissgood-Draenor-Lock"] = {
@@ -3649,7 +5260,7 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["defaultScale"] = 1,
 ["defaultY"] = 395.3999938964844,
 ["settings"] = {
@@ -3666,8 +5277,20 @@ EditModeExpandedADB = {
 ["enabled"] = false,
 ["clamped"] = 1,
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 ["enabled"] = true,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+[12] = {
+},
+},
+},
+["1-Laptop"] = {
+["defaultScale"] = 1,
+["defaultY"] = 326.5833129882813,
 ["settings"] = {
 [12] = {
 },
@@ -3676,8 +5299,13 @@ EditModeExpandedADB = {
 },
 },
 },
+["defaultX"] = 1002.444519042969,
+["x"] = 1002.444519042969,
+["enabled"] = true,
+["y"] = 326.5833129882813,
+["clamped"] = 1,
 },
-["0-Classic"] = {
+["1-MyDeafault"] = {
 ["enabled"] = true,
 ["settings"] = {
 [12] = {
@@ -3701,8 +5329,8 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 1013.121154785156,
 ["x"] = 1013.121154785156,
-["y"] = 419.9091491699219,
 ["enabled"] = true,
+["y"] = 419.9091491699219,
 ["clamped"] = 1,
 },
 ["2-Nexùs-Draenor-Nexus"] = {
@@ -3718,29 +5346,28 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 1183.93310546875,
 ["x"] = 1934.400024414063,
-["enabled"] = true,
 ["y"] = 137.0000915527344,
+["enabled"] = true,
 ["clamped"] = 1,
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["defaultScale"] = 1,
-["defaultY"] = 385.8181762695313,
+["defaultY"] = 438.9999694824219,
 ["settings"] = {
+[12] = {
+},
 [17] = {
 ["AnchorToDropdown"] = {
 },
 },
-[12] = {
-["HidePermanently"] = 1,
 },
-},
-["defaultX"] = 999.3636474609375,
-["x"] = 977.3944091796875,
-["y"] = 385.0606079101563,
+["defaultX"] = 1144.433227539063,
+["x"] = 660.2662963867188,
+["y"] = 303.1667785644531,
 ["enabled"] = true,
 ["clamped"] = 1,
 },
-["0-Modern"] = {
+["0-Classic"] = {
 ["enabled"] = true,
 ["settings"] = {
 [12] = {
@@ -3751,14 +5378,14 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 ["enabled"] = true,
 ["settings"] = {
+[12] = {
+},
 [17] = {
 ["AnchorToDropdown"] = {
 },
-},
-[12] = {
 },
 },
 },
@@ -3775,71 +5402,348 @@ EditModeExpandedADB = {
 },
 ["defaultX"] = 1857.333374023438,
 ["x"] = 1857.333374023438,
-["y"] = 211,
 ["enabled"] = true,
+["y"] = 211,
 ["clamped"] = 1,
 },
 },
 },
-["ChatFrame1"] = {
+["ChatFrameChannelButton"] = {
+["defaultScale"] = 1,
+["defaultY"] = 189.0000152587891,
+["clamped"] = 1,
+["defaultX"] = -0.9999985098838806,
+["y"] = 189.0000152587891,
+["enabled"] = true,
+["x"] = -0.9999985098838806,
 ["profiles"] = {
-["2-Bonebilly-Draenor-Warrior"] = {
-},
-["2-Hydrolic-Silvermoon-Hyrdolic"] = {
-},
-["2-Greedissgood-Draenor-Lock"] = {
-},
 ["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["defaultScale"] = 1,
+["defaultY"] = 144,
+["settings"] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
-},
-["0-Classic"] = {
-},
-["2-Shample-Draenor-shample"] = {
-},
-["2-Nexùs-Draenor-Nexus"] = {
-},
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["defaultX"] = 2.000002861022949,
+["x"] = 44.5,
+["enabled"] = true,
+["y"] = 238.9999847412109,
+["clamped"] = 1,
 },
 ["0-Modern"] = {
+["enabled"] = true,
+["defaultY"] = 189.0000152587891,
+["defaultX"] = -0.9999985098838806,
+},
+["2-Bonebilly-Draenor-Warrior"] = {
+["defaultScale"] = 1,
+["defaultY"] = 126,
+["defaultX"] = 0.9999985098838806,
+["x"] = 0.9999985098838806,
+["enabled"] = true,
+["y"] = 126,
+["clamped"] = 1,
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["defaultScale"] = 1,
+["defaultY"] = 144,
+["defaultX"] = 2.000002861022949,
+["x"] = 2.000002861022949,
+["enabled"] = true,
+["y"] = 144,
+["clamped"] = 1,
+},
+["2-Hydrolic-Silvermoon-Hyrdolic"] = {
+["defaultScale"] = 1,
+["defaultY"] = 126,
+["defaultX"] = 10.99999618530273,
+["x"] = 10.99999618530273,
+["enabled"] = true,
+["y"] = 126,
+["clamped"] = 1,
+},
+["2-Greedissgood-Draenor-Lock"] = {
+["enabled"] = true,
+["defaultY"] = 189.0000152587891,
+["defaultX"] = -0.9999985098838806,
+},
+["2-Riseandshine-Draenor-Shadow"] = {
+["defaultScale"] = 1,
+["defaultY"] = 144,
+["settings"] = {
+},
+["defaultX"] = 2.000002861022949,
+["x"] = 44.5,
+["y"] = 238.9999847412109,
+["enabled"] = true,
+["clamped"] = 1,
 },
 ["2-Poper-Silvermoon-popMeow"] = {
+["y"] = 189.0000152587891,
+["x"] = -0.9999985098838806,
+["defaultX"] = -0.9999985098838806,
+["defaultY"] = 189.0000152587891,
+["enabled"] = true,
+},
+["1-Laptop"] = {
+["defaultScale"] = 1,
+["defaultY"] = 131.0000152587891,
+["defaultX"] = 0.9999985098838806,
+["x"] = 0.9999985098838806,
+["enabled"] = true,
+["y"] = 131.0000152587891,
+["clamped"] = 1,
+},
+["1-MyDeafault"] = {
+["enabled"] = true,
+["defaultY"] = 189.0000152587891,
+["defaultX"] = -0.9999985098838806,
+},
+["2-Shample-Draenor-shample"] = {
+["defaultScale"] = 1,
+["defaultY"] = 126,
+["defaultX"] = 0.9999985098838806,
+["x"] = 0.9999985098838806,
+["enabled"] = true,
+["y"] = 126,
+["clamped"] = 1,
+},
+["2-Nexùs-Draenor-Nexus"] = {
+["y"] = 189.0000152587891,
+["x"] = -0.9999985098838806,
+["defaultX"] = 2.000002861022949,
+["enabled"] = true,
+["defaultScale"] = 1,
+["defaultY"] = 144,
+["clamped"] = 1,
+},
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 131.0000152587891,
+["defaultX"] = 0.9999985098838806,
+["x"] = 0.9999985098838806,
+["y"] = 131.0000152587891,
+["enabled"] = true,
+["clamped"] = 1,
+},
+["0-Classic"] = {
+["enabled"] = true,
+["defaultY"] = 189.0000152587891,
+["defaultX"] = -0.9999985098838806,
+},
+["2-Poper-Silvermoon-Rogue"] = {
+["enabled"] = true,
+["defaultY"] = 189.0000152587891,
+["defaultX"] = -0.9999985098838806,
 },
 ["2-Greedissgood-Draenor-2"] = {
+["defaultScale"] = 1,
+["defaultY"] = 144,
+["defaultX"] = 2.000002861022949,
+["x"] = 2.000002861022949,
+["enabled"] = true,
+["y"] = 144,
+["clamped"] = 1,
 },
 },
 },
-["CompactRaidFrameContainer"] = {
+["BuffBarCooldownViewer"] = {
+["settings"] = {
+[17] = {
+["Resort"] = {
+["checked"] = "None",
+},
+},
+},
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["y"] = 606.7000122070312,
+["x"] = 1735.300170898438,
+["settings"] = {
+[17] = {
+["Resort"] = {
+["checked"] = "None",
+},
+},
+},
+},
+["0-Modern"] = {
+["settings"] = {
+[17] = {
+["Resort"] = {
+},
+},
+},
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+["y"] = 430,
+["x"] = 1852.833129882813,
+["settings"] = {
+[17] = {
+["Resort"] = {
+["checked"] = "None",
+},
+},
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["y"] = 430,
+["x"] = 1852.833129882813,
+["settings"] = {
+[17] = {
+["Resort"] = {
+["checked"] = "None",
+},
+},
+},
+},
+["2-Hydrolic-Silvermoon-Hyrdolic"] = {
+["y"] = 430,
+["x"] = 1852.833129882813,
+["settings"] = {
+[17] = {
+["Resort"] = {
+["checked"] = "None",
+},
+},
+},
+},
+["2-Greedissgood-Draenor-Lock"] = {
+},
+["2-Riseandshine-Draenor-Shadow"] = {
+["y"] = 606.7000122070312,
+["x"] = 1735.300170898438,
+["settings"] = {
+[17] = {
+["Resort"] = {
+["checked"] = "None",
+},
+},
+},
+},
+["2-Poper-Silvermoon-popMeow"] = {
+},
+["1-Laptop"] = {
+["y"] = 430,
+["x"] = 1852.833129882813,
+["settings"] = {
+[17] = {
+["Resort"] = {
+["checked"] = "None",
+},
+},
+},
+},
+["1-MyDeafault"] = {
+["settings"] = {
+[17] = {
+["Resort"] = {
+},
+},
+},
+},
+["2-Shample-Draenor-shample"] = {
+["y"] = 463,
+["x"] = 1735.333374023438,
+},
+["2-Nexùs-Draenor-Nexus"] = {
+["y"] = 430,
+["x"] = 1852.833129882813,
+["settings"] = {
+[17] = {
+["Resort"] = {
+["checked"] = "None",
+},
+},
+},
+},
+["1-Default"] = {
+["y"] = 430,
+["x"] = 1852.833129882813,
+["settings"] = {
+[17] = {
+["Resort"] = {
+["checked"] = "None",
+},
+},
+},
+},
+["0-Classic"] = {
+},
+["2-Poper-Silvermoon-Rogue"] = {
+},
+["2-Greedissgood-Draenor-2"] = {
+["y"] = 430,
+["x"] = 1852.833129882813,
+["settings"] = {
+[17] = {
+["Resort"] = {
+["checked"] = "None",
+},
+},
+},
+},
+},
+},
+["PossessActionBar"] = {
+["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+},
+["0-Modern"] = {
+},
+["2-Bonebilly-Draenor-Warrior"] = {
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 },
 ["2-Nexùs-Draenor-Nexus"] = {
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 },
 },
 },
 ["ObjectiveTrackerFrame"] = {
+["settings"] = {
+[12] = {
+},
+},
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Modern"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 ["settings"] = {
 [12] = {
 },
@@ -3857,19 +5761,25 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["1-MyDeafault"] = {
 ["settings"] = {
 [12] = {
 },
@@ -3887,19 +5797,19 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["0-Modern"] = {
+["0-Classic"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 ["settings"] = {
 [12] = {
 },
@@ -3913,193 +5823,103 @@ EditModeExpandedADB = {
 },
 },
 },
-["PetFrame"] = {
+["CompactRaidFrameContainer"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
-["settings"] = {
-[12] = {
 },
-},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
-["settings"] = {
-[12] = {
-},
-},
 },
 ["2-Greedissgood-Draenor-Lock"] = {
-["settings"] = {
-[12] = {
 },
-},
-},
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["2-Poper-Silvermoon-Rogue"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["0-Classic"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["2-Shample-Draenor-shample"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["2-Nexùs-Draenor-Nexus"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["2-Greedissgood-Draenor-Greedisgood"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["0-Modern"] = {
-["settings"] = {
-[12] = {
-},
-},
+["2-Riseandshine-Draenor-Shadow"] = {
 },
 ["2-Poper-Silvermoon-popMeow"] = {
-["settings"] = {
-[12] = {
 },
+["1-Laptop"] = {
 },
+["1-MyDeafault"] = {
+},
+["2-Shample-Draenor-shample"] = {
+},
+["2-Nexùs-Draenor-Nexus"] = {
+},
+["1-Default"] = {
+},
+["0-Classic"] = {
+},
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
-["settings"] = {
-[12] = {
 },
 },
 },
-},
-},
-["MicroMenuContainer"] = {
+["ArcheologyDigsiteProgressBar"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
-["settings"] = {
-[17] = {
-["PaddingDropdown"] = {
 },
-},
-[12] = {
-},
-},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
-["settings"] = {
-[17] = {
-["PaddingDropdown"] = {
-},
-},
-[12] = {
-},
-},
 },
 ["2-Greedissgood-Draenor-Lock"] = {
-["settings"] = {
-[12] = {
 },
-},
-},
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
-["settings"] = {
-[17] = {
-["PaddingDropdown"] = {
-},
-},
-[12] = {
-},
-},
-},
-["2-Poper-Silvermoon-Rogue"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["0-Classic"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["2-Shample-Draenor-shample"] = {
-["settings"] = {
-[17] = {
-["PaddingDropdown"] = {
-},
-},
-[12] = {
-},
-},
-},
-["2-Nexùs-Draenor-Nexus"] = {
-["settings"] = {
-[17] = {
-["PaddingDropdown"] = {
-},
-},
-[12] = {
-},
-},
-},
-["2-Greedissgood-Draenor-Greedisgood"] = {
-["settings"] = {
-[12] = {
-},
-[17] = {
-["PaddingDropdown"] = {
-},
-},
-},
-},
-["0-Modern"] = {
-["settings"] = {
-[12] = {
-},
-},
+["2-Riseandshine-Draenor-Shadow"] = {
 },
 ["2-Poper-Silvermoon-popMeow"] = {
-["settings"] = {
-[17] = {
-["PaddingDropdown"] = {
 },
+["1-Laptop"] = {
 },
-[12] = {
+["1-MyDeafault"] = {
 },
+["2-Shample-Draenor-shample"] = {
 },
+["2-Nexùs-Draenor-Nexus"] = {
+},
+["1-Default"] = {
+},
+["0-Classic"] = {
+},
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
-["settings"] = {
-[17] = {
-["PaddingDropdown"] = {
-},
-},
-[12] = {
-},
-},
 },
 },
 },
 ["MinimapCluster"] = {
+["settings"] = {
+[12] = {
+},
+},
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Modern"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 ["settings"] = {
 [12] = {
 },
@@ -4117,19 +5937,25 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["1-MyDeafault"] = {
 ["settings"] = {
 [12] = {
 },
@@ -4147,19 +5973,19 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["0-Modern"] = {
+["0-Classic"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 ["settings"] = {
 [12] = {
 },
@@ -4173,108 +5999,67 @@ EditModeExpandedADB = {
 },
 },
 },
-["QuickJoinToastButton"] = {
-["defaultScale"] = 1,
-["defaultY"] = 268,
-["defaultX"] = -1.999997019767761,
+["MultiBar7"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
-["defaultScale"] = 1,
-["defaultY"] = 205.0000152587891,
-["defaultX"] = 0,
-["x"] = 0,
-["y"] = 205.0000152587891,
-["enabled"] = true,
-["clamped"] = 1,
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
-["defaultScale"] = 1,
-["defaultY"] = 205.0000152587891,
-["defaultX"] = 9.999996185302734,
-["x"] = 9.999996185302734,
-["y"] = 205.0000152587891,
-["enabled"] = true,
-["clamped"] = 1,
 },
 ["2-Greedissgood-Draenor-Lock"] = {
-["enabled"] = true,
-["defaultY"] = 268,
-["defaultX"] = -1.999997019767761,
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
-["defaultScale"] = 1,
-["defaultY"] = 223,
-["settings"] = {
-},
-["defaultX"] = 1.000004291534424,
-["x"] = 6.00000524520874,
-["y"] = 239.6665649414063,
-["enabled"] = true,
-["clamped"] = 1,
-},
-["2-Poper-Silvermoon-Rogue"] = {
-["enabled"] = true,
-["defaultY"] = 268,
-["defaultX"] = -1.999997019767761,
-},
-["0-Classic"] = {
-["enabled"] = true,
-["defaultY"] = 268,
-["defaultX"] = -1.999997019767761,
-},
-["2-Shample-Draenor-shample"] = {
-["defaultScale"] = 1,
-["defaultY"] = 205.0000152587891,
-["defaultX"] = 0,
-["x"] = 0,
-["y"] = 205.0000152587891,
-["enabled"] = true,
-["clamped"] = 1,
-},
-["2-Nexùs-Draenor-Nexus"] = {
-["y"] = 268,
-["x"] = -1.999997019767761,
-["defaultX"] = 1.000004291534424,
-["enabled"] = true,
-["defaultY"] = 223,
-["defaultScale"] = 1,
-["clamped"] = 1,
-},
-["2-Greedissgood-Draenor-Greedisgood"] = {
-["defaultScale"] = 1,
-["defaultY"] = 223,
-["defaultX"] = 1.000004291534424,
-["x"] = 1.000004291534424,
-["y"] = 223,
-["enabled"] = true,
-["clamped"] = 1,
-},
-["0-Modern"] = {
-["enabled"] = true,
-["defaultY"] = 268,
-["defaultX"] = -1.999997019767761,
+["2-Riseandshine-Draenor-Shadow"] = {
 },
 ["2-Poper-Silvermoon-popMeow"] = {
-["y"] = 268,
-["x"] = -1.999997019767761,
-["defaultX"] = -1.999997019767761,
-["enabled"] = true,
-["defaultY"] = 268,
+},
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
+},
+["2-Shample-Draenor-shample"] = {
+},
+["2-Nexùs-Draenor-Nexus"] = {
+},
+["1-Default"] = {
+},
+["0-Classic"] = {
+},
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
-["defaultScale"] = 1,
-["defaultY"] = 223,
-["defaultX"] = 1.000004291534424,
-["x"] = 1.000004291534424,
-["y"] = 223,
-["enabled"] = true,
-["clamped"] = 1,
 },
 },
 },
 ["BuffFrame"] = {
+["settings"] = {
+[12] = {
+},
+},
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Modern"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 ["settings"] = {
 [12] = {
 },
@@ -4292,19 +6077,25 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["1-MyDeafault"] = {
 ["settings"] = {
 [12] = {
 },
@@ -4322,19 +6113,19 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["0-Modern"] = {
+["0-Classic"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 ["settings"] = {
 [12] = {
 },
@@ -4350,27 +6141,35 @@ EditModeExpandedADB = {
 },
 ["LootFrame"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 },
 ["2-Nexùs-Draenor-Nexus"] = {
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 },
@@ -4378,35 +6177,65 @@ EditModeExpandedADB = {
 },
 ["MultiBar5"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 },
 ["2-Nexùs-Draenor-Nexus"] = {
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 },
 },
 },
 ["BossTargetFrameContainer"] = {
+["settings"] = {
+[12] = {
+},
+},
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Modern"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 ["settings"] = {
 [12] = {
 },
@@ -4424,19 +6253,25 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["1-MyDeafault"] = {
 ["settings"] = {
 [12] = {
 },
@@ -4454,19 +6289,19 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["0-Modern"] = {
+["0-Classic"] = {
 ["settings"] = {
 [12] = {
 },
 },
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 ["settings"] = {
 [12] = {
 },
@@ -4480,16 +6315,62 @@ EditModeExpandedADB = {
 },
 },
 },
-["TargetFrame"] = {
+["MicroMenuContainer"] = {
+["settings"] = {
+[17] = {
+["PaddingDropdown"] = {
+},
+},
+[12] = {
+},
+},
 ["profiles"] = {
-["2-Bonebilly-Draenor-Warrior"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["settings"] = {
+[17] = {
+["PaddingDropdown"] = {
+},
+},
+[12] = {
+},
+},
+},
+["0-Modern"] = {
 ["settings"] = {
 [12] = {
+},
+[17] = {
+["PaddingDropdown"] = {
+},
+},
+},
+},
+["2-Bonebilly-Draenor-Warrior"] = {
+["settings"] = {
+[17] = {
+["PaddingDropdown"] = {
+},
+},
+[12] = {
+},
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["settings"] = {
+[12] = {
+},
+[17] = {
+["PaddingDropdown"] = {
+},
 },
 },
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 ["settings"] = {
+[17] = {
+["PaddingDropdown"] = {
+},
+},
 [12] = {
 },
 },
@@ -4500,7 +6381,73 @@ EditModeExpandedADB = {
 },
 },
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
+["settings"] = {
+[17] = {
+["PaddingDropdown"] = {
+},
+},
+[12] = {
+},
+},
+},
+["2-Poper-Silvermoon-popMeow"] = {
+["settings"] = {
+[17] = {
+["PaddingDropdown"] = {
+},
+},
+[12] = {
+},
+},
+},
+["1-Laptop"] = {
+["settings"] = {
+[17] = {
+["PaddingDropdown"] = {
+},
+},
+[12] = {
+},
+},
+},
+["1-MyDeafault"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["2-Shample-Draenor-shample"] = {
+["settings"] = {
+[17] = {
+["PaddingDropdown"] = {
+},
+},
+[12] = {
+},
+},
+},
+["2-Nexùs-Draenor-Nexus"] = {
+["settings"] = {
+[17] = {
+["PaddingDropdown"] = {
+},
+},
+[12] = {
+},
+},
+},
+["1-Default"] = {
+["settings"] = {
+[12] = {
+},
+[17] = {
+["PaddingDropdown"] = {
+},
+},
+},
+},
+["0-Classic"] = {
 ["settings"] = {
 [12] = {
 },
@@ -4512,44 +6459,12 @@ EditModeExpandedADB = {
 },
 },
 },
-["0-Classic"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["2-Shample-Draenor-shample"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["2-Nexùs-Draenor-Nexus"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["2-Greedissgood-Draenor-Greedisgood"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["0-Modern"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
-["2-Poper-Silvermoon-popMeow"] = {
-["settings"] = {
-[12] = {
-},
-},
-},
 ["2-Greedissgood-Draenor-2"] = {
 ["settings"] = {
+[17] = {
+["PaddingDropdown"] = {
+},
+},
 [12] = {
 },
 },
@@ -4558,154 +6473,121 @@ EditModeExpandedADB = {
 },
 ["MultiBarBottomRight"] = {
 ["profiles"] = {
+["2-Riseandshine-Draenor-OGRiseandShine"] = {
+},
+["0-Modern"] = {
+},
 ["2-Bonebilly-Draenor-Warrior"] = {
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
 },
 ["2-Hydrolic-Silvermoon-Hyrdolic"] = {
 },
 ["2-Greedissgood-Draenor-Lock"] = {
 },
-["2-Riseandshine-Draenor-OGRiseandShine"] = {
+["2-Riseandshine-Draenor-Shadow"] = {
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["2-Poper-Silvermoon-popMeow"] = {
 },
-["0-Classic"] = {
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 },
 ["2-Nexùs-Draenor-Nexus"] = {
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 },
 },
 },
-["ChatFrameChannelButton"] = {
-["defaultScale"] = 1,
-["defaultY"] = 189.0000152587891,
-["defaultX"] = -0.9999985098838806,
+["PartyFrame"] = {
 ["profiles"] = {
-["2-Bonebilly-Draenor-Warrior"] = {
-["defaultScale"] = 1,
-["defaultY"] = 126,
-["defaultX"] = 0.9999985098838806,
-["x"] = 0.9999985098838806,
-["y"] = 126,
-["enabled"] = true,
-["clamped"] = 1,
-},
-["2-Hydrolic-Silvermoon-Hyrdolic"] = {
-["defaultScale"] = 1,
-["defaultY"] = 126,
-["defaultX"] = 10.99999618530273,
-["x"] = 10.99999618530273,
-["y"] = 126,
-["enabled"] = true,
-["clamped"] = 1,
-},
-["2-Greedissgood-Draenor-Lock"] = {
-["enabled"] = true,
-["defaultY"] = 189.0000152587891,
-["defaultX"] = -0.9999985098838806,
-},
 ["2-Riseandshine-Draenor-OGRiseandShine"] = {
-["defaultScale"] = 1,
-["defaultY"] = 144,
-["settings"] = {
-},
-["defaultX"] = 2.000002861022949,
-["x"] = 44.5,
-["y"] = 238.9999847412109,
-["enabled"] = true,
-["clamped"] = 1,
-},
-["2-Poper-Silvermoon-Rogue"] = {
-["enabled"] = true,
-["defaultY"] = 189.0000152587891,
-["defaultX"] = -0.9999985098838806,
-},
-["0-Classic"] = {
-["enabled"] = true,
-["defaultY"] = 189.0000152587891,
-["defaultX"] = -0.9999985098838806,
-},
-["2-Shample-Draenor-shample"] = {
-["defaultScale"] = 1,
-["defaultY"] = 126,
-["defaultX"] = 0.9999985098838806,
-["x"] = 0.9999985098838806,
-["y"] = 126,
-["enabled"] = true,
-["clamped"] = 1,
-},
-["2-Nexùs-Draenor-Nexus"] = {
-["y"] = 189.0000152587891,
-["x"] = -0.9999985098838806,
-["defaultX"] = 2.000002861022949,
-["enabled"] = true,
-["defaultY"] = 144,
-["defaultScale"] = 1,
-["clamped"] = 1,
-},
-["2-Greedissgood-Draenor-Greedisgood"] = {
-["defaultScale"] = 1,
-["defaultY"] = 144,
-["defaultX"] = 2.000002861022949,
-["x"] = 2.000002861022949,
-["y"] = 144,
-["enabled"] = true,
-["clamped"] = 1,
 },
 ["0-Modern"] = {
-["enabled"] = true,
-["defaultY"] = 189.0000152587891,
-["defaultX"] = -0.9999985098838806,
+},
+["2-Bonebilly-Draenor-Warrior"] = {
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+},
+["2-Hydrolic-Silvermoon-Hyrdolic"] = {
+},
+["2-Greedissgood-Draenor-Lock"] = {
+},
+["2-Riseandshine-Draenor-Shadow"] = {
 },
 ["2-Poper-Silvermoon-popMeow"] = {
-["y"] = 189.0000152587891,
-["x"] = -0.9999985098838806,
-["defaultX"] = -0.9999985098838806,
-["enabled"] = true,
-["defaultY"] = 189.0000152587891,
+},
+["1-Laptop"] = {
+},
+["1-MyDeafault"] = {
+},
+["2-Shample-Draenor-shample"] = {
+},
+["2-Nexùs-Draenor-Nexus"] = {
+},
+["1-Default"] = {
+},
+["0-Classic"] = {
+},
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
-["defaultScale"] = 1,
-["defaultY"] = 144,
-["defaultX"] = 2.000002861022949,
-["x"] = 2.000002861022949,
-["y"] = 144,
-["enabled"] = true,
-["clamped"] = 1,
 },
 },
 },
 ["EssentialCooldownViewer"] = {
 ["profiles"] = {
-["2-Bonebilly-Draenor-Warrior"] = {
-["y"] = 1199,
-["x"] = 0,
-["settings"] = {
-},
-},
-["2-Hydrolic-Silvermoon-Hyrdolic"] = {
-["y"] = 1199,
-["x"] = 0,
-},
-["2-Greedissgood-Draenor-Lock"] = {
-},
 ["2-Riseandshine-Draenor-OGRiseandShine"] = {
 ["y"] = 398.6666564941406,
 ["x"] = 1215.633422851563,
 ["settings"] = {
 },
 },
-["2-Poper-Silvermoon-Rogue"] = {
+["0-Modern"] = {
 },
-["0-Classic"] = {
+["2-Bonebilly-Draenor-Warrior"] = {
+["y"] = 1199,
+["x"] = 0,
+["settings"] = {
+},
+},
+["2-Greedissgood-Draenor-Greedisgood"] = {
+["y"] = 1199,
+["x"] = 0,
+["settings"] = {
+},
+},
+["2-Hydrolic-Silvermoon-Hyrdolic"] = {
+["y"] = 1199,
+["x"] = 0,
+["settings"] = {
+},
+},
+["2-Greedissgood-Draenor-Lock"] = {
+},
+["2-Riseandshine-Draenor-Shadow"] = {
+["y"] = 398.6666564941406,
+["x"] = 1215.633422851563,
+["settings"] = {
+},
+},
+["2-Poper-Silvermoon-popMeow"] = {
+["settings"] = {
+},
+},
+["1-Laptop"] = {
+["y"] = 1199,
+["x"] = 0,
+},
+["1-MyDeafault"] = {
 },
 ["2-Shample-Draenor-shample"] = {
 ["y"] = 103.7000045776367,
@@ -4719,15 +6601,13 @@ EditModeExpandedADB = {
 ["settings"] = {
 },
 },
-["2-Greedissgood-Draenor-Greedisgood"] = {
+["1-Default"] = {
 ["y"] = 1199,
 ["x"] = 0,
 },
-["0-Modern"] = {
+["0-Classic"] = {
 },
-["2-Poper-Silvermoon-popMeow"] = {
-["settings"] = {
-},
+["2-Poper-Silvermoon-Rogue"] = {
 },
 ["2-Greedissgood-Draenor-2"] = {
 ["y"] = 1199,
@@ -4737,12 +6617,14 @@ EditModeExpandedADB = {
 },
 },
 ["profileKeys"] = {
+["Worganizer - Silvermoon"] = "Worganizer - Silvermoon",
+["Poper - Silvermoon"] = "Poper - Silvermoon",
+["Judgerinio - Silvermoon"] = "Judgerinio - Silvermoon",
 ["Shample - Draenor"] = "Shample - Draenor",
-["Greedissgood - Draenor"] = "Greedissgood - Draenor",
 ["Riseandshine - Draenor"] = "Riseandshine - Draenor",
 ["Nexùs - Draenor"] = "Nexùs - Draenor",
-["Poper - Silvermoon"] = "Poper - Silvermoon",
-["Hydrolic - Silvermoon"] = "Hydrolic - Silvermoon",
 ["Bonebilly - Draenor"] = "Bonebilly - Draenor",
+["Greedissgood - Draenor"] = "Greedissgood - Draenor",
+["Hydrolic - Silvermoon"] = "Hydrolic - Silvermoon",
 },
 }

@@ -1,9 +1,9 @@
-## Interface: 110105, 40402
+## Interface: 110105, 110107, 50500, 40402
 ## Title: Scotty
 ## Notes: Your personal transportation assistant
 ## Author: eXochron
 ## IconTexture: Interface\Addons\Scotty\icon.png
-## Version: 10
+## Version: 11
 ## SavedVariables: ScottyGlobalSettings
 ## X-Curse-Project-ID: 1166725
 ## X-Wago-ID: kGr0EX6y

@@ -454,7 +454,6 @@ L["Ease In"] = "Плавное начало"
 L["Ease In and Out"] = "Плавное начало и окончание"
 L["Ease Out"] = "Плавное окончание"
 L["Ebonroc"] = "Черноскал"
-L["Eclipse"] = "Затмение"
 L["Eclipse Direction"] = "Направление затмения"
 L["Edge"] = "Эффект Edge (кромка)"
 L["Edge of Madness"] = "Грань Безумия"
@@ -609,6 +608,8 @@ L["Global Cooldown"] = "Общее время восстановления (GCD)
 L["Glow"] = "Свечение"
 L["Glow External Element"] = "Свечение внешнего элемента"
 L["Gluth"] = "Глут"
+--[[Translation missing --]]
+L["Glyph"] = "Glyph"
 L["Gold"] = "Золото"
 L["Golemagg the Incinerator"] = "Големагг Испепелитель"
 L["Gothik the Harvester"] = "Готик Жнец"
@@ -670,8 +671,8 @@ L["Hybrid"] = "Гибридная"
 L["Icon"] = "Иконка"
 L["Icon Function"] = "Функция иконки"
 L["Icon Function (fallback state)"] = "Функция иконки (резервное состояние)"
-L["ID"] = "ID"
 L["Id"] = "ID"
+L["ID"] = "ID"
 L["If you require additional assistance, please open a ticket on GitHub or visit our Discord at https://discord.gg/weakauras!"] = "Если вам необходима дополнительная помощь, пожалуйста, откройте запрос на GitHub или посетите наш сервер в Discord по адресу https://discord.gg/weakauras."
 L["Ignore Dead"] = "Не учитывать мёртвые цели"
 L["Ignore Disconnected"] = "Не учитывать игроков не в сети"
@@ -824,9 +825,9 @@ L[ [=[Matches stage number of encounter journal.
 Intermissions are .5
 E.g. 1;2;1;2;2.5;3]=] ] = [=[Совпадает с номером фазы в журнале сражения с боссом. Смена фаз нумеруется как x.5
 Например: 1, 2, 1, 2, 2.5, 3.]=]
+L["Max Char "] = "Макс. количество символов"
 --[[Translation missing --]]
 L["Max Char"] = "Max Char"
-L["Max Char "] = "Макс. количество символов"
 L["Max Charges"] = "Макс. количество зарядов"
 L["Max Health"] = "Макс. запас здоровья"
 L["Max Power"] = "Макс. запас энергии"
@@ -1179,9 +1180,12 @@ https://github.com/WeakAuras/WeakAuras2/wiki/Protected-Frames]=]
 L["Select Frame"] = "Выбрать кадр"
 L["Selection Mode"] = "Режим выбора"
 L["Separator"] = "Разделитель"
-L["Set IDs can be found on websites such as classic.wowhead.com/item-sets"] = "ID комплектов можно найти на ru.classic.wowhead.com/item-sets"
 L["Set IDs can be found on websites such as wowhead.com/cata/item-sets"] = "Идентификаторы комплектов можно найти здесь - wowhead.com/cata/item-sets"
+--[[Translation missing --]]
+L["Set IDs can be found on websites such as wowhead.com/classic/item-sets"] = "Set IDs can be found on websites such as wowhead.com/classic/item-sets"
 L["Set IDs can be found on websites such as wowhead.com/item-sets"] = "ID комплектов можно найти на ru.wowhead.com/item-sets"
+--[[Translation missing --]]
+L["Set IDs can be found on websites such as wowhead.com/mop-classic/item-sets"] = "Set IDs can be found on websites such as wowhead.com/mop-classic/item-sets"
 L["Shadow Resistance"] = "Сопротивление темной магии"
 L["Shadowlands"] = "Shadowlands"
 L["Shake"] = "Дрожь"

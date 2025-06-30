@@ -399,18 +399,18 @@ function platerInternal.CreateDataTables(Plater)
             path = [[Interface\AddOns\Plater\media\arrow_single_right_64]],
             coords = {
                 {0, 1, 0, 1},
-                {0, 0, 0, 0}
+                {1, 0, 0, 1}
             },
             desaturated = false,
             width = 20,
             height = 20,
             x = 28,
-            y = 20,
-            wscale = 1.2,
-            hscale = 1.2,
+            y = 0,
+            wscale = 1.5,
+            hscale = 2,
             autoScale = true,
             --scale = 1,
-            blend = "BLEND",
+            blend = "ADD",
             color = "white",
         },
 

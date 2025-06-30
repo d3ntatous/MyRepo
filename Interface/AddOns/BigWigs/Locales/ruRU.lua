@@ -2,6 +2,8 @@ local _, addonTbl = ...
 local L = addonTbl.API:NewLocale("BigWigs", "ruRU")
 if not L then return end
 
+--L.tempNew = "NEW: You can now type |cFFFFFFFF/bwtemp|r to see the Mythic+ keystones of your party members."
+
 -- Core.lua
 L.berserk = "Берсерк"
 L.berserk_desc = "Предупреждать и отсчитывать время до берсерка."
@@ -261,7 +263,29 @@ L.N25 = "Нормал 25"
 L.H10 = "Героик 10"
 L.H25 = "Героик 25"
 
+-----------------------------------------------------------------------
+-- TOOLS
+-----------------------------------------------------------------------
 
+--L.youAreInCombat = "You cannot do that in combat."
+
+-----------------------------------------------------------------------
+-- Keystones.lua
+--
+
+--L.keystoneTitle = "BigWigs Keystones"
+--L.keystoneHeaderParty = "Party"
+--L.keystoneRefreshParty = "Refresh Party"
+--L.keystoneHeaderGuild = "Guild"
+--L.keystoneRefreshGuild = "Refresh Guild"
+--L.keystoneLevelTooltip = "Keystone level: |cFFFFFFFF%s|r"
+--L.keystoneMapTooltip = "Dungeon: |cFFFFFFFF%s|r"
+--L.keystoneRatingTooltip = "Mythic+ rating: |cFFFFFFFF%d|r"
+--L.keystoneHiddenTooltip = "The player has chosen to hide this information."
+--L.keystoneTabOnline = "Online"
+--L.keystoneTabAlts = "Alts"
+--L.keystoneTabTeleports = "Teleports"
+--L.keystoneHeaderMyCharacters = "My Characters"
 
 -----------------------------------------------------------------------
 -- PLUGINS
@@ -281,6 +305,7 @@ L.sizeDesc = "Обычно размеры меняются перемещени�
 L.fontSizeDesc = "Отрегулируйте размер шрифта с помощью ползунка или введите значение вручную в поле, если оно выше 200."
 L.disabled = "Отключить"
 L.disableDesc = "Вы собираетесь отключить функцию '%s', делать это |cffff4411не рекомендуется|r.\n\nВы уверены, что хотите этого?"
+--L.keybinding = "Keybinding"
 
 -- Anchor Points
 L.UP = "Верх"
@@ -688,6 +713,8 @@ L.sendPull = "Отправляю пулл таймер группе."
 L.wrongPullFormat = "Неправильная команда. Пример правильного формата: /pull 5"
 L.countdownBegins = "Начать отсчет"
 L.countdownBegins_desc = "Выберите, сколько времени должно оставаться до пулла (в секундах), когда начнется обратный отсчет."
+--L.pullExplainer = "\n|cFF33FF99/pull|r will start a normal pull timer.\n|cFF33FF99/pull 7|r will start a 7 second pull timer, you can use any number.\nAlternatively, you can also set a keybinding below.\n\n"
+--L.pullKeybindingDesc = "Choose a keybinding for starting a pull timer."
 
 -----------------------------------------------------------------------
 -- RaidIcon.lua

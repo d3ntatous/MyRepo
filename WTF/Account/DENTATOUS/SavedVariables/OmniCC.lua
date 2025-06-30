@@ -1,17 +1,19 @@
 
 OmniCCDB = {
-["global"] = {
-["dbVersion"] = 6,
-["addonVersion"] = "11.2.3",
-},
 ["profileKeys"] = {
+["Worganizer - Silvermoon"] = "Default",
+["Poper - Silvermoon"] = "Default",
+["Judgerinio - Silvermoon"] = "Default",
 ["Shample - Draenor"] = "Default",
-["Greedissgood - Draenor"] = "Default",
 ["Riseandshine - Draenor"] = "Default",
 ["Nexùs - Draenor"] = "Default",
-["Poper - Silvermoon"] = "Default",
-["Hydrolic - Silvermoon"] = "Default",
 ["Bonebilly - Draenor"] = "Default",
+["Greedissgood - Draenor"] = "Default",
+["Hydrolic - Silvermoon"] = "Default",
+},
+["global"] = {
+["dbVersion"] = 6,
+["addonVersion"] = "11.2.4",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -57,16 +59,16 @@ OmniCCDB = {
 ["themes"] = {
 ["Default"] = {
 ["textStyles"] = {
-["minutes"] = {
+["soon"] = {
+["b"] = 0.09803922474384308,
+["g"] = 0.09803922474384308,
+["r"] = 0.9568628072738647,
 },
 ["seconds"] = {
 ["b"] = 0.2274509966373444,
 ["g"] = 0.988235354423523,
 },
-["soon"] = {
-["b"] = 0.09803922474384308,
-["g"] = 0.09803922474384308,
-["r"] = 0.9568628072738647,
+["minutes"] = {
 },
 ["controlled"] = {
 ["b"] = 0.09803922474384308,
@@ -74,21 +76,21 @@ OmniCCDB = {
 ["r"] = 0.9647059440612793,
 },
 },
-["fontSize"] = 16,
-["fontOutline"] = "THICKOUTLINE",
 ["fontFace"] = "Interface\\Addons\\SharedMedia\\fonts\\tex_gyre_adventor\\texgyreadventor-bold.otf",
+["fontOutline"] = "THICKOUTLINE",
+["fontSize"] = 16,
 },
 ["Plater Nameplates Theme"] = {
 ["textStyles"] = {
-["seconds"] = {
-},
 ["soon"] = {
+},
+["seconds"] = {
 },
 ["minutes"] = {
 },
 },
-["fontSize"] = 16,
 ["fontFace"] = "Interface\\Addons\\SharedMedia\\fonts\\tex_gyre_adventor\\texgyreadventor-bold.otf",
+["fontSize"] = 16,
 },
 },
 },

@@ -59,7 +59,7 @@ local bossUtilityFrame = CreateFrame("Frame")
 local petUtilityFrame = CreateFrame("Frame")
 local activeNameplateUtilityFrame, inactiveNameplateUtilityFrame = CreateFrame("Frame"), CreateFrame("Frame")
 local engagedGUIDs, activeNameplates, nameplateWatcher = {}, {}, nil
-local enabledModules, unitTargetScans, scheduledEvents = {}, {}, {}
+local enabledModules, unitTargetScans, scheduledEvents, ieeuEvents = {}, {}, {}, {}
 local allowedEvents = {}
 local difficulty, maxPlayers
 local UpdateDispelStatus, UpdateInterruptStatus = nil, nil
@@ -558,12 +558,14 @@ function boss:Disable(isWipe)
 			activeNameplates = {}
 			unitTargetScans = {}
 			scheduledEvents = {}
+			ieeuEvents = {}
 		else
 			for i = #unitTargetScans, 1, -1 do
 				if self == unitTargetScans[i][1] then
 					tremove(unitTargetScans, i)
 				end
 			end
+			ieeuEvents[self] = nil
 		end
 
 		-- Unregister the Unit Events for this module
@@ -1146,35 +1148,6 @@ do
 		end
 	end
 
-	local bosses = {"boss1", "boss2", "boss3", "boss4", "boss5"}
-	-- Update module engage status from querying boss units.
-	-- Engages modules if boss1-boss5 matches an registered enabled mob,
-	-- disables the module if set as engaged but has no boss match.
-	-- noEngage if set to "NoEngage", the module is prevented from engaging if enabling during a boss fight (after a DC)
-	function boss:CheckForEncounterEngage(noEngage)
-		if not self:IsEngaged() then
-			for i = 1, 5 do
-				local bossUnit = bosses[i]
-				local guid = UnitGUID(bossUnit)
-				if guid and UnitHealth(bossUnit) > 0 then
-					local mobId = self:MobId(guid)
-					if self:IsEnableMob(mobId) then
-						self:Engage(noEngage == "NoEngage" and noEngage)
-						return
-					elseif not self.disableTimer then
-						self.disableTimer = true
-						self:SimpleTimer(function()
-							self.disableTimer = nil
-							if not self:IsEngaged() then
-								self:Disable()
-							end
-						end, 3) -- 3 seconds should be enough time for the IEEU event to enable all the boss frames (fires once per boss frame)
-					end
-				end
-			end
-		end
-	end
-
 	-- Query boss units to update engage status.
 	function boss:CheckBossStatus()
 		local hasBoss = UnitHealth("boss1") > 0 or UnitHealth("boss2") > 0 or UnitHealth("boss3") > 0 or UnitHealth("boss4") > 0 or UnitHealth("boss5") > 0
@@ -1187,6 +1160,84 @@ do
 		else
 			self:Debug(":CheckBossStatus called with no result", "IsEngaged():", self:IsEngaged(), "hasBoss:", hasBoss, self:GetEncounterID(), self.moduleName)
 		end
+	end
+
+	do
+		local bosses = {"boss1", "boss2", "boss3", "boss4", "boss5", "boss6", "boss7", "boss8", "boss9", "boss10"}
+		-- Update module engage status from querying boss units.
+		-- Engages modules if boss1-boss5 matches an registered enabled mob,
+		-- disables the module if set as engaged but has no boss match.
+		-- noEngage if set to "NoEngage", the module is prevented from engaging if enabling during a boss fight (after a DC)
+		function boss:CheckForEncounterEngage(noEngage)
+			if not self:IsEngaged() then
+				for i = 1, 10 do
+					local bossUnit = bosses[i]
+					local guid = self:UnitGUID(bossUnit)
+					if guid and self:GetHealth(bossUnit) > 0 then
+						local mobId = self:MobId(guid)
+						if self:IsEnableMob(mobId) then
+							self:Engage(noEngage == "NoEngage" and noEngage)
+							return
+						elseif not self.disableTimer then
+							self.disableTimer = true
+							self:SimpleTimer(function()
+								self.disableTimer = nil
+								if not self:IsEngaged() then
+									self:Disable()
+								end
+							end, 3) -- 3 seconds should be enough time for the IEEU event to enable all the boss frames (fires once per boss frame)
+						end
+					end
+				end
+			end
+		end
+
+		function boss:INSTANCE_ENCOUNTER_ENGAGE_UNIT()
+			if self:GetEncounterID() then
+				self:CheckForEncounterEngage()
+			end
+			ieeuEvents[self].dispatching = true
+			for i = 1, 10 do
+				local bossUnit = bosses[i]
+				local bossGUID = self:UnitGUID(bossUnit)
+				if bossGUID then
+					local bossID = self:MobId(bossGUID)
+					if ieeuEvents[self][bossID] then
+						self[ieeuEvents[self][bossID]](self, bossGUID, bossUnit, bossID)
+					end
+				else
+					break
+				end
+			end
+			ieeuEvents[self].dispatching = nil
+		end
+
+		local noBossID = "Module %q tried to register the boss unit event without specifying a boss ID."
+		local noBossFunc = "Module %q tried to register a boss unit event with the function %q which doesn't exist in the module."
+		local curBossEvent = "Module %q tried to register a boss event using ID %q to the function %q but the event is in the middle of dispatching."
+		--- Register a callback for the INSTANCE_ENCOUNTER_ENGAGE_UNIT event for the specified boss ID. If the bossID is found to be a boss unit, the callback will be dispatched.
+		-- @number bossID the ID of a boss to scan the boss units for
+		-- @param func callback function, passed (bossGUID, bossUnit, bossID)
+		function boss:RegisterBossEvent(bossID, func)
+			if type(bossID) ~= "number" then core:Print(format(noBossID, self.moduleName)) return end
+			if type(func) ~= "string" or not self[func] then core:Print(format(noBossFunc, self.moduleName, tostring(func))) return end
+			if not ieeuEvents[self] then ieeuEvents[self] = {} end
+			if ieeuEvents[self][bossID] then
+				ieeuEvents[self][bossID] = func
+			else
+				if ieeuEvents[self].dispatching then
+					core:Error(curBossEvent:format(self.moduleName, bossID, func))
+				end
+				ieeuEvents[self][bossID] = func
+				self:RegisterEvent("INSTANCE_ENCOUNTER_ENGAGE_UNIT")
+			end
+		end
+	end
+
+	--- Unregister a callback for the INSTANCE_ENCOUNTER_ENGAGE_UNIT event.
+	-- @number bossID the ID of a boss unit to stop listening to
+	function boss:UnregisterBossEvent(bossID)
+		ieeuEvents[self][bossID] = nil
 	end
 end
 
@@ -2249,7 +2300,39 @@ end)
 
 do
 	local offDispel, defDispel = {}, {}
-	if isCata then
+	if isMists then
+		function UpdateDispelStatus()
+			offDispel, defDispel = {}, {}
+			if IsSpellKnown(19801) or IsSpellKnown(30449) or IsSpellKnown(370) or IsSpellKnown(528) or IsSpellKnown(32375) or IsPlayerSpell(58375) or IsSpellKnown(19505, true) then
+				-- Tranquilizing Shot (Hunter), Spellsteal (Mage), Purge (Shaman), Dispel Magic (Priest), Mass Dispel (Priest), Glyph of Shield Slam (Warrior), Devour Magic (Warlock Felhunter)
+				offDispel.magic = true
+			end
+			if IsSpellKnown(2908) or IsSpellKnown(19801) or IsSpellKnown(5938) then
+				-- Soothe (Druid), Tranquilizing Shot (Hunter), Shiv (Rogue)
+				offDispel.enrage = true
+			end
+			if IsPlayerSpell(88423) or IsPlayerSpell(77130) or IsPlayerSpell(53551) or IsSpellKnown(527) or IsSpellKnown(32375) or IsSpellKnown(89808, true) or IsSpellKnown(115451) then
+				-- Nature's Cure (Druid), Purify Spirit (Shaman), Sacred Cleansing (Paladin), Purify (Priest), Mass Dispel (Priest), Singe Magic (Warlock Imp), Internal Medicine (Monk)
+				defDispel.magic = true
+			end
+			if IsSpellKnown(4987) or IsSpellKnown(527) or IsSpellKnown(115450) then
+				-- Cleanse (Paladin), Purify (Priest), Detox (Monk)
+				defDispel.disease = true
+			end
+			if IsPlayerSpell(88423) or IsSpellKnown(2782) or IsSpellKnown(4987) or IsSpellKnown(115450) then
+				-- Nature's Cure (Druid), Remove Corruption (Druid), Cleanse (Paladin), Detox (Monk)
+				defDispel.poison = true
+			end
+			if IsPlayerSpell(88423) or IsSpellKnown(2782) or IsSpellKnown(475) or IsSpellKnown(51886) then
+				-- Nature's Cure (Druid), Remove Corruption (Druid), Remove Curse (Mage), Cleanse Spirit (Shaman)
+				defDispel.curse = true
+			end
+			if IsSpellKnown(1044) or IsSpellKnown(116841) then
+				-- Hand of Freedom (Paladin), Tiger's Lust (Monk)
+				defDispel.movement = true
+			end
+		end
+	elseif isCata then
 		function UpdateDispelStatus()
 			offDispel, defDispel = {}, {}
 			if IsSpellKnown(19801) or IsSpellKnown(30449) or IsSpellKnown(370) or IsSpellKnown(527) or IsSpellKnown(32375) or IsSpellKnown(23922) or IsSpellKnown(19505, true) then
@@ -2281,7 +2364,7 @@ do
 				defDispel.movement = true
 			end
 		end
-	else
+	else -- Retail
 		function UpdateDispelStatus()
 			offDispel, defDispel = {}, {}
 			if IsSpellKnown(32375) or IsSpellKnown(528) or IsSpellKnown(370) or IsSpellKnown(30449) or IsSpellKnown(278326) or IsSpellKnown(19505, true) or IsSpellKnown(19801) then
@@ -2331,9 +2414,42 @@ do
 end
 
 do
-
 	local canInterrupt = false
-	if isCata then
+	if isMists then
+		local spellList = {
+			78675, -- Solar Beam (Druid-Balance)
+			106839, -- Skull Bash (Druid)
+			147362, -- Counter Shot (Hunter)
+			57994, -- Wind Shear (Shaman)
+			47528, -- Mind Freeze (Death Knight)
+			96231, -- Rebuke (Paladin)
+			15487, -- Silence (Priest-Shadow)
+			2139, -- Counterspell (Mage)
+			1766, -- Kick (Rogue)
+			6552, -- Pummel (Warrior)
+			116705, -- Spear Hand Strike (Monk)
+		}
+		function UpdateInterruptStatus()
+			if IsSpellKnown(19647, true) then -- Spell Lock (Warlock Felhunter)
+				canInterrupt = 19647
+				return
+			end
+			canInterrupt = false
+			for i = 1, #spellList do
+				local spell = spellList[i]
+				if IsSpellKnown(spell) then
+					if spell == 147362 then -- Counter Shot
+						if IsPlayerSpell(34490) then -- Silencing Shot (replaces Counter Shot for Marksmanship)
+							canInterrupt = 34490
+							return
+						end
+					end
+					canInterrupt = spell
+					return
+				end
+			end
+		end
+	elseif isCata then
 		local spellList = {
 			78675, -- Solar Beam (Druid-Balance)
 			80964, -- Skull Bash (Druid-Feral-Bear)
@@ -2380,7 +2496,7 @@ do
 				end
 			end
 		end
-	else
+	else -- Retail
 		local spellList = {
 			78675, -- Solar Beam (Druid-Balance)
 			106839, -- Skull Bash (Druid)

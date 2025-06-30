@@ -1,20 +1,101 @@
 
 OmniCDDB = {
 ["profileKeys"] = {
+["Worganizer - Silvermoon"] = "Default",
+["Poper - Silvermoon"] = "Default",
+["Judgerinio - Silvermoon"] = "Default",
 ["Shample - Draenor"] = "SHAMAN",
-["Greedissgood - Draenor"] = "Default",
 ["Riseandshine - Draenor"] = "Riseandshine - Draenor",
 ["Nexùs - Draenor"] = "Default",
-["Poper - Silvermoon"] = "Default",
-["Hydrolic - Silvermoon"] = "Default",
 ["Bonebilly - Draenor"] = "WARRIOR",
+["Greedissgood - Draenor"] = "Default",
+["Hydrolic - Silvermoon"] = "Hydrolic - Silvermoon",
 },
 ["namespaces"] = {
+["LibDualSpec-1.0"] = {
+["char"] = {
+["Riseandshine - Draenor"] = {
+"Riseandshine - Draenor",
+"Riseandshine - Draenor",
+"Riseandshine - Draenor",
+["enabled"] = true,
+},
+["Hydrolic - Silvermoon"] = {
+"Default",
+"Default",
+"Hydrolic - Silvermoon",
+["enabled"] = true,
+},
+},
+},
 },
 ["cooldowns"] = {
 },
 ["version"] = 4,
 ["profiles"] = {
+["WARRIOR"] = {
+["Party"] = {
+["party"] = {
+["extraBars"] = {
+["raidBar1"] = {
+["manualPos"] = {
+["raidBar1"] = {
+["y"] = 534.7202224230714,
+["x"] = 208.2130422210757,
+},
+},
+},
+},
+["position"] = {
+["anchor"] = "TOPRIGHT",
+["attach"] = "TOPLEFT",
+["preset"] = "TOPLEFT",
+},
+},
+},
+},
+["Default"] = {
+["Party"] = {
+["party"] = {
+["position"] = {
+["anchor"] = "TOPRIGHT",
+["preset"] = "TOPLEFT",
+["attach"] = "TOPLEFT",
+},
+["extraBars"] = {
+["raidBar1"] = {
+["manualPos"] = {
+["raidBar1"] = {
+["y"] = 538.4534645271269,
+["x"] = 209.8131789040599,
+},
+},
+},
+},
+},
+},
+},
+["SHAMAN"] = {
+["Party"] = {
+["party"] = {
+["position"] = {
+["anchor"] = "TOPRIGHT",
+["preset"] = "TOPLEFT",
+["attach"] = "TOPLEFT",
+},
+["extraBars"] = {
+["raidBar1"] = {
+["manualPos"] = {
+["raidBar1"] = {
+["y"] = 506.9867074179638,
+["x"] = 210.8798585677178,
+},
+},
+},
+},
+},
+},
+},
 ["Riseandshine - Draenor"] = {
 ["General"] = {
 ["fonts"] = {
@@ -35,8 +116,8 @@ OmniCDDB = {
 ["raidBar1"] = {
 ["manualPos"] = {
 ["raidBar1"] = {
-["y"] = 458.986903803343,
-["x"] = 438.6125683212449,
+["y"] = 459.5202241039224,
+["x"] = 439.1459276843234,
 },
 },
 },
@@ -52,73 +133,44 @@ OmniCDDB = {
 ["attach"] = "BOTTOMLEFT",
 ["layout"] = "vertical",
 ["uf"] = "Cell-Party",
-["anchorMore"] = "TOPLEFT",
-["offsetY"] = 10,
-["preset"] = "manual",
 ["paddingY"] = 2,
+["offsetY"] = 4,
+["preset"] = "manual",
+["anchorMore"] = "TOPLEFT",
 },
 },
 },
 },
-["WARRIOR"] = {
+["Hydrolic - Silvermoon"] = {
 ["Party"] = {
-["party"] = {
-["position"] = {
-["anchor"] = "TOPRIGHT",
-["preset"] = "TOPLEFT",
-["attach"] = "TOPLEFT",
+["visibility"] = {
+["arena"] = false,
 },
-["extraBars"] = {
-["raidBar1"] = {
-["manualPos"] = {
-["raidBar1"] = {
-["y"] = 534.7202224230714,
-["x"] = 208.2130422210757,
-},
-},
-},
-},
-},
-},
-},
-["Default"] = {
-["Party"] = {
 ["party"] = {
 ["extraBars"] = {
 ["raidBar1"] = {
 ["manualPos"] = {
 ["raidBar1"] = {
-["y"] = 468.5869035887663,
-["x"] = 503.1462778163041,
+["y"] = 472.8536222433977,
+["x"] = 545.2795190620527,
 },
 },
 },
 },
-["position"] = {
-["anchor"] = "TOPRIGHT",
-["attach"] = "TOPLEFT",
-["preset"] = "TOPLEFT",
-},
-},
-},
-},
-["SHAMAN"] = {
-["Party"] = {
-["party"] = {
-["extraBars"] = {
-["raidBar1"] = {
-["manualPos"] = {
-["raidBar1"] = {
-["y"] = 506.9867074179638,
-["x"] = 210.8798585677178,
-},
-},
-},
+["icons"] = {
+["showTooltip"] = true,
 },
 ["position"] = {
-["anchor"] = "TOPRIGHT",
-["preset"] = "TOPLEFT",
-["attach"] = "TOPLEFT",
+["attachMore"] = "BOTTOMLEFT",
+["columns"] = 2,
+["paddingX"] = 4,
+["attach"] = "BOTTOMLEFT",
+["preset"] = "manual",
+["uf"] = "Cell-Party",
+["maxNumIcons"] = 8,
+["offsetY"] = 6,
+["layout"] = "vertical",
+["anchorMore"] = "TOPLEFT",
 },
 },
 },

@@ -2,6 +2,8 @@ local _, addonTbl = ...
 local L = addonTbl.API:NewLocale("BigWigs", "esMX")
 if not L then return end
 
+--L.tempNew = "NEW: You can now type |cFFFFFFFF/bwtemp|r to see the Mythic+ keystones of your party members."
+
 -- Core.lua
 L.berserk = "Enfurecer"
 L.berserk_desc = "Muestra un contador que avisa cuando el jefe entrará en enfurecer"
@@ -261,7 +263,29 @@ L.N25 = "Normal 25"
 L.H10 = "Heroico 10"
 L.H25 = "Heroico 25"
 
+-----------------------------------------------------------------------
+-- TOOLS
+-----------------------------------------------------------------------
 
+--L.youAreInCombat = "You cannot do that in combat."
+
+-----------------------------------------------------------------------
+-- Keystones.lua
+--
+
+--L.keystoneTitle = "BigWigs Keystones"
+--L.keystoneHeaderParty = "Party"
+--L.keystoneRefreshParty = "Refresh Party"
+--L.keystoneHeaderGuild = "Guild"
+--L.keystoneRefreshGuild = "Refresh Guild"
+--L.keystoneLevelTooltip = "Keystone level: |cFFFFFFFF%s|r"
+--L.keystoneMapTooltip = "Dungeon: |cFFFFFFFF%s|r"
+--L.keystoneRatingTooltip = "Mythic+ rating: |cFFFFFFFF%d|r"
+--L.keystoneHiddenTooltip = "The player has chosen to hide this information."
+--L.keystoneTabOnline = "Online"
+--L.keystoneTabAlts = "Alts"
+--L.keystoneTabTeleports = "Teleports"
+--L.keystoneHeaderMyCharacters = "My Characters"
 
 -----------------------------------------------------------------------
 -- PLUGINS
@@ -281,6 +305,7 @@ L.sizeDesc = "Normalmente se ajusta el tamaño arrastrando el ancla. Si necesita
 L.fontSizeDesc = "Ajuste el tamaño de la fuente utilizando el control deslizante o escriba el valor en la casilla que tiene un máximo de 200."
 L.disabled = "Desactivado"
 L.disableDesc = "Está a punto de desactivar la función '%s' que |cffff4411no se recomienda|r.\n\n¿Estás seguro de que quieres hacer esto?"
+--L.keybinding = "Keybinding"
 
 -- Anchor Points
 L.UP = "Arriba"
@@ -688,6 +713,8 @@ L.sendPull = "Mandar un pull para tu grupo."
 L.wrongPullFormat = "Contador inválido para el pull. Usa algo como: /pull 5"
 L.countdownBegins = "Comenzar cuenta regresiva"
 L.countdownBegins_desc = "Elige cuánto tiempo restante debe de quedar en la llamada de jefe (en segundos) cuando la cuenta regresiva comience."
+--L.pullExplainer = "\n|cFF33FF99/pull|r will start a normal pull timer.\n|cFF33FF99/pull 7|r will start a 7 second pull timer, you can use any number.\nAlternatively, you can also set a keybinding below.\n\n"
+--L.pullKeybindingDesc = "Choose a keybinding for starting a pull timer."
 
 -----------------------------------------------------------------------
 -- RaidIcon.lua

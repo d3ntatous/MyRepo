@@ -6,6 +6,11 @@ local _, addon = ...
 local L = addon.L;
 
 
+--Globals
+BINDING_HEADER_PLUMBER = "Plumber Addon";
+BINDING_NAME_TOGGLE_PLUMBER_LANDINGPAGE = "Toggle Plumber Expansion Summary";   --Show/hide Expansion Summary UI
+
+
 --Module Control Panel
 L["Module Control"] = "Module Control";
 L["Quick Slot Generic Description"] = "\n\n*Quick Slot is a set of clickable buttons that appear under certain conditions.";
@@ -16,7 +21,7 @@ L["Quick Slot Layout"] = "Layout";
 L["Quick Slot Layout Linear"] = "Linear";
 L["Quick Slot Layout Radial"] = "Radial";
 L["Restriction Combat"] = "Does not work in combat";    --Indicate a feature can only work when out of combat
-L["Map Pin Change Size Method"] = "\n\n*You can change the pin size in World Map - Map Filter - Plumber";
+L["Map Pin Change Size Method"] = "\n\n*You can change the pin size in World Map> Map Filter> Plumber";
 L["Toggle Plumber UI"] = "Toggle Plumber UI";
 L["Toggle Plumber UI Tooltip"] = "Show the following Plumber UI in the Edit Mode:\n%s\n\nThis checkbox only controls their visibility in the Edit Mode. It will not enable or disable these modules.";
 
@@ -235,6 +240,7 @@ L["ModuleDescription Delves_Dashboard"] = "Show your Great Vault and Gilded Stas
 L["Delve Crest Stash No Info"] = "This info is unavailable in your current location.";
 L["Delve Crest Stash Requirement"] = "Appears in Tier 11 Bountiful Delves.";
 L["Overcharged Delve"] = "Overcharged Delve";
+L["Delves History Requires AddOn"] = "Delves history is stored locally by the Plumber AddOn.";
 
 
 --WoW Anniversary
@@ -389,7 +395,37 @@ L["Drawer Option Update Frequently"] = "Update Frequently";
 L["Drawer Option Update Frequently Tooltip"] = "Attempt to update the button states whenever there is a change in your bags or spellbooks. Enabling this option may slightly increase resource usage.";
 
 
+--New Expansion Landing Page
+L["ModuleName NewExpansionLandingPage"] = "Expansion Summary";
+L["ModuleDescription NewExpansionLandingPage"] = "A UI that displays factions, weekly activities, and raid lockouts. You can open it by:\n\n- Click Khaz Algar Summary button on the minimap.\n\n- Set a hotkey in Game Setting> Keybindings.";
+L["Reward Available"] = "Reward Available";  --As brief as possible
+L["Paragon Reward Available"] = "Paragon Reward Available";
+L["Until Next Level Format"] = "%d until next level";   --Earn x reputation to reach the next level
+L["Until Paragon Reward Format"] = "%d until Paragon reward";
+L["Instruction Click To View Renown"] = REPUTATION_BUTTON_TOOLTIP_VIEW_RENOWN_INSTRUCTION or "<Click to view Renown>";
+L["Not On Quest"] = "You are not on this quest";
+L["Factions"] = "Factions";
+L["Activities"] = MAP_LEGEND_CATEGORY_ACTIVITIES or "Activities";
+L["Raids"] = RAIDS or "Raids";
+L["Instruction Track Achievement"] = "<Shift click to track this achievement>";
+L["Instruction Untrack Achievement"] = CONTENT_TRACKING_UNTRACK_TOOLTIP_PROMPT or "<Shift click to stop tracking>";
+L["No Data"] = "No data";
+L["No Raid Boss Selected"] = "No boss selected";
+L["Your Class"] = "(Your Class)";
+L["Great Vault"] = DELVES_GREAT_VAULT_LABEL or "Great Vault";
+L["Item Upgrade"] = ITEM_UPGRADE or "Item Upgrade";
+L["Resources"] = WORLD_QUEST_REWARD_FILTERS_RESOURCES or "Resources";
+L["Plumber Experimental Feature Tooltip"] = "An experimental feature in Plumber addon.";
+L["Bountiful Delves Rep Tooltip"] = "Opening a Bountiful Coffer has a chance to increase your reputation with this faction.";
+L["Warband Weekly Reward Tooltip"] = "You Warband can only receive this reward once per week.";
+L["Completed"] = CRITERIA_COMPLETED or "Completed";
+L["Filter Hide Completed Format"] = "Hide Completed (%d)";
+L["Weeky Reset Format"] = "Weekly Reset: %s";
+L["Ready To Turn In Tooltip"] = "Ready to turn in.";
+
+
 --Generic
+L["Total Colon"] = FROM_TOTAL or "Total:";
 L["Reposition Button Horizontal"] = "Move Horizontally";   --Move the window horizontally
 L["Reposition Button Vertical"] = "Move Vertically";
 L["Reposition Button Tooltip"] = "Left click and drag to move the window";
@@ -400,8 +436,6 @@ L["Paragon Reputation"] = "Paragon";
 L["Level Maxed"] = "(Maxed)";   --Reached max level
 L["Current Colon"] = ITEM_UPGRADE_CURRENT or "Current:";
 L["Unclaimed Reward Alert"] = WEEKLY_REWARDS_UNCLAIMED_TITLE or "You have unclaimed rewards";
-L["Reward Available"] = "Reward Available";  --As brief as possible
-L["Total Colon"] = FROM_TOTAL or "Total:";
 
 
 --Plumber AddOn Settings

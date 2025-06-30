@@ -4,327 +4,83 @@ Blizzard_Console_SavedVars = {
 ["height"] = 299.999755859375,
 ["messageHistory"] = {
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.43852803275225 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80993930722632 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.45118910852662 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.82796249279955 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.46097439878608 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84179355637043 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.4858778330907 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85752667685657 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.49818513125653 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87095667555247 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.51039286404278 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88668827609014 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.5371524283962 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89940527158928 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.54902284626736 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91010599016091 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.56985337824653 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9226727588502 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.58141321350458 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93320465093642 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.59032397858391 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94659301633424 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.61290708361473 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95532997409406 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.62401601855843 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96455743315762 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.63378599802595 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97125905621457 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.65540020193782 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97792935218412 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.66483935577694 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98315936555822 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.67533283948742 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98768835029841 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.6981654510342 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99211470936731 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.70821666130546 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9984891011355 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.71703230720204 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.72573472537445 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.73325537827629 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.74174180475589 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.7490713902472 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.75733711388251 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.76447156302008 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.77251199518053 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.781411604476 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.78822564325466 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79589637780093 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80250521341309 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81085961161301 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81814974801053 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.82619666621138 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.83321091187452 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.83924048254959 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84516858783907 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85099451102649 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85671754774932 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86313129080088 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86940873540295 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87478891220875 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88080814244625 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.8859609036427 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89384145098216 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89940527798393 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90482707845258 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91010599622288 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91460718485546 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91961596858723 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92447953428324 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92861542570316 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93320465566766 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93764652178497 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94141171818523 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94608538017041 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95008103984484 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95392667069514 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95762166545156 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96245525519654 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96579019461421 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96897262454987 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97200204246089 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97452688875011 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97726813878534 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97985506683795 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98258039024875 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98483805814381 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98694020867811 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98865175596892 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99046143608023 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99211471083412 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99361131915934 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99495102472405 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99613361597319 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99715890616188 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99802673338489 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99873696060224 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99928947566081 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99964348387587 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99992104522577 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99979151327719 (default 0.750000)",
 0,
 },
 {
@@ -336,11 +92,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 1, intensity 0.000000\n",
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2464.36, -2299.86, 1041.55)",
 0,
 },
 {
-"Weather changed to 1, intensity 0.000000\n",
+"[Airlock] Preload initiated for map 2601",
+0,
+},
+{
+"[Airlock] Cancel Preload of MapID:2601",
+0,
+},
+{
+"World transfer pending...",
 0,
 },
 {
@@ -352,7 +116,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2601, PreviousTransitionID:-1, Position (2388.48, -2214.93, -629.84)",
+"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2601, PreviousTransitionID:-1, Position (2262.34, -2240.17, -553.144)",
 0,
 },
 {
@@ -364,6 +128,18 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
 "World transfer pending...",
 0,
 },
@@ -380,231 +156,119 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2443.01, -2263.41, 1005.24)",
+"Changed difficulty successfully",
 0,
 },
 {
-"[Airlock] Preload initiated for map 2601",
+"Completed challenge mode mapID 2649, level 2, time 1692587",
 0,
 },
 {
-"[Airlock] Cancel Preload of MapID:2601",
+"World transfer pending...",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractEnable has been set to 1 (default 0)",
+"Got new connection 3",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0 (default 0.750000)",
+"Weather changed to 1, intensity 0.000000\n",
 0,
 },
 {
-"Test CVar test_cameraHeadMovementStrength has been set to 0 (default 0.000000)",
+"Weather changed to 1, intensity 0.000000\n",
 0,
 },
 {
-"Test CVar test_cameraOverShoulder has been set to 1.5 (default 0.000000)",
+"-------------------------------------------------- Previous Session --------------------------------------------------",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthYaw has been set to 0 (default 1.000000)",
+"Resume()",
 0,
 },
 {
-"Outline mode changed to 0",
+"Screen invalid. Changing from=\"none\" to=\"charselect\"",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.02670036549775 (default 0.750000)",
+"Switching to screen=\"CharacterSelect\" (from \"none\")",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.06592559998333 (default 0.750000)",
+"From EnsureValidScreen",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.12533323948594 (default 0.750000)",
+"-------------------------------------------------- Previous Session --------------------------------------------------",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.17966075469504 (default 0.750000)",
+"Suspend()",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.23344537011489 (default 0.750000)",
+"Attempted to register existing command: SetDifficulty",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.28351327485883 (default 0.750000)",
+"Got new connection 3",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.33873792674205 (default 0.750000)",
+"Proficiency in item class 2 set to 0x0000008000",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.38848075566846 (default 0.750000)",
+"Proficiency in item class 4 set to 0x0000000021",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.43287259228145 (default 0.750000)",
+"Proficiency in item class 2 set to 0x000000c000",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.48587782158303 (default 0.750000)",
+"Proficiency in item class 2 set to 0x000000c400",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.52917901646563 (default 0.750000)",
+"Proficiency in item class 2 set to 0x000010c400",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.57500526717192 (default 0.750000)",
+"Proficiency in item class 2 set to 0x000010c410",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.60042024189129 (default 0.750000)",
+"Proficiency in item class 4 set to 0x0000000023",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.62891341056337 (default 0.750000)",
+"Proficiency in item class 2 set to 0x000018c410",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.65540019088866 (default 0.750000)",
+"Proficiency in item class 2 set to 0x000018c410",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.68683386656791 (default 0.750000)",
+"Proficiency in item class 4 set to 0x0000000023",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.70821664994451 (default 0.750000)",
+"Weather changed to 1, intensity 0.000000\n",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.72789246586567 (default 0.750000)",
+"Time set to 6/29/2025 (Sun) 23:52",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.75218495961383 (default 0.750000)",
+"Gamespeed set from 0.017 to 0.017",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.77350848947694 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79399042246824 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81085960476374 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.82619665961792 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84009357751492 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85427745508466 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.8686315375743 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88155078097835 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89524567065413 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90748444631097 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91837735272177 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92803144293968 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93873387710329 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94709832348985 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95486456221893 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96245525281397 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96897262238035 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97487796801192 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.979855065085 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98428820580123 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9884145613072 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99191661293187 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99479214870415 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99691733915071 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99840155404993 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99955466928293 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99998026130925 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 1 (default 0.750000)",
-0,
-},
-{
-"Outline mode changed to 2",
+"Got new connection 3",
 0,
 },
 {
@@ -636,1439 +300,91 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.0078539014446031 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.028270568478279 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.023559766500874 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.067492897387522 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.034550643380398 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.12533323658318 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.045537343037271 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.17347629873955 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.054950182337221 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.22580127473585 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.084721326520879 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.28200658436629 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.097235498890223 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.33430038792149 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.10661115931975 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.38413419727085 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.1331213449931 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.42720007721447 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.14556503382469 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.47761885755078 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.15643447240926 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.52249857918512 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.18120577213849 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.5685618648869 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.19200814534819 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.60793031304556 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.20124889510652 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.63500022648004 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.21200711912337 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.65895208060891 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.23497248038721 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.67880076443981 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.24412281228615 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.69928916722852 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.25477073610082 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.72030904529672 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.2638730604355 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.74384515130175 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.2925386191954 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.76548323578362 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.30153797224686 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.78336814029048 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.31200330926971 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.33430039274712 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.34464293680305 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.35347485743667 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.36227538038907 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.38558400692537 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.39714790575245 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.40577977279642 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.42008574444361 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.44416614180392 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.45259036757195 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.46097439164591 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.48450430898094 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.49272735966064 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.50226555143534 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.52115861525508 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.52917901956888 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.5384766995787 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.54507810634294 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.56467896966398 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.57243214513242 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.58269049951853 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.59032396913736 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.61166514596456 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.61909396975944 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.62769138182602 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.6350002298704 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.65302417350363 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.66131188612943 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.66835204086071 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.67649047811922 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.69478392946817 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.70153144674659 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.70821664994451 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.71483894524351 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.72139774441302 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.72681448625373 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.73325536683706 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.73963111543781 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.74594116572513 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.75114895052866 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.75733710241866 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.76345798324706 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.76951104932182 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.7745030803391 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.78043042729662 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.78628845190985 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79111680922887 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79684639590028 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80250520206613 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80809272507853 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81360846862137 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81814973665453 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.82353261664568 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.82884234570681 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.83407845219706 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.83838529932908 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84432794403272 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84934041856124 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85427744976151 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85913859909785 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86471345818411 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86940872456067 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87402676502597 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87856716937894 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88229124336628 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88668827236991 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89100654059289 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89524566446168 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89871753853708 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90348498033967 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90748444016546 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91269160284639 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91775464092928 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92145685576592 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92507722147525 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92861541647545 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93207112648358 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93544404454348 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93819134954305 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94141170955103 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94403147733208 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94709831785568 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94958976629143 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95250217173116 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95532997041906 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95762165786703 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95985427469197 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96245524785028 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96497073016697 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96740049820236 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96935967289406 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97163174303386 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97345921510612 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97557290902804 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97759994692182 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97954014873423 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98109052598758 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98287108628316 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98428820231409 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98590858950991 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98744140260266 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98865175157357 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98980111583885 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99109975350825 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99231035596538 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99325186446756 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99430079539282 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99526140677075 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99599438817982 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99679286443481 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99739062870743 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99802673145589 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99857418369783 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9989626394653 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99934744516066 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99960030904946 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99982235331523 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99993954983331 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99999876637858 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 1 (default 0.750000)",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractEnable has been set to 1 (default 0)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraHeadMovementStrength has been set to 0 (default 0.000000)",
-0,
-},
-{
-"Test CVar test_cameraOverShoulder has been set to 1.5 (default 0.000000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthYaw has been set to 0 (default 1.000000)",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.0078539014446031 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.02513009736793 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.036120458847141 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.047106453310746 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.059654824585335 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.089415815685798 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.10036172032984 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.11129549109704 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.13934594070303 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.15022559692508 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.16108709065564 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.18892406574707 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.20278730592853 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.21507624814369 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.24107507329863 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.25325146261544 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.26690200309742 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.29103618164715 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.30153797503651 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.31349531052872 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.33873793706528 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.34906277629042 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.35934541332211 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.38123175228903 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.39426274304112 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.40577977680762 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.41580467966134 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.43711578663464 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.44697864085043 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.45538954900744 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.47761886333451 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.48725014683493 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.49682252108938 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.50633482878398 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.52784553406681 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.53715242284342 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.54639436911686 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.56467897268238 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.5737194193395 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.5826905024908 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.59032397208941 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.60917676745723 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.61785963623848 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.62524267937533 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.63378599067068 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.65302417627343 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.66131188887281 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.66951964791037 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.68911383243484 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.69591282048205 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.70153144987419 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.70821665304295 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.71483894831252 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.72139774745232 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.72789246787189 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.73432253267258 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.74068737069887 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.74698641658902 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.75425140354296 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.7593849002598 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.76548323625428 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.77151357760044 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.77747538864847 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.78336813983583 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.78822563425206 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79494437554017 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80250520468466 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80716644548226 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81452074926882 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81905194611162 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.82442266726867 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.82972015843625 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.83494394906055 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84179355716011 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84684358676545 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85181839482557 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85671753944924 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86154058546611 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86628710446534 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87018377468813 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87478890405766 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87931632961727 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.8830295370609 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88741346615738 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89171857005731 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89594446635646 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90009077968629 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90415714174726 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90814319134158 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91140329408175 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91524118973529 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91899778837293 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92267275631185 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92567263727189 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9291971063606 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93207112833851 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93544404635335 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93819135131525 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94194031575582 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9445484498477 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94760128791459 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95105653044484 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9539266643306 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95625372649081 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95896832670115 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96116543477751 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96372369087362 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96619634345766 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96858317289434 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.970506485008 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.972735426874 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97487796475343 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97693390833367 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97858091434447 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98047763295875 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98228725987893 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98372863782264 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98537818474201 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98694020467194 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98841455886477 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98957612583052 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99088942499283 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99191661088992 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9930684629387 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9939609611027 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9951074423764 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99599438857224 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99679286478602 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99761250997362 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99831154236896 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99881465058855 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99922903831409 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99955466873725 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99979151293368 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99993954986548 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99999876638317 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 1 (default 0.750000)",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractEnable has been set to 1 (default 0)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraHeadMovementStrength has been set to 0 (default 0.000000)",
-0,
-},
-{
-"Test CVar test_cameraOverShoulder has been set to 1.5 (default 0.000000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthYaw has been set to 0 (default 1.000000)",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.0078539014446031 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.023559766500874 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.036120458847141 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.048675447353692 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.061222749442113 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.087851201441314 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.10504918560615 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.13467799766704 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.1517783831808 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.16263717501605 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.18892406718365 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.19970999202212 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.21047177163433 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.23955030968271 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.25325146403067 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.26538786199718 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.29253862339216 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.30602765938594 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.31945553385933 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.34464294229622 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.35494381850118 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.3652017814862 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.3884807671266 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.39858902638566 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.40864909565615 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.43003846680519 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.43993919158519 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.44978672708197 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.46097439683876 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.48175369694633 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.48999117444089 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.49954650458914 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.50904143884401 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.53051120806177 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.54112127619515 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.54902284198785 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.57114346690474 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.58013447922908 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.5890553524576 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.60793032291867 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.61785963853903 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.62524268165874 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.63257018710728 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.65183375087526 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.66013280382076 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.66835204575754 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.67649048296738 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.69703999386718 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.70488188003804 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.71153570311696 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.71921857447914 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.72789247037966 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.73432253515516 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.74174179837836 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.74802982432899 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.75528183761659 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.76142520278448 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.76850694221872 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.77450308496609 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.78141159762937 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.78822563650271 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79399042291292 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79874055876918 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80437565936293 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.8099393106584 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.8154310184599 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80156700778065 (default 0.750000)",
 0,
 },
 {
@@ -2076,271 +392,75 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.82619665879374 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84264043444423 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.83146963505965 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86074204946367 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.83580738416239 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87706235792141 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84094460480856 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.8924284002698 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84684358793251 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90415714549701 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85181839597506 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91899779269874 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85671754058107 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93035360762891 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86154058658017 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94351218252511 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86550135166208 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95345418982285 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87018377576936 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96245525281397 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87402676893537 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96935967756573 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87856717322189 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97659727581732 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88376565058391 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98228726303135 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88741346750611 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98694020749982 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89242839828965 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99151307783347 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89664105661062 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99570856775656 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90077407008709 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99831154351613 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90415714330966 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90814319287274 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91204857590505 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91587294550789 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91961596197862 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92327729284088 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92685661287409 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92977650299216 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93320464935934 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93654990309225 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93927407934415 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94246659682249 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9455753989668 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9481019189152 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95105653112294 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.953926664989 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95625372713275 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95896832732328 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9611654353831 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9637236914593 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9657901894927 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96858317362197 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97050648571335 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97273542755255 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97487796540512 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97659727314289 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97858091494679 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9801675574462 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98169373858512 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98344521456081 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98510933524464 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9864292659483 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98817492735413 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98957612635721 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99088942548539 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99211470808384 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99325186531588 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99413210529867 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99495102252173 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99585270623517 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99666593255158 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9973906292355 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99792686968999 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9984891005326 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99896263979839 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99928947477861 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99960030925625 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99982235345309 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99995558764589 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99999876639007 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9998766336361 (default 0.750000)",
 0,
 },
 {
@@ -2349,390 +469,6 @@ Blizzard_Console_SavedVars = {
 },
 {
 "Outline mode changed to 2",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Sorting particles normally.",
-0,
-},
-{
-"Multithreaded rendering enabled.",
-0,
-},
-{
-"Multithreaded BeginDraw enabled.",
-0,
-},
-{
-"Multithread shadows changed to 1.",
-0,
-},
-{
-"Multithreaded prepass enabled.",
-0,
-},
-{
-"Multithreaded opaque pass enabled.",
-0,
-},
-{
-"Multithreaded opaque pass enabled.",
-0,
-},
-{
-"Multithreaded alpha M2 pass enabled.",
-0,
-},
-{
-"Multithreaded opaque WMO pass enabled.",
-0,
-},
-{
-"Multithreaded terrain pass enabled.",
-0,
-},
-{
-"Multithreaded volumetric fog enabled.",
-0,
-},
-{
-"Multithreaded Refraction Pass enabled.",
-0,
-},
-{
-"Multithreaded miscellaneous passes enabled.",
-0,
-},
-{
-"Multithreaded decal passes disabled.",
-0,
-},
-{
-"Multithreaded outline passes enabled.",
-0,
-},
-{
-"Multithreaded lightshaft passes enabled.",
-0,
-},
-{
-"Multithreaded alpha pass enabled.",
-0,
-},
-{
-"Multithreaded daynight update enabled.",
-0,
-},
-{
-"Water detail changed to 2",
-0,
-},
-{
-"Ripple detail changed to 1",
-0,
-},
-{
-"Reflection mode changed to 0",
-0,
-},
-{
-"Reflection downscale changed to 0",
-0,
-},
-{
-"Sunshafts quality changed to 2",
-0,
-},
-{
-"Refraction mode changed to 2",
-0,
-},
-{
-"Volume fog enabled.",
-0,
-},
-{
-"Particulate volumes enabled.",
-0,
-},
-{
-"Projected textures enabled.",
-0,
-},
-{
-"Spell Clutter set to dynamic",
-0,
-},
-{
-"Shadow mode changed to 4 - 4 band dynamic shadows on units and terrain, 2048",
-0,
-},
-{
-"Shadow texture size changed to 2048.",
-0,
-},
-{
-"Soft shadows changed to 1.",
-0,
-},
-{
-"Shadow cascade blending changed to 1",
-0,
-},
-{
-"Number of shadow cascades changed to 4",
-0,
-},
-{
-"Shadow RT mode changed to 3 (High) - Full-resolution directional & local light shadows",
-0,
-},
-{
-"maxLightCount must be in range 0 to 32.",
-0,
-},
-{
-"CVar 'maxLightCount' failed validation for its initial value.",
-0,
-},
-{
-"Clustered shading enabled.",
-0,
-},
-{
-"Not forcing clustered shading.",
-0,
-},
-{
-"SSAO mode set to 4",
-0,
-},
-{
-"SSAO type set to 0",
-0,
-},
-{
-"Depth Based Opacity Enabled",
-0,
-},
-{
-"SkyCloudLOD set to 0",
-0,
-},
-{
-"Texture filtering mode updated.",
-0,
-},
-{
-"Terrain mip level changed to 0.",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Physics interaction level changed to 2",
-0,
-},
-{
-"Render scale changed to 1",
-0,
-},
-{
-"Resample quality changed to 3",
-0,
-},
-{
-"MSAA set to 8 color samples, 8 coverage samples",
-0,
-},
-{
-"MSAA for alpha-test disabled.",
-0,
-},
-{
-"VALAR mode changed to 0",
-0,
-},
-{
-"lodObjectSizeScale cannot be changed.",
-0,
-},
-{
-"Volume fog enabled.",
-0,
-},
-{
-"dynamicLod enabled",
-0,
-},
-{
-"World preload object sort enabled.",
-0,
-},
-{
-"World load object sort enabled.",
-0,
-},
-{
-"World preload non critical enabled.",
-0,
-},
-{
-"World preload high res textures enabled.",
-0,
-},
-{
-"FFX: Color Blind Test Mode Disabled",
-0,
-},
-{
-"Error display disabled",
-0,
-},
-{
-"Error display shown",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Now filtering: all messages",
-0,
-},
-{
-"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"ChromaEffects disabled",
-0,
-},
-{
-"NetClient::HandleConnect()\n",
-0,
-},
-{
-"Got new connection 2",
-0,
-},
-{
-"[WowEntitlements] [BNetAccount-0-0000067FF74C] [WowAccount-0-0000004B8F74] Initialized with 47 entitlements.",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000008000",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000021",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000000c000",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000000c400",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000010c400",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000010c480",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000018c480",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000018c480",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 6/3/2025 (Tue) 10:58",
-0,
-},
-{
-"Gamespeed set from 0.017 to 0.017",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2090.72, -2454.34, 739.318)",
-0,
-},
-{
-"[Airlock] Preload initiated for map 2601",
-0,
-},
-{
-"[Airlock] Cancel Preload of MapID:2601",
 0,
 },
 {
@@ -2760,699 +496,187 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.0062831442639883 (default 0.750000)",
+"Test CVar test_cameraOverShoulder has been set to 7.2 (default 0.000000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.037690185190213 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.028270568478279 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.047106453310746 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.067492897387522 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.058086752536159 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.11753740210673 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.083156073567587 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.16728499711918 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.095672026363346 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.21354194565145 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.10504918415132 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.25780739841363 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.1300070609947 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.28049919805291 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.13934593925439 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.32837214048018 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.15177838028886 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.37250193216215 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.15953660955007 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.41723272991357 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.18275033959674 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.49272735902414 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.1904663398078 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.53317163931168 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.19817059115618 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.576289706415 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.20739951462552 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.61909396861059 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.21507624671501 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.65064170881569 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.2380249507385 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.67301253376518 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.24868989801875 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.68911382872446 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.25628938450201 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.71373962385133 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.26387306184657 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.73111561655989 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.28652456542613 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.74594116718661 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.29404033843175 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.76142519946528 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.30453184508893 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.77648653445712 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.3120033106596 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79399042068954 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.33430039412587 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80809272766375 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.34169212311402 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81995213085723 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.34906277491952 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.83146963343414 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.35787909459532 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84432794638433 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.36520177808152 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85833369840137 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.38413420267357 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87326247546422 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.39281869666659 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88596089685828 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.40002915414703 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89733543319182 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.40721493594145 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90748444385277 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.4272000825053 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91712967395518 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.43570246328865 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92685661369789 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.44275824926121 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93488765732839 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.45118910265165 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94351218058623 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.45818423137095 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95202264268299 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.47899832186626 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96159774780596 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.48587782733687 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96819133897314 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.49272736157015 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97381751021577 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.49954650205452 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97954015153113 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.50633482815321 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.984288204768 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.52651074181217 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9965365414578 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.53317164240577 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99873695986721 (default 0.750000)",
 0,
 },
 {
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.53979965445636 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.54770928003833 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.563381880827 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.57114346390265 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.57757272550611 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.58524077602754 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.59285684207842 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.60917676629708 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.6153863924019 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.62278780261043 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.62891341454421 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.63500023213065 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.65302417571947 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.66013280107359 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.66601189052948 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.67184989722896 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.70041117369647 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.70599521168 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.71153570054717 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.71593650641912 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.72030904834099 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.7246531536923 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.7332553698212 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.737513140998 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.74279439146704 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.74802982287266 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.75218496105982 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.75631040426985 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.76040598963729 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.76447155547543 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.76951105352602 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.77350849040411 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.77747539048856 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.78141159717293 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.78628845642924 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79111681370295 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79589637115819 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79968468294079 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80344142453839 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80809273024897 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81177789858009 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81543101930672 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81905194820988 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.82353262203982 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.82708059863055 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.83146963668516 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.83494395187838 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.83838530491091 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.841793559924 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84600712984118 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85016851404615 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.8534598750143 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85752668024319 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86074205095304 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86392344103732 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86707072490018 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87095667878716 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87478890795601 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87781585045818 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88080813829034 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89029232130393 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89384144671849 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89664105920149 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90009078382937 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90281059783797 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90549477042664 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90814319562883 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91075576888924 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9139709117537 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91650244320151 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91899779269874 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92145686173323 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92387955322516 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92744517360695 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9297765059541 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93320465225065 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93544405023164 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9387338765991 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94088078767595 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94299055438681 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94557540182303 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94760129141962 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94958977133623 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95154076307106 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95392666784207 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95579303181534 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95807291620365 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95985427941096 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96202768776757 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96372369419249 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9653816544525 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96700150309418 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96858317616866 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97012661123419 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97200204022655 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97345921929117 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.974877967849 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97625822989026 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97792935294826 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97922282341379 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98078529281818 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98228726275723 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98344521668152 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98483805662112 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98617014710179 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9874414059539 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98841456141822 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98957612825329 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99046143497156 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99151307764328 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99231035868146 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99325186701254 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99413210688115 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99479214885326 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99556197120311 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99613361533059 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99679286630793 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99727599834417 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99771975962787 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99821906958167 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99857418498636 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99888987838832 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9991661373245 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99940295088868 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99960030973186 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99979151336681 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99990007297274 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99996915823214 (default 0.750000)",
-0,
-},
-{
-"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99999876641764 (default 0.750000)",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99982235364611 (default 0.750000)",
 0,
 },
 {
@@ -3464,7 +688,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2039.9, -2450.46, 741.975)",
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2464.34, -2297.63, 1063.97)",
 0,
 },
 {
@@ -3476,70 +700,6 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[Airlock] Received Cancel Preload for MapID 2601, but we have not preloaded it. Current preloaded map: -1",
-0,
-},
-{
-"[Airlock] Received Cancel Preload for MapID 2601, but we have not preloaded it. Current preloaded map: -1",
-0,
-},
-{
-"[Airlock] Received Cancel Preload for MapID 2601, but we have not preloaded it. Current preloaded map: -1",
-0,
-},
-{
-"[Airlock] Received Cancel Preload for MapID 2601, but we have not preloaded it. Current preloaded map: -1",
-0,
-},
-{
-"[Airlock] Received Cancel Preload for MapID 2601, but we have not preloaded it. Current preloaded map: -1",
-0,
-},
-{
-"[Airlock] Received Cancel Preload for MapID 2601, but we have not preloaded it. Current preloaded map: -1",
-0,
-},
-{
-"[Airlock] Received Cancel Preload for MapID 2601, but we have not preloaded it. Current preloaded map: -1",
-0,
-},
-{
-"[Airlock] Received Cancel Preload for MapID 2601, but we have not preloaded it. Current preloaded map: -1",
-0,
-},
-{
-"[Airlock] Received Cancel Preload for MapID 2601, but we have not preloaded it. Current preloaded map: -1",
-0,
-},
-{
-"[Airlock] Received Cancel Preload for MapID 2601, but we have not preloaded it. Current preloaded map: -1",
-0,
-},
-{
-"[Airlock] Received Cancel Preload for MapID 2601, but we have not preloaded it. Current preloaded map: -1",
-0,
-},
-{
-"[Airlock] Received Cancel Preload for MapID 2601, but we have not preloaded it. Current preloaded map: -1",
-0,
-},
-{
-"[Airlock] Received Cancel Preload for MapID 2601, but we have not preloaded it. Current preloaded map: -1",
-0,
-},
-{
-"[Airlock] Received Cancel Preload for MapID 2601, but we have not preloaded it. Current preloaded map: -1",
-0,
-},
-{
-"[Airlock] Received Cancel Preload for MapID 2601, but we have not preloaded it. Current preloaded map: -1",
-0,
-},
-{
-"[Airlock] Received Cancel Preload for MapID 2601, but we have not preloaded it. Current preloaded map: -1",
-0,
-},
-{
 "World transfer pending...",
 0,
 },
@@ -3552,19 +712,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"World transfer pending...",
+"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2601, PreviousTransitionID:-1, Position (2262.34, -2240.17, -553.144)",
 0,
 },
 {
-"Got new connection 3",
+"[Airlock] Preload initiated for map 2552",
+0,
+},
+{
+"[Airlock] Cancel Preload of MapID:2552",
 0,
 },
 {
 "Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
 0,
 },
 {
@@ -3580,7 +740,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 1, intensity 0.000000\n",
+"Got new connection 3",
 0,
 },
 {
@@ -3588,7 +748,39 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 1, intensity 0.000000\n",
+"[Airlock] Received PreloadMap Destination MapID:2688, Current MapID:2601, PreviousTransitionID:-1, Position (-525.868, -69.3953, 72.7723)",
+0,
+},
+{
+"[Airlock] Preload initiated for map 2688",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2688, Current MapID:2601, PreviousTransitionID:2688, Position (-417.266, -40.6682, 56.0184)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"[Airlock] Loading new map 2688 from previous map 2601 with translation: (-1093.71, 590.992, 1048.87)\n    Location : (-408.877, -38.3492, 52.055)\n    Location in previous map : (684.829, -629.341, -996.815)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2688 but keeping old map 2601 RESIDENT.",
+0,
+},
+{
+"[Airlock] Freezing AOI updates for old map 2601",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2688",
 0,
 },
 {
@@ -3596,187 +788,347 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"-------------------------------------------------- Previous Session --------------------------------------------------",
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2688, PreviousTransitionID:2601, Position (685.794, -629.086, -996.815)",
 0,
 },
 {
-"-------------------------------------------------- Previous Session --------------------------------------------------",
+"[Airlock] Preload skipped - map is same as current map.",
 0,
 },
 {
-"Sorting particles normally.",
+"Test CVar test_cameraTargetFocusInteractEnable has been set to 1 (default 0)",
 0,
 },
 {
-"Multithreaded rendering enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0 (default 0.750000)",
 0,
 },
 {
-"Multithreaded BeginDraw enabled.",
+"Test CVar test_cameraHeadMovementStrength has been set to 0 (default 0.000000)",
 0,
 },
 {
-"Multithread shadows changed to 1.",
+"Test CVar test_cameraOverShoulder has been set to 1.5 (default 0.000000)",
 0,
 },
 {
-"Multithreaded prepass enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthYaw has been set to 0 (default 1.000000)",
 0,
 },
 {
-"Multithreaded opaque pass enabled.",
+"Outline mode changed to 0",
 0,
 },
 {
-"Multithreaded opaque pass enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.010995353062595 (default 0.750000)",
 0,
 },
 {
-"Multithreaded alpha M2 pass enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.034550642649375 (default 0.750000)",
 0,
 },
 {
-"Multithreaded opaque WMO pass enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.047106452580099 (default 0.750000)",
 0,
 },
 {
-"Multithreaded terrain pass enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.062790522507777 (default 0.750000)",
 0,
 },
 {
-"Multithreaded volumetric fog enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.10192445934598 (default 0.750000)",
 0,
 },
 {
-"Multithreaded Refraction Pass enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.11753740210673 (default 0.750000)",
 0,
 },
 {
-"Multithreaded miscellaneous passes enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.15177838101184 (default 0.750000)",
 0,
 },
 {
-"Multithreaded decal passes disabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.17038149016864 (default 0.750000)",
 0,
 },
 {
-"Multithreaded outline passes enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.20893589839105 (default 0.750000)",
 0,
 },
 {
-"Multithreaded lightshaft passes enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.24259924137708 (default 0.750000)",
 0,
 },
 {
-"Multithreaded alpha pass enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.25932477903784 (default 0.750000)",
 0,
 },
 {
-"Multithreaded daynight update enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.30153797294427 (default 0.750000)",
 0,
 },
 {
-"Water detail changed to 2",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.31945552900741 (default 0.750000)",
 0,
 },
 {
-"Ripple detail changed to 1",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.35347485948938 (default 0.750000)",
 0,
 },
 {
-"Reflection mode changed to 0",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.36958460429504 (default 0.750000)",
 0,
 },
 {
-"Reflection downscale changed to 0",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.40577977480202 (default 0.750000)",
 0,
 },
 {
-"Sunshafts quality changed to 2",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.42151070100993 (default 0.750000)",
 0,
 },
 {
-"Refraction mode changed to 2",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.45678745275138 (default 0.750000)",
 0,
 },
 {
-"Volume fog enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.49272736029715 (default 0.750000)",
 0,
 },
 {
-"Particulate volumes enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.50768875762983 (default 0.750000)",
 0,
 },
 {
-"Projected textures enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.53847670266049 (default 0.750000)",
 0,
 },
 {
-"Spell Clutter set to dynamic",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.55687563857373 (default 0.750000)",
 0,
 },
 {
-"Shadow mode changed to 4 - 4 band dynamic shadows on units and terrain, 2048",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.590323971499 (default 0.750000)",
 0,
 },
 {
-"Shadow texture size changed to 2048.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.619093973206 (default 0.750000)",
 0,
 },
 {
-"Soft shadows changed to 1.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.63500023326077 (default 0.750000)",
 0,
 },
 {
-"Shadow cascade blending changed to 1",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.6706856008084 (default 0.750000)",
 0,
 },
 {
-"Number of shadow cascades changed to 4",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.68454712990184 (default 0.750000)",
 0,
 },
 {
-"Shadow RT mode changed to 3 (High) - Full-resolution directional & local light shadows",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.69816544265535 (default 0.750000)",
 0,
 },
 {
-"maxLightCount must be in range 0 to 32.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.71043110407314 (default 0.750000)",
 0,
 },
 {
-"CVar 'maxLightCount' failed validation for its initial value.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.72030904935575 (default 0.750000)",
 0,
 },
 {
-"Clustered shading enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.73004303641999 (default 0.750000)",
 0,
 },
 {
-"Not forcing clustered shading.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.74174179788778 (default 0.750000)",
 0,
 },
 {
-"SSAO mode set to 4",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.75425140546402 (default 0.750000)",
 0,
 },
 {
-"SSAO type set to 0",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.76548323860759 (default 0.750000)",
 0,
 },
 {
-"Depth Based Opacity Enabled",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.77944734093375 (default 0.750000)",
 0,
 },
 {
-"SkyCloudLOD set to 0",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.78822563695284 (default 0.750000)",
 0,
 },
 {
-"Texture filtering mode updated.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79684640120349 (default 0.750000)",
 0,
 },
 {
-"Terrain mip level changed to 0.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80530791077265 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81543102015353 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.82796249690145 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.83752806500682 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84851023938257 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85752668061948 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86550135459322 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87249603123347 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88006332229913 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88885728241956 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89733543577445 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90415714612197 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91140329859683 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91837735330065 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92447953149468 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93092841401292 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93654990719467 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94194032066801 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94659301916438 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95105653519153 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95625373119837 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9607307566432 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96455743547376 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96779711671213 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97125905830383 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97522664479784 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97922282430378 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9822872635796 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9851093381371 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98719202520869 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98980111948587 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99231035913414 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99396096343042 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99541291848086 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.996536542431 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99761251153957 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99831154368608 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99910077034197 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99968419123851 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9999555878527 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 1 (default 0.750000)",
 0,
 },
 {
@@ -3784,115 +1136,2431 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Physics interaction level changed to 2",
+"Test CVar test_cameraTargetFocusInteractEnable has been set to 1 (default 0)",
 0,
 },
 {
-"Render scale changed to 1",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0 (default 0.750000)",
 0,
 },
 {
-"Resample quality changed to 3",
+"Test CVar test_cameraHeadMovementStrength has been set to 0 (default 0.000000)",
 0,
 },
 {
-"MSAA set to 8 color samples, 8 coverage samples",
+"Test CVar test_cameraOverShoulder has been set to 1.5 (default 0.000000)",
 0,
 },
 {
-"MSAA for alpha-test disabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthYaw has been set to 0 (default 1.000000)",
 0,
 },
 {
-"VALAR mode changed to 0",
+"Outline mode changed to 0",
 0,
 },
 {
-"lodObjectSizeScale cannot be changed.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.012566040480176 (default 0.750000)",
 0,
 },
 {
-"Volume fog enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.034550642649375 (default 0.750000)",
 0,
 },
 {
-"dynamicLod enabled",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.050244320564236 (default 0.750000)",
 0,
 },
 {
-"World preload object sort enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.064358141374105 (default 0.750000)",
 0,
 },
 {
-"World load object sort enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.1003617210576 (default 0.750000)",
 0,
 },
 {
-"World preload non critical enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.12065663548205 (default 0.750000)",
 0,
 },
 {
-"World preload high res textures enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.15643447457662 (default 0.750000)",
 0,
 },
 {
-"FFX: Color Blind Test Mode Disabled",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.19663070490838 (default 0.750000)",
 0,
 },
 {
-"Error display disabled",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.21507624742935 (default 0.750000)",
 0,
 },
 {
-"Error display shown",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.24868990014419 (default 0.750000)",
 0,
 },
 {
-"Displaying errors through fatal errors",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.26538786129195 (default 0.750000)",
 0,
 },
 {
-"Displaying errors through fatal errors",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.29704159804915 (default 0.750000)",
 0,
 },
 {
-"Now filtering: all messages",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.31498653618341 (default 0.750000)",
 0,
 },
 {
-"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.35494381644968 (default 0.750000)",
 0,
 },
 {
-"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.37104372870162 (default 0.750000)",
 0,
 },
 {
-"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.40577977613908 (default 0.750000)",
 0,
 },
 {
-"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.42577931046734 (default 0.750000)",
 0,
 },
 {
-"ChromaEffects disabled",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.46654104164695 (default 0.750000)",
 0,
 },
 {
-"NetClient::HandleConnect()\n",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.50497964808497 (default 0.750000)",
 0,
 },
 {
-"Got new connection 2",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.54244155785087 (default 0.750000)",
 0,
 },
 {
-"[WowEntitlements] [BNetAccount-0-0000067FF74C] [WowAccount-0-0000004B8F74] Initialized with 47 entitlements.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.563381880827 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.59412108441277 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.63013389320436 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.66366516366001 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.67649048027396 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.69025126284449 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.70376680242379 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.71483894728952 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.72573471631639 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.73645142113607 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.74594116913525 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.75733710623995 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.77051326661047 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.78239083396603 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79589636982964 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80809272852549 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81724551522498 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.82619665879374 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.83494395067074 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84348523259228 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85345987348947 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86313128415219 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87249602837422 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88155077890647 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89100654424572 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89940527094982 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90616022944612 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91397090878559 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92084549846331 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92626576904981 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93207113019343 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93819135334061 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94351218107095 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94860021125574 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95250217551795 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95716804532581 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96372369302112 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96819133933917 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97200203936718 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97591677481866 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97922282282047 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98258038807383 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98510933687951 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98768835052726 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98980111844387 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99250355866229 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99479214840594 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99640469128338 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99782454585605 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99881465133623 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99964348356339 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99993955005046 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 1 (default 0.750000)",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractEnable has been set to 1 (default 0)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraHeadMovementStrength has been set to 0 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 1.5 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthYaw has been set to 0 (default 1.000000)",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.012566040480176 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.039259817805575 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.062790522507777 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.112856390211 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.15333078987795 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.17347630018028 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.21047176662881 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.25325145766214 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.27144045803143 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.30901700300112 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.34759034626568 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.36520177127216 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.40002914677281 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.42151069305028 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.458184223569 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.4927273526591 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.50633481932251 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.5463943599276 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.5801344679091 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.59916335741597 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.6301338852528 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.66483933938524 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.67880076014279 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.69138698431883 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.70264998572074 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.71263853522258 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.72465314713954 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.73538787820483 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.74698641172599 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.75836193383393 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.76951104838755 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.78043042683928 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.78919130548818 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79779445937381 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80716644332327 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81724551269578 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.8261966563212 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.83494394825545 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84264043286873 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85016851058007 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85752667685657 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.8647134611232 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87172742705668 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88080813482707 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89029231797294 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89940527031036 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90682345478154 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91397090878559 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92084549846331 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92685661369789 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93320465041073 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93873387508655 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94351218107095 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94909616162331 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95532997409406 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95985427817992 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96372369302112 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96740050172198 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97088396944954 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97417340001123 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9775999501548 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98109052910219 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98400963657832 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98642926738945 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98865175421078 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99067665286456 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99231035822878 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99378736626932 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99541291778106 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99691733903593 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99792687049027 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99865680448302 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99928947527484 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9996841910547 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99993955006655 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 1 (default 0.750000)",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2688, PreviousTransitionID:2601, Position (778.447, -608.218, -996.923)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"[Airlock] Loading new map 2601 from previous map 2688 with translation: (1093.71, -590.992, -1048.87)\n    Location : (585.998, -656.584, -988.04)\n    Location in previous map : (-507.708, -65.5925, 60.8292)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2601 and unloading map 2688. (Map Table Size 960 larger than budget 8)",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2601",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received Cancel Preload for MapID 2688, but we have not preloaded it. Current preloaded map: -1",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2688, Current MapID:2601, PreviousTransitionID:-1, Position (-539.187, -72.0668, 65.2335)",
+0,
+},
+{
+"[Airlock] Preload initiated for map 2688",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2688, Current MapID:2601, PreviousTransitionID:2688, Position (-417.17, -40.4572, 53.3834)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"[Airlock] Loading new map 2688 from previous map 2601 with translation: (-1093.71, 590.992, 1048.87)\n    Location : (-413.345, -39.4319, 52.0549)\n    Location in previous map : (680.361, -630.423, -996.815)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2688 but keeping old map 2601 RESIDENT.",
+0,
+},
+{
+"[Airlock] Freezing AOI updates for old map 2601",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2688",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2688, PreviousTransitionID:2601, Position (680.361, -630.423, -996.815)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractEnable has been set to 1 (default 0)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraHeadMovementStrength has been set to 0 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 1.5 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthYaw has been set to 0 (default 1.000000)",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.014136696892292 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.042398790016312 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.064358141374105 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.12533323803456 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.16883345049194 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.20739951176331 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.22427076856807 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.26538785565011 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.30153796875979 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.31796664389645 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.35787908981423 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.37541558223532 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.4115143699649 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.44978671728258 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.469317464787 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.51039285146254 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.54507810143699 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.58013446910068 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.60917676107643 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.66718278307603 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.6868338633781 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.70376679722728 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.71703229190635 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.72896864496658 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.74174179003852 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.75321910601402 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.76951104745328 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.7804304259246 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79111680833405 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80156700428191 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81360846862137 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.82796249115879 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84094460124629 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84934041933344 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85913859984649 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86707071979855 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87554888108602 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88449958008367 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89384144179889 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90213397642029 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90945396551699 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91524118944058 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92084549675201 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92685661205028 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93376795523728 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93873387306981 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94454845008789 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94958976835521 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.953926664989 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95807291347909 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96202768517208 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96579018968239 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96974433845176 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97345921728235 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97625822798896 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97985506333204 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98315936475617 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98590859159006 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98817492802706 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99002366599461 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99171606773373 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99343281726766 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99495102310902 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9965365414578 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99771975908482 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99857418455685 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99922903880227 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99964348348527 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99992104504194 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 1 (default 0.750000)",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractEnable has been set to 1 (default 0)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraHeadMovementStrength has been set to 0 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 1.5 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthYaw has been set to 0 (default 1.000000)",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.015707318423501 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.047106454041393 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.07062699019222 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.11129549037012 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.1564344716868 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.19817058972228 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.21661001424226 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.2669019967531 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.30602765033319 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.32094361896277 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.36373902355221 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.40146829287165 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.41723272592507 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.45538954184411 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.48999116487639 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.50497964177152 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.54112126696841 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.55687563128317 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.58905534240913 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.6240160036976 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.63863353756026 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.67417350863814 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.68569133884538 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.69591281365341 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.70488187121772 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.71263853624886 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.72139774137371 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.73218639175778 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.74384514836852 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.75425139970083 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.76345798230222 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.77151357434289 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.78043042683928 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.78919130548818 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79874055436817 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80809272594027 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81724551269578 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.82708059493028 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.83666875378114 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84432794638433 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85099450257533 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85671753944924 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86233699793617 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86940872745195 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87554888249958 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88229124646499 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88957589632404 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89594446765602 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90348498410189 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90945396795015 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91460717894025 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92084549903374 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92685661424709 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93207113072341 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93709936701973 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94246659853417 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94760129048495 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95202264357838 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95579303095502 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95941248751784 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96288044171262 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96660011662419 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97012661052438 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97381751088091 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9765972748734 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97954015211995 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98228726220898 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98456434535681 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98668595436631 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98911882212469 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99109975594257 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99269431019112 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99430079742034 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99556197085893 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99691733903593 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99782454595249 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99857418479113 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99928947527484 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9996841910547 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99990007292103 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 1 (default 0.750000)",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractEnable has been set to 1 (default 0)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraHeadMovementStrength has been set to 0 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 1.5 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthYaw has been set to 0 (default 1.000000)",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.010995353062595 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.034550642649375 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.050244320564236 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.062790522507777 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.098798732225975 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.11597735210906 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.15643447313171 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.19200814750174 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.20586262055468 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.21967595068971 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.26084151980254 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.29854112613678 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.31349530983414 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.35347485948938 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.37250193351979 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.4143755981312 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.45259036822421 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.46792983308486 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.50090664407958 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.53979965199341 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.55687563614354 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.59032396913736 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.62891341283814 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.64705598259233 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.67995339993599 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.69252101360568 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.70710680290977 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.72030904631148 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.73218639574338 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.74174179494431 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.7511489524601 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.76040598821216 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.76951105212462 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.77944733910081 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79015503575987 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80156700778065 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81085960390758 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81995213253207 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.82708059739713 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.83494395067074 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84179355873948 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85016851289079 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85913860433831 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86785220154271 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87554888532669 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88302954049376 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91269160822677 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92145686088076 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92803144239474 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94141171423817 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94909616208411 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95579303095502 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96029370131691 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96455743354364 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96858317562294 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97309852444758 (default 0.750000)",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2688, Current MapID:2601, PreviousTransitionID:-1, Position (-408.841, -37.6825, 52.0546)",
+0,
+},
+{
+"[Airlock] Preload initiated for map 2688",
+0,
+},
+{
+"[Airlock] Cancel Preload of MapID:2688",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractEnable has been set to 1 (default 0)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraHeadMovementStrength has been set to 0 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 1.5 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthYaw has been set to 0 (default 1.000000)",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 7.2 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.032980743394409 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.072193774941136 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.13467799694225 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.19046634196201 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.24868990156115 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.30003992318843 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.35494381644968 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.40577977480202 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.45538954575138 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.50362321823768 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.55295537349956 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.58396635376038 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.60917676223658 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.63135281423648 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.6530241723957 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.67184989397826 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.6913869896035 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.71043110098448 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.73432253167955 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.75631040331279 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.77350848947694 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.78919130908197 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80901701810768 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.82972016088596 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84516858236557 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85994138893029 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87249603051866 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88813647200616 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89940527414714 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91460718189786 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9262657723578 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93709936957298 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94608537827495 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95532997668818 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96245525360816 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97236993528757 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97985506566931 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98590859354785 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99067665386106 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99495102443041 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99782454653115 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99928947560567 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.9999802613644 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 1 (default 0.750000)",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractEnable has been set to 1 (default 0)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraHeadMovementStrength has been set to 0 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 1.5 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthYaw has been set to 0 (default 1.000000)",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.021989376771135 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.056518537893939 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.10817286925414 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.15953660521753 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.21354193993475 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.27899111120901 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.33133789376285 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.3841341945695 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.43570245670486 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.48862125579252 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.54507810511646 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.58778526933524 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.63500022874028 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.65658577589677 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.67764645836668 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.69591281785565 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.71373962385133 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.73218639574338 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.75425140354296 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.7784623235759 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79968468118406 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81995213253207 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.8366687561849 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85099450488019 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.86785220154271 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88376565297981 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90213398083859 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91397091116008 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92744517360695 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93873387710329 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94909616346651 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95896833084871 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96619634741775 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97452688743775 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98078529353168 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98564460675553 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98980111927747 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99343281860672 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.996536542431 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99857418518159 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99975820615916 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 1 (default 0.750000)",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractEnable has been set to 1 (default 0)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraHeadMovementStrength has been set to 0 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 1.5 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthYaw has been set to 0 (default 1.000000)",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.032980743394409 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.08002495671449 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.13312134571805 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.18275034103503 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.23802495286981 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.28802914825322 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.34021544603006 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.38703286113821 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.4385280261785 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.48587782669755 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.5318420795082 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.57500527195946 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.59664516816419 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.62155805799692 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.64705598482311 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.6706856008084 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.69025126496154 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.71263854445913 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.73432253565167 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.75631040714103 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.77549577036353 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.79589637425813 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.81269419196994 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.82972016415225 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.8443279526553 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.85994139191694 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87554888886059 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.8888572851007 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90077407580504 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91460718426394 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92803144620932 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93927408561948 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.94958977477586 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95852180887133 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96619634968065 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97417340364484 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98047763828035 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98719202614225 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99306846603376 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99640469239884 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99881465204831 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99979151357591 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 1 (default 0.750000)",
+0,
+},
+{
+"Outline mode changed to 2",
 0,
 },
 {
 "-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Resume()",
+0,
+},
+{
+"Screen invalid. Changing from=\"none\" to=\"charselect\"",
+0,
+},
+{
+"Switching to screen=\"CharacterSelect\" (from \"none\")",
+0,
+},
+{
+"From EnsureValidScreen",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Suspend()",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000008000",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000000c000",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000000c400",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000010c400",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000010c410",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000023",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000018c410",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000018c410",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000023",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 6/30/2025 (Mon) 0:34",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Resume()",
+0,
+},
+{
+"Screen invalid. Changing from=\"none\" to=\"charselect\"",
+0,
+},
+{
+"Switching to screen=\"CharacterSelect\" (from \"none\")",
+0,
+},
+{
+"From EnsureValidScreen",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Suspend()",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty",
 0,
 },
 {
@@ -3944,7 +3612,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 6/3/2025 (Tue) 11:55",
+"Time set to 6/30/2025 (Mon) 0:34",
 0,
 },
 {
@@ -3960,7 +3628,127 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 1, intensity 0.000000\n",
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Resume()",
+0,
+},
+{
+"Screen invalid. Changing from=\"none\" to=\"charselect\"",
+0,
+},
+{
+"Switching to screen=\"CharacterSelect\" (from \"none\")",
+0,
+},
+{
+"From EnsureValidScreen",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Suspend()",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000100",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000101",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000141",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000008141",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000000c141",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c141",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c143",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c543",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000061",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000069",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000006d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c547",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c54f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c56f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004e56f",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004e57f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004e5ff",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004e5ff",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
 0,
 },
 {
@@ -3968,7 +3756,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"World transfer pending...",
+"Time set to 6/30/2025 (Mon) 0:36",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
 0,
 },
 {
@@ -3980,207 +3772,231 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 1, intensity 0.000000\n",
+"Test CVar test_cameraTargetFocusInteractEnable has been set to 1 (default 0)",
 0,
 },
 {
-"World transfer pending...",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0 (default 0.750000)",
 0,
 },
 {
-"Got new connection 3",
+"Test CVar test_cameraHeadMovementStrength has been set to 0 (default 0.000000)",
 0,
 },
 {
-"Weather changed to 1, intensity 0.000000\n",
+"Test CVar test_cameraOverShoulder has been set to 1.5 (default 0.000000)",
 0,
 },
 {
-"Weather changed to 1, intensity 0.000000\n",
+"Test CVar test_cameraTargetFocusInteractStrengthYaw has been set to 0 (default 1.000000)",
 0,
 },
 {
-"-------------------------------------------------- Previous Session --------------------------------------------------",
+"Outline mode changed to 0",
 0,
 },
 {
-"-------------------------------------------------- Previous Session --------------------------------------------------",
+"Test CVar test_cameraOverShoulder has been set to 7.2 (default 0.000000)",
 0,
 },
 {
-"Sorting particles normally.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.018848439879226 (default 0.750000)",
 0,
 },
 {
-"Multithreaded rendering enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.054950183067574 (default 0.750000)",
 0,
 },
 {
-"Multithreaded BeginDraw enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.10036171960207 (default 0.750000)",
 0,
 },
 {
-"Multithread shadows changed to 1.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.12844943663025 (default 0.750000)",
 0,
 },
 {
-"Multithreaded prepass enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.17347630162102 (default 0.750000)",
 0,
 },
 {
-"Multithreaded opaque pass enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.21354194565145 (default 0.750000)",
 0,
 },
 {
-"Multithreaded opaque pass enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.25780739841363 (default 0.750000)",
 0,
 },
 {
-"Multithreaded alpha M2 pass enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.28200658717338 (default 0.750000)",
 0,
 },
 {
-"Multithreaded opaque WMO pass enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.32688804252925 (default 0.750000)",
 0,
 },
 {
-"Multithreaded terrain pass enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.36812456661299 (default 0.750000)",
 0,
 },
 {
-"Multithreaded volumetric fog enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.40864908964778 (default 0.750000)",
 0,
 },
 {
-"Multithreaded Refraction Pass enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.44978672120234 (default 0.750000)",
 0,
 },
 {
-"Multithreaded miscellaneous passes enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.48037659916172 (default 0.750000)",
 0,
 },
 {
-"Multithreaded decal passes disabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.5238372632559 (default 0.750000)",
 0,
 },
 {
-"Multithreaded outline passes enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.56338187961834 (default 0.750000)",
 0,
 },
 {
-"Multithreaded lightshaft passes enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.59664516816419 (default 0.750000)",
 0,
 },
 {
-"Multithreaded alpha pass enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.63863354431465 (default 0.750000)",
 0,
 },
 {
-"Multithreaded daynight update enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.66248934385279 (default 0.750000)",
 0,
 },
 {
-"Water detail changed to 2",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.68454712990184 (default 0.750000)",
 0,
 },
 {
-"Ripple detail changed to 1",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.70153144987419 (default 0.750000)",
 0,
 },
 {
-"Reflection mode changed to 0",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.72030904935575 (default 0.750000)",
 0,
 },
 {
-"Reflection downscale changed to 0",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.74174179788778 (default 0.750000)",
 0,
 },
 {
-"Sunshafts quality changed to 2",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.75631040522691 (default 0.750000)",
 0,
 },
 {
-"Refraction mode changed to 2",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.77051326754296 (default 0.750000)",
 0,
 },
 {
-"Volume fog enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.78628845688118 (default 0.750000)",
 0,
 },
 {
-"Particulate volumes enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.80437566023208 (default 0.750000)",
 0,
 },
 {
-"Projected textures enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.82174643369241 (default 0.750000)",
 0,
 },
 {
-"Spell Clutter set to dynamic",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.83580738617033 (default 0.750000)",
 0,
 },
 {
-"Shadow mode changed to 4 - 4 band dynamic shadows on units and terrain, 2048",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.84767796041099 (default 0.750000)",
 0,
 },
 {
-"Shadow texture size changed to 2048.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.87018377793182 (default 0.750000)",
 0,
 },
 {
-"Soft shadows changed to 1.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.88449958486124 (default 0.750000)",
 0,
 },
 {
-"Shadow cascade blending changed to 1",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.89664105920149 (default 0.750000)",
 0,
 },
 {
-"Number of shadow cascades changed to 4",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.90616023192099 (default 0.750000)",
 0,
 },
 {
-"Shadow RT mode changed to 3 (High) - Full-resolution directional & local light shadows",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.91775464673923 (default 0.750000)",
 0,
 },
 {
-"maxLightCount must be in range 0 to 32.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.92803144293968 (default 0.750000)",
 0,
 },
 {
-"CVar 'maxLightCount' failed validation for its initial value.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.93764651873399 (default 0.750000)",
 0,
 },
 {
-"Clustered shading enabled.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.946593018221 (default 0.750000)",
 0,
 },
 {
-"Not forcing clustered shading.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.95579303224549 (default 0.750000)",
 0,
 },
 {
-"SSAO mode set to 4",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.96372369458295 (default 0.750000)",
 0,
 },
 {
-"SSAO type set to 0",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97200204074216 (default 0.750000)",
 0,
 },
 {
-"Depth Based Opacity Enabled",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.97792935340674 (default 0.750000)",
 0,
 },
 {
-"SkyCloudLOD set to 0",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98344521707915 (default 0.750000)",
 0,
 },
 {
-"Texture filtering mode updated.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.98793285921899 (default 0.750000)",
 0,
 },
 {
-"Terrain mip level changed to 0.",
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99109975652681 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99378736675777 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99666593386454 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99865680471042 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99955466937024 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 0.99998026132763 (default 0.750000)",
+0,
+},
+{
+"Test CVar test_cameraTargetFocusInteractStrengthPitch has been set to 1 (default 0.750000)",
 0,
 },
 {
@@ -4188,107 +4004,23 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Physics interaction level changed to 2",
+"-------------------------------------------------- Previous Session --------------------------------------------------",
 0,
 },
 {
-"Render scale changed to 1",
+"Resume()",
 0,
 },
 {
-"Resample quality changed to 3",
+"Screen invalid. Changing from=\"none\" to=\"charselect\"",
 0,
 },
 {
-"MSAA set to 8 color samples, 8 coverage samples",
+"Switching to screen=\"CharacterSelect\" (from \"none\")",
 0,
 },
 {
-"MSAA for alpha-test disabled.",
-0,
-},
-{
-"VALAR mode changed to 0",
-0,
-},
-{
-"lodObjectSizeScale cannot be changed.",
-0,
-},
-{
-"Volume fog enabled.",
-0,
-},
-{
-"dynamicLod enabled",
-0,
-},
-{
-"World preload object sort enabled.",
-0,
-},
-{
-"World load object sort enabled.",
-0,
-},
-{
-"World preload non critical enabled.",
-0,
-},
-{
-"World preload high res textures enabled.",
-0,
-},
-{
-"FFX: Color Blind Test Mode Disabled",
-0,
-},
-{
-"Error display disabled",
-0,
-},
-{
-"Error display shown",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Now filtering: all messages",
-0,
-},
-{
-"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"ChromaEffects disabled",
-0,
-},
-{
-"NetClient::HandleConnect()\n",
-0,
-},
-{
-"[WowEntitlements] [BNetAccount-0-0000067FF74C] [WowAccount-0-0000004B8F74] Initialized with 47 entitlements.",
+"From EnsureValidScreen",
 0,
 },
 },

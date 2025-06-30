@@ -2,6 +2,8 @@ local _, addonTbl = ...
 local L = addonTbl.API:NewLocale("BigWigs", "ptBR")
 if not L then return end
 
+--L.tempNew = "NEW: You can now type |cFFFFFFFF/bwtemp|r to see the Mythic+ keystones of your party members."
+
 -- Core.lua
 L.berserk = "Frenesi"
 L.berserk_desc = "Mostra uma barra e um contador para quando o chefe entrar em Frenesi."
@@ -261,7 +263,29 @@ L.N25 = "Normal 25"
 L.H10 = "Heroico 10"
 L.H25 = "Heroico 25"
 
+-----------------------------------------------------------------------
+-- TOOLS
+-----------------------------------------------------------------------
 
+--L.youAreInCombat = "You cannot do that in combat."
+
+-----------------------------------------------------------------------
+-- Keystones.lua
+--
+
+--L.keystoneTitle = "BigWigs Keystones"
+--L.keystoneHeaderParty = "Party"
+--L.keystoneRefreshParty = "Refresh Party"
+--L.keystoneHeaderGuild = "Guild"
+--L.keystoneRefreshGuild = "Refresh Guild"
+--L.keystoneLevelTooltip = "Keystone level: |cFFFFFFFF%s|r"
+--L.keystoneMapTooltip = "Dungeon: |cFFFFFFFF%s|r"
+--L.keystoneRatingTooltip = "Mythic+ rating: |cFFFFFFFF%d|r"
+--L.keystoneHiddenTooltip = "The player has chosen to hide this information."
+--L.keystoneTabOnline = "Online"
+--L.keystoneTabAlts = "Alts"
+--L.keystoneTabTeleports = "Teleports"
+--L.keystoneHeaderMyCharacters = "My Characters"
 
 -----------------------------------------------------------------------
 -- PLUGINS
@@ -281,6 +305,7 @@ L.sizeDesc = "Normalmente você define o tamanho arrastando a âncora. Se você 
 L.fontSizeDesc = "Ajusta o tamanho da fonte usando a barra deslizante ou digitando o valor na caixa que tem um limite muito maior de 200."
 L.disabled = "Desativado"
 L.disableDesc = "Você está prestes a desabilitar a função '%s' e isso |cffff4411não é recomendado|r.\n\nVocê tem certeza disso?"
+--L.keybinding = "Keybinding"
 
 -- Anchor Points
 L.UP = "Cima"
@@ -688,6 +713,8 @@ L.sendPull = "Enviando um temporizador de pull para seu grupo."
 L.wrongPullFormat = "Temporizador de pull inválido. Um exemplo correto seria: /pull 5"
 L.countdownBegins = "Iniciar Contagem"
 L.countdownBegins_desc = "Escolhe quanto tempo deve restar de tempo de pull (em segundos) para começar a contagem."
+--L.pullExplainer = "\n|cFF33FF99/pull|r will start a normal pull timer.\n|cFF33FF99/pull 7|r will start a 7 second pull timer, you can use any number.\nAlternatively, you can also set a keybinding below.\n\n"
+--L.pullKeybindingDesc = "Choose a keybinding for starting a pull timer."
 
 -----------------------------------------------------------------------
 -- RaidIcon.lua

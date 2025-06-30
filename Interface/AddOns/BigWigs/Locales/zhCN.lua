@@ -2,6 +2,8 @@ local _, addonTbl = ...
 local L = addonTbl.API:NewLocale("BigWigs", "zhCN")
 if not L then return end
 
+L.tempNew = "新：现在输入 |cFFFFFFFF/bwtemp|r 可以查看队伍的史诗钥石信息。"
+
 -- Core.lua
 L.berserk = "狂暴"
 L.berserk_desc = "为首领狂暴显示计时器和警报。"
@@ -261,7 +263,29 @@ L.N25 = "25人普通"
 L.H10 = "10人英雄"
 L.H25 = "25人英雄"
 
+-----------------------------------------------------------------------
+-- TOOLS
+-----------------------------------------------------------------------
 
+L.youAreInCombat = "你不能在战斗中这样做。"
+
+-----------------------------------------------------------------------
+-- Keystones.lua
+--
+
+L.keystoneTitle = "BigWigs 钥石信息"
+L.keystoneHeaderParty = "队伍"
+L.keystoneRefreshParty = "刷新队伍"
+L.keystoneHeaderGuild = "公会"
+L.keystoneRefreshGuild = "刷新公会"
+L.keystoneLevelTooltip = "钥石等级：|cFFFFFFFF%s|r"
+L.keystoneMapTooltip = "地下城：|cFFFFFFFF%s|r"
+L.keystoneRatingTooltip = "史诗评分：|cFFFFFFFF%d|r"
+L.keystoneHiddenTooltip = "该玩家选择隐藏此信息。"
+L.keystoneTabOnline = "在线"
+L.keystoneTabAlts = "角色"
+L.keystoneTabTeleports = "传送"
+L.keystoneHeaderMyCharacters = "我的角色"
 
 -----------------------------------------------------------------------
 -- PLUGINS
@@ -281,6 +305,7 @@ L.sizeDesc = "通常情况下，您可以通过移动滑条来设置尺寸。如
 L.fontSizeDesc = "使用滑条或在框内输入数值可调整字体尺寸，最大数值为200。"
 L.disabled = "禁用"
 L.disableDesc = "将禁用“%s”功能，但|cffff4411不建议|r这么做。\n\n你确定要这么做吗？"
+L.keybinding = "按键设置"
 
 -- Anchor Points
 L.UP = "向上"
@@ -688,6 +713,8 @@ L.sendPull = "向您的队伍/团队发送开怪倒数计时器。"
 L.wrongPullFormat = "无效的开怪倒数。正确用法：/pull 5"
 L.countdownBegins = "开始倒计时"
 L.countdownBegins_desc = "选择开怪计时器上倒计开始时应剩余多少时间（以秒为单位）。"
+L.pullExplainer = "\n|cFF33FF99/pull|r 将开启默认开怪计时器。\n|cFF33FF99/pull 7|r 将开启7秒拉怪计时器，数字可任意指定。\n您也可以在下方的按键设置中设置快捷键。\n\n"
+L.pullKeybindingDesc = "为启用开怪计时器选择一个按键设置。"
 
 -----------------------------------------------------------------------
 -- RaidIcon.lua

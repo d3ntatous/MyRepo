@@ -53,7 +53,6 @@ local IsEncounterInProgress = IsEncounterInProgress
 local SetCVar = C_CVar.SetCVar
 local GetCVar = C_CVar.GetCVar
 local GetTime = GetTime
-local CheckElv = nil
 local RestoreAll
 local hideQuestTrackingTooltips = false
 local activatedModules = {}
@@ -396,15 +395,6 @@ do
 				end
 			end
 			self:RegisterEvent("TALKINGHEAD_REQUESTED")
-			local frame = ObjectiveTrackerFrame
-			if type(frame) == "table" and type(frame.GetObjectType) == "function" then
-				CheckElv(self, frame)
-			end
-		elseif not isVanilla then
-			local frame = WatchFrame
-			if type(frame) == "table" and type(frame.GetObjectType) == "function" then
-				CheckElv(self, frame)
-			end
 		end
 	end
 end
@@ -572,7 +562,7 @@ do
 			end
 		end
 	end
-	local GetDetailedItemLevelInfo = C_Item and C_Item.GetDetailedItemLevelInfo or GetDetailedItemLevelInfo
+	local GetDetailedItemLevelInfo = C_Item.GetDetailedItemLevelInfo
 	function plugin:ITEM_DATA_LOAD_RESULT(_, id, success)
 		if delayedTbl then
 			for i = 1, #delayedTbl do
@@ -606,20 +596,6 @@ do
 		if unregisteredEvents[event] then
 			bbFrame.RegisterEvent(frame, event)
 			unregisteredEvents[event] = nil
-		end
-	end
-
-	function CheckElv(self, targetFrame)
-		-- Undo damage by ElvUI (This frame makes the Objective Tracker protected)
-		if type(targetFrame.AutoHider) == "table" and type(targetFrame.AutoHider.GetObjectType) == "function" and bbFrame.GetParent(targetFrame.AutoHider) == targetFrame then
-			if InCombatLockdown() or UnitAffectingCombat("player") then
-				self:RegisterEvent("PLAYER_REGEN_ENABLED", function()
-					bbFrame.SetParent(targetFrame.AutoHider, (CreateFrame("Frame")))
-					self:UnregisterEvent("PLAYER_REGEN_ENABLED")
-				end)
-			else
-				bbFrame.SetParent(targetFrame.AutoHider, (CreateFrame("Frame")))
-			end
 		end
 	end
 
@@ -688,7 +664,6 @@ do
 		if not isClassic then
 			local frame = ObjectiveTrackerFrame
 			if type(frame) == "table" and type(frame.GetObjectType) == "function" then
-				CheckElv(self, frame)
 				-- Never hide when tracking achievements or in Mythic+
 				local _, _, diff = GetInstanceInfo()
 				local trackedAchievements = C_ContentTracking.GetTrackedIDs(2) -- Enum.ContentTrackingType.Achievement = 2
@@ -700,9 +675,6 @@ do
 		elseif not isVanilla then
 			local frame = Questie_BaseFrame or WatchFrame
 			if type(frame) == "table" and type(frame.GetObjectType) == "function" then
-				if frame == WatchFrame then
-					CheckElv(self, frame)
-				end
 				local trackedAchievements = GetTrackedAchievements and GetTrackedAchievements()
 				if not restoreObjectiveTracker and self.db.profile.blockObjectiveTracker and not trackedAchievements and not bbFrame.IsProtected(frame) then
 					restoreObjectiveTracker = bbFrame.GetParent(frame)

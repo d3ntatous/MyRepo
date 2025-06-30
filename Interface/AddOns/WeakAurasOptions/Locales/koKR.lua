@@ -78,7 +78,7 @@ local L = WeakAuras.L
 	L["%s|cFFFF0000custom|r texture with |cFFFF0000%s|r blend mode%s%s"] = "%s|cFFFF0000사용자 정의|r 텍스처에 |cFFFF0000%s|r 혼합 모드%s%s"
 	L["(Right click to rename)"] = "(우클릭으로 이름 변경)"
 	L["|c%02x%02x%02x%02xCustom Color|r"] = "|c%02x%02x%02x%02x사용자 정의 색깔|r"
-	L["|cff999999Triggers tracking multiple units will default to being active even while no affected units are found without a Unit Count or Match Count setting applied.|r"] = "|cff999999여러 유닛을 추적하는 활성 조건은 유닛 수 또는 일치 횟수 설정이 안된 상태에서 오라에 걸린 유닛이 없을때도 기본으로 활성화됩니다.|r"
+	L["|cff999999Triggers tracking multiple units will default to being active even while no affected units are found without a Unit Count or Match Count setting applied.|r"] = "|cff999999여러 유닛을 추적하는 활성 조건은 유닛 수 또는 조건 일치 유닛 수 설정이 적용되지 않은 경우, 오라에 걸린 유닛이 없어도 기본적으로 활성화 상태를 유지합니다.|r"
 	L["|cFFE0E000Note:|r This sets the description only on '%s'"] = "|cFFE0E000참고:|r '%s'에만 설명이 설정됩니다"
 	L["|cFFE0E000Note:|r This sets the URL on all selected auras"] = "|cFFE0E000참고:|r 선택한 모든 위크오라에 URL을 설정합니다"
 	L["|cFFE0E000Note:|r This sets the URL on this group and all its members."] = "|cFFE0E000참고:|r 이 그룹 및 속해있는 모든 위크오라에 URL을 설정합니다."
@@ -119,7 +119,7 @@ local L = WeakAuras.L
 |cffff0000참고|r: 실제 유닛ID와 직접적인 관계가 없기 때문에 다른 결과가 나올 수 있습니다.
 
 
-|cffffff00*|r 노란색 유닛 설정은 한 개 이상의 유닛과 일치할 수 있으며 유닛 수나 조건 일치 개수 설정이 안되있고 오라에 걸린 유닛이 없을 때도 기본으로 활성화됩니다.]=]
+|cffffff00*|r 노란색 유닛 설정은 여러개의 유닛과 일치할 수 있으며 유닛 수 또는 조건 일치 유닛 수 설정이 적용되지 않은 경우, 오라에 걸린 유닛이 없어도 기본적으로 활성화 상태를 유지합니다.]=]
 	L["A 20x20 pixels icon"] = "20x20 픽셀 아이콘"
 	L["A 32x32 pixels icon"] = "32x32 픽셀 아이콘"
 	L["A 40x40 pixels icon"] = "40x40 픽셀 아이콘"
@@ -158,8 +158,8 @@ Enable this setting if you want this timer to be hidden, or when using a WeakAur
 	L["Anchor Mode"] = "고정 모드"
 	L["Anchor Point"] = "고정 지점"
 	L["Anchored To"] = "고정 위치:"
-	L["And "] = "And"
 	L["and"] = "그리고"
+	L["And "] = "And"
 	L["and %s"] = "and %s"
 	L["and aligned left"] = ", 왼쪽 정렬"
 	L["and aligned right"] = ", 오른쪽 정렬"
@@ -172,7 +172,7 @@ Enable this setting if you want this timer to be hidden, or when using a WeakAur
 	L["Animate"] = "애니메이션"
 	L["Animated Expand and Collapse"] = "확장 / 접기 애니메이션"
 	L["Animates progress changes"] = "진행 상태의 변화를 부드럽게 표현합니다"
-	L["Animation End"] = "애니메이션 종료"
+	L["Animation End"] = "애니메이션 종료 시점"
 	L["Animation Mode"] = "애니메이션 모드"
 	L["Animation relative duration description"] = [=[
 디스플레이 지속시간의 비율로 애니메이션 지속시간을 설정합니다, 분수 (1/2), 백분율 (50%), 또는 소수 (0.5)로 표현합니다.
@@ -183,7 +183,7 @@ Enable this setting if you want this timer to be hidden, or when using a WeakAur
 애니메이션의 지속시간을 |cFF00CC0010%|r로 설정하고, 디스플레이의 활성 조건이 지속시간이 없는 강화 효과일 때, 시작 애니메이션은 재생되지 않습니다 (지속시간을 따로 설정했더라도)."
 ]=]
 	L["Animation Sequence"] = "애니메이션 순서"
-	L["Animation Start"] = "애니메이션 시작"
+	L["Animation Start"] = "애니메이션 시작 시점"
 	L["Any of"] = "아무거나 만족"
 	L["Apply Template"] = "템플릿 적용"
 	L["Arcane Orb"] = "비전 구슬"
@@ -255,7 +255,7 @@ Off Screen]=] ] = "위크오라가 화면 밖에 있습니다"
 	L["Columns"] = "열"
 	L["COMBAT_LOG_EVENT_UNFILTERED with no filter can trigger frame drops in raid environment."] = "필터 없는 COMBAT_LOG_EVENT_UNFILTERED 이벤트는 레이드 환경에서 프레임 드랍을 유발할 수 있습니다."
 	L["Combinations"] = "조합"
-	L["Combine Matches Per Unit"] = "유닛별 맞는 조건 조합"
+	L["Combine Matches Per Unit"] = "유닛당 일치하는 조건 결합"
 	L["Common Text"] = "공동 사용 텍스트"
 	L["Compare against the number of units affected."] = "오라에 걸린 유닛 수와 비교합니다."
 	L["Compatibility Options"] = "호환성 옵션"
@@ -270,8 +270,8 @@ Off Screen]=] ] = "위크오라가 화면 밖에 있습니다"
 	L["Copy settings..."] = "설정 복사..."
 	L["Copy to all auras"] = "모든 위크오라에 복사"
 	L["Could not parse '%s'. Expected a table."] = "'%s'를 분석할 수 없습니다. 테이블이어야 합니다."
-	L["Counts the number of matches over all units."] = "모든 유닛에 대해 일치 횟수를 계산합니다."
-	L["Counts the number of matches per unit."] = "유닛당 일치 횟수를 계산합니다."
+	L["Counts the number of matches over all units."] = "모든 유닛중 일치하는 유닛을 셉니다."
+	L["Counts the number of matches per unit."] = "유닛당 일치하는 개수를 셉니다."
 	L["Create a Copy"] = "사본 생성"
 	L["Creating buttons: "] = "버튼 생성 중:"
 	L["Creating options: "] = "옵션 생성:"
@@ -300,7 +300,7 @@ UNIT_POWER_UPDATE:player, UNIT_AURA:nameplate:group PLAYER_TARGET_CHANGED CLEU:S
 • "CLEU"를 COMBAT_LOG_EVENT UNFILTERED 대신 사용할 수 있고 받고 싶은 "서브이벤트"를 콜론으로 구분해서 지정할 수 있습니다.
 • "TRIGGER" 키워드에 콜론으로 활성 조건 번호를 나누어 지정하면 해당 활성 조건이 업데이트될 때 사용자 정의 활성 조건도 같이 업데이트됩니다.
 
-이 활성 조건은 스테이터스 유형이므로 지정한 이벤트에 인자가 없어도 WeakAuras에 의해 호출될 수 있습니다.
+이 활성 조건은 상태(Status) 유형이므로 지정된 이벤트가 인자가 없어도 WeakAuras에 의해 호출될 수 있습니다.
 
 |cFF4444FF예시:|r
 UNIT_POWER_UPDATE:player, UNIT_AURA:nameplate:group PLAYER_TARGET_CHANGED CLEU:SPELL_CAST_SUCCESS TRIGGER:3:1]=]
@@ -388,7 +388,7 @@ UNIT_POWER_UPDATE:player, UNIT_AURA:nameplate:group PLAYER_TARGET_CHANGED CLEU:S
 	L["Extra Height"] = "추가 높이"
 	L["Extra Width"] = "추가 너비"
 	L["Fade"] = "사라짐"
-	L["Fadeout Sound"] = "페이드아웃 소리 효과"
+	L["Fadeout Sound"] = "페이드아웃 음향 효과"
 	L["Fadeout Time (seconds)"] = "페이드아웃 시간 (초)"
 	L["Fetch Affected/Unaffected Names and Units"] = "오라에 걸린/안걸린 플레이어의 이름과 유닛 정보 가져오기"
 	L["Fetch Raid Mark Information"] = "공격대 징표 정보 가져오기"
@@ -409,7 +409,7 @@ UNIT_POWER_UPDATE:player, UNIT_AURA:nameplate:group PLAYER_TARGET_CHANGED CLEU:S
 
 Supports multiple entries, separated by commas
 Can use \ to escape -.]=] ] = [=[필터 형식: '이름', '이름-서버', '-서버'. 여러 항목을 지원하며, 각 항목은 쉼표로 구분합니다.
--는 앞에 \를 붙여 이스케이프를 사용해 입력합니다.]=]
+-는 앞에 \를 사용해 이스케이프 처리하면 입력할 수 있습니다.]=]
 	L[ [=[Filter to only dispellable de/buffs of the given type(s)
 Bleed classification via LibDispel]=] ] = [=[여러 속성 중 해제가 되는 버프/디버프만 걸러냅니다
 출혈은 LibDispel을 통해서 분류됩니다]=]
@@ -669,7 +669,7 @@ every 3 events starting from 2nd and ending at 11th: 2-11/3]=] ] = [=[이벤트 
 	L["Play Sound"] = "소리 재생"
 	L["Portrait Zoom"] = "초상화 확대"
 	L["Position and Size Settings"] = "위치 및 크기 설정"
-	L["Preferred Match"] = "조건 일치시 우선순위"
+	L["Preferred Match"] = "우선 표시 대상"
 	L["Premade Auras"] = "미리 준비된 위크오라"
 	L["Premade Snippets"] = "미리 준비된 스니펫 위크오라"
 	L["Preparing auras: "] = "위크오라 준비중:"
@@ -701,7 +701,7 @@ every 3 events starting from 2nd and ending at 11th: 2-11/3]=] ] = [=[이벤트 
 	L["Repeat every"] = "반복 주기"
 	L["Report bugs on our issue tracker."] = "이슈 트래커에 버그를 제보해 주세요."
 	L["Require unit from trigger"] = "활성 조건에서 유닛 필요"
-	L["Required for Activation"] = "활성화에 필요"
+	L["Required for Activation"] = "활성화 필수 조건"
 	L["Requires LibSpecialization, that is e.g. a up-to date WeakAuras version"] = "LibSpecialization이 필요합니다. 예를 들면 최신 WeakAuras 버전으로 업데이트하면 됩니다"
 	L["Reset all options to their default values."] = "모든 옵션을 기본값으로 초기화합니다."
 	L["Reset Entry"] = "항목 초기화"
@@ -749,8 +749,8 @@ every 3 events starting from 2nd and ending at 11th: 2-11/3]=] ] = [=[이벤트 
 	L["Show Icon"] = "아이콘 표시"
 	L["Show If Unit Does Not Exist"] = "유닛이 없으면 표시"
 	L["Show Linear Texture"] = "직진 텍스처 표시"
-	L["Show Matches for"] = "일치 항목 표시"
-	L["Show Matches for Units"] = "유닛에 대한 일치 항목 표시"
+	L["Show Matches for"] = "표시할 대상"
+	L["Show Matches for Units"] = "유닛별로 일치하는 조건 표시"
 	L["Show Model"] = "모델 표시"
 	L["Show model of unit "] = "유닛의 모델 표시"
 	L["Show Sound Setting"] = "소리 설정 보기"

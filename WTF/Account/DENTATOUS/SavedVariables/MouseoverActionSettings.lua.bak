@@ -3,12 +3,14 @@ MouseoverActionSettingsDB = {
 ["namespaces"] = {
 },
 ["profileKeys"] = {
+["Worganizer - Silvermoon"] = "Default",
+["Poper - Silvermoon"] = "Default",
+["Judgerinio - Silvermoon"] = "Default",
 ["Shample - Draenor"] = "Default",
-["Greedissgood - Draenor"] = "Default",
 ["Riseandshine - Draenor"] = "Default",
 ["Nexùs - Draenor"] = "Default",
-["Poper - Silvermoon"] = "Default",
 ["Bonebilly - Draenor"] = "WARRIOR",
+["Greedissgood - Draenor"] = "Default",
 ["Hydrolic - Silvermoon"] = "Default",
 },
 ["profiles"] = {
@@ -21,14 +23,17 @@ MouseoverActionSettingsDB = {
 },
 ["COMBAT_UPDATE"] = false,
 },
-["NameFontSettings"] = {
+["Minimap"] = {
+["SCENARIO_UPDATE"] = true,
+["RAID_UPDATE"] = true,
+["ARENA_UPDATE"] = false,
+["DUNGEON_UPDATE"] = true,
+["BATTLEGROUND_UPDATE"] = true,
 },
 ["ChatFrame"] = {
 },
-["MultiBarLeft"] = {
-["links"] = {
-["MainMenuBar"] = true,
-},
+["MainMenuBar"] = {
+["COMBAT_UPDATE"] = false,
 },
 ["ActionBarConfig"] = {
 ["MultiBarRight"] = true,
@@ -48,12 +53,12 @@ MouseoverActionSettingsDB = {
 ["DebuffFrame"] = {
 ["ARENA_UPDATE"] = true,
 ["DUNGEON_UPDATE"] = true,
-["SCENARIO_UPDATE"] = true,
+["BATTLEGROUND_UPDATE"] = true,
 ["RAID_UPDATE"] = true,
 ["links"] = {
 ["PlayerFrame"] = true,
 },
-["BATTLEGROUND_UPDATE"] = true,
+["SCENARIO_UPDATE"] = true,
 },
 ["MultiBar5"] = {
 ["links"] = {
@@ -65,11 +70,11 @@ MouseoverActionSettingsDB = {
 ["TARGET_ATTACKABLE_UPDATE"] = true,
 ["DUNGEON_UPDATE"] = true,
 ["minAlpha"] = 0,
-["BATTLEGROUND_UPDATE"] = true,
+["SCENARIO_UPDATE"] = true,
 ["PLAYER_HEALTH_UPDATE"] = true,
 ["OPEN_WORLD_UPDATE"] = false,
 ["RAID_UPDATE"] = true,
-["SCENARIO_UPDATE"] = true,
+["BATTLEGROUND_UPDATE"] = true,
 },
 ["MultiBarRight"] = {
 ["links"] = {
@@ -79,20 +84,11 @@ MouseoverActionSettingsDB = {
 ["BuffFrame"] = {
 ["ARENA_UPDATE"] = true,
 ["DUNGEON_UPDATE"] = true,
-["SCENARIO_UPDATE"] = true,
+["BATTLEGROUND_UPDATE"] = true,
 ["RAID_UPDATE"] = true,
 ["links"] = {
 ["PlayerFrame"] = true,
 },
-["BATTLEGROUND_UPDATE"] = true,
-},
-["PartyFrame"] = {
-},
-["Minimap"] = {
-["BATTLEGROUND_UPDATE"] = true,
-["RAID_UPDATE"] = true,
-["ARENA_UPDATE"] = false,
-["DUNGEON_UPDATE"] = true,
 ["SCENARIO_UPDATE"] = true,
 },
 ["MultiBar6"] = {
@@ -100,14 +96,9 @@ MouseoverActionSettingsDB = {
 ["MainMenuBar"] = true,
 },
 },
-["MainMenuBar"] = {
-["COMBAT_UPDATE"] = false,
+["NameFontSettings"] = {
 },
-["MultiBarBottomRight"] = {
-["links"] = {
-["MainMenuBar"] = true,
-},
-["COMBAT_UPDATE"] = false,
+["PartyFrame"] = {
 },
 ["PlayerFrame"] = {
 ["ARENA_UPDATE"] = true,
@@ -115,7 +106,7 @@ MouseoverActionSettingsDB = {
 ["DUNGEON_UPDATE"] = true,
 ["minAlpha"] = 0,
 ["useCustomAnimationSpeed"] = true,
-["SCENARIO_UPDATE"] = true,
+["BATTLEGROUND_UPDATE"] = true,
 ["animationSpeed_In"] = 0,
 ["PLAYER_HEALTH_UPDATE"] = true,
 ["RAID_UPDATE"] = true,
@@ -124,7 +115,18 @@ MouseoverActionSettingsDB = {
 ["DebuffFrame"] = true,
 ["BuffFrame"] = true,
 },
-["BATTLEGROUND_UPDATE"] = true,
+["SCENARIO_UPDATE"] = true,
+},
+["MultiBarBottomRight"] = {
+["links"] = {
+["MainMenuBar"] = true,
+},
+["COMBAT_UPDATE"] = false,
+},
+["MultiBarLeft"] = {
+["links"] = {
+["MainMenuBar"] = true,
+},
 },
 },
 ["WARRIOR"] = {
@@ -145,35 +147,36 @@ MouseoverActionSettingsDB = {
 },
 ["MultiBarBottomLeft"] = {
 ["enabled"] = false,
+["COMBAT_UPDATE"] = false,
+["DUNGEON_UPDATE"] = true,
 ["links"] = {
 ["MainMenuBar"] = true,
 },
-["DUNGEON_UPDATE"] = true,
-["COMBAT_UPDATE"] = false,
 },
-["Minimap"] = {
-["ARENA_UPDATE"] = false,
-["RAID_UPDATE"] = true,
-["BATTLEGROUND_UPDATE"] = true,
-["DUNGEON_UPDATE"] = true,
-["SCENARIO_UPDATE"] = true,
+["NameFontSettings"] = {
 },
 ["ChatFrame"] = {
 },
-["MultiBarLeft"] = {
-["links"] = {
-["MainMenuBar"] = true,
+["MainMenuBar"] = {
+["enabled"] = false,
+["DUNGEON_UPDATE"] = true,
+["COMBAT_UPDATE"] = false,
 },
-},
-["TargetFrame"] = {
+["PlayerFrame"] = {
 ["ARENA_UPDATE"] = true,
 ["RAID_UPDATE"] = true,
 ["TARGET_ATTACKABLE_UPDATE"] = true,
+["animationSpeed_Out"] = 0,
 ["DUNGEON_UPDATE"] = true,
 ["minAlpha"] = 0,
+["useCustomAnimationSpeed"] = true,
 ["SCENARIO_UPDATE"] = true,
 ["BATTLEGROUND_UPDATE"] = true,
-["OPEN_WORLD_UPDATE"] = false,
+["links"] = {
+["DebuffFrame"] = true,
+["BuffFrame"] = true,
+},
+["animationSpeed_In"] = 0,
 ["PLAYER_HEALTH_UPDATE"] = true,
 },
 ["ActionBarConfig"] = {
@@ -192,21 +195,23 @@ MouseoverActionSettingsDB = {
 ["MainMenuBar"] = true,
 },
 },
-["BuffFrame"] = {
-["ARENA_UPDATE"] = true,
+["Minimap"] = {
+["ARENA_UPDATE"] = false,
 ["RAID_UPDATE"] = true,
-["BATTLEGROUND_UPDATE"] = true,
 ["SCENARIO_UPDATE"] = true,
 ["DUNGEON_UPDATE"] = true,
+["BATTLEGROUND_UPDATE"] = true,
+},
+["MultiBarLeft"] = {
 ["links"] = {
-["PlayerFrame"] = true,
+["MainMenuBar"] = true,
 },
 },
 ["DebuffFrame"] = {
 ["ARENA_UPDATE"] = true,
 ["RAID_UPDATE"] = true,
-["BATTLEGROUND_UPDATE"] = true,
 ["SCENARIO_UPDATE"] = true,
+["BATTLEGROUND_UPDATE"] = true,
 ["DUNGEON_UPDATE"] = true,
 ["links"] = {
 ["PlayerFrame"] = true,
@@ -214,42 +219,39 @@ MouseoverActionSettingsDB = {
 },
 ["PartyFrame"] = {
 },
+["MultiBarBottomRight"] = {
+["enabled"] = false,
+["COMBAT_UPDATE"] = false,
+["DUNGEON_UPDATE"] = true,
+["links"] = {
+["MainMenuBar"] = true,
+},
+},
 ["MultiBar6"] = {
 ["enabled"] = false,
 ["links"] = {
 ["MainMenuBar"] = true,
 },
 },
-["MultiBarBottomRight"] = {
-["enabled"] = false,
+["BuffFrame"] = {
+["ARENA_UPDATE"] = true,
+["RAID_UPDATE"] = true,
+["SCENARIO_UPDATE"] = true,
+["BATTLEGROUND_UPDATE"] = true,
+["DUNGEON_UPDATE"] = true,
 ["links"] = {
-["MainMenuBar"] = true,
+["PlayerFrame"] = true,
 },
-["DUNGEON_UPDATE"] = true,
-["COMBAT_UPDATE"] = false,
 },
-["MainMenuBar"] = {
-["enabled"] = false,
-["DUNGEON_UPDATE"] = true,
-["COMBAT_UPDATE"] = false,
-},
-["NameFontSettings"] = {
-},
-["PlayerFrame"] = {
+["TargetFrame"] = {
 ["ARENA_UPDATE"] = true,
 ["RAID_UPDATE"] = true,
 ["TARGET_ATTACKABLE_UPDATE"] = true,
-["animationSpeed_Out"] = 0,
 ["DUNGEON_UPDATE"] = true,
 ["minAlpha"] = 0,
-["useCustomAnimationSpeed"] = true,
 ["BATTLEGROUND_UPDATE"] = true,
 ["SCENARIO_UPDATE"] = true,
-["links"] = {
-["DebuffFrame"] = true,
-["BuffFrame"] = true,
-},
-["animationSpeed_In"] = 0,
+["OPEN_WORLD_UPDATE"] = false,
 ["PLAYER_HEALTH_UPDATE"] = true,
 },
 },

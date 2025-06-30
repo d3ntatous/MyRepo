@@ -1,0 +1,4 @@
+
+NewSettingsSeen = {
+["cooldownViewerEnabled"] = true,
+}

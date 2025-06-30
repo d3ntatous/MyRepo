@@ -539,7 +539,6 @@ function addon:initCooldownManager()
             		end
             	end
 
-            	self:RefreshItemsShown()
                 self:GetItemContainerFrame():Layout()
             end)
             
@@ -676,6 +675,8 @@ function addon:initCooldownManager()
             for index, itemFrame in ipairs(include) do
                 itemFrame.layoutIndex = index
             end
+            
+            self:GetItemContainerFrame():Layout()
         end)
     end
 end

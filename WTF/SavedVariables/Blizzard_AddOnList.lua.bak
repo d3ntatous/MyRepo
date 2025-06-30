@@ -1,4 +1,7 @@
 
 g_addonCategoriesCollapsed = {
+["Dungeons & Raids"] = true,
 ["User Interface"] = true,
+["Combat"] = true,
+["Data Broker"] = true,
 }

@@ -2,6 +2,8 @@ local _, addonTbl = ...
 local L = addonTbl.API:NewLocale("BigWigs", "koKR")
 if not L then return end
 
+L.tempNew = "신규: 이제 |cFFFFFFFF/bwtemp|r을 입력하면 파티원의 신화+ 쐐기돌을 볼 수 있습니다."
+
 -- Core.lua
 L.berserk = "광폭화"
 L.berserk_desc = "보스가 언제 광폭화하는지 바와 시간 경고를 표시합니다."
@@ -261,7 +263,29 @@ L.N25 = "일반 25"
 L.H10 = "영웅 10"
 L.H25 = "영웅 25"
 
+-----------------------------------------------------------------------
+-- TOOLS
+-----------------------------------------------------------------------
 
+L.youAreInCombat = "전투 중에는 그렇게 할 수 없습니다."
+
+-----------------------------------------------------------------------
+-- Keystones.lua
+--
+
+L.keystoneTitle = "BigWigs 쐐기돌"
+L.keystoneHeaderParty = "파티"
+L.keystoneRefreshParty = "파티 새로 고침"
+L.keystoneHeaderGuild = "길드"
+L.keystoneRefreshGuild = "길드 새로 고침"
+L.keystoneLevelTooltip = "쐐기돌 레벨: |cFFFFFFFF%s|r"
+L.keystoneMapTooltip = "던전: |cFFFFFFFF%s|r"
+L.keystoneRatingTooltip = "신화+ 등급: |cFFFFFFFF%d|r"
+L.keystoneHiddenTooltip = "플레이어가 이 정보를 숨기도록 선택했습니다."
+L.keystoneTabOnline = "온라인"
+L.keystoneTabAlts = "부캐"
+L.keystoneTabTeleports = "순간이동"
+L.keystoneHeaderMyCharacters = "내 캐릭터"
 
 -----------------------------------------------------------------------
 -- PLUGINS
@@ -281,6 +305,7 @@ L.sizeDesc = "보통 고정기를 끌어서 크기를 조정합니다. 정확한
 L.fontSizeDesc = "글씨 크기를 슬라이더를 이용해 조정하거나 직접 수치를 입력 상자안에 써넣으세요 (최대 200)."
 L.disabled = "비활성"
 L.disableDesc = "'%s' 기능을 비활성화하려고 합니다. |cffff4411권장하지 않음|r.\n\n정말로 비활성화하시겠습니까?"
+L.keybinding = "키 설정"
 
 -- Anchor Points
 L.UP = "위"
@@ -688,6 +713,8 @@ L.sendPull = "그룹에 풀 타이머를 전송합니다."
 L.wrongPullFormat = "잘못된 풀 타이머 형식입니다. 올바른 예: /pull 5"
 L.countdownBegins = "초읽기 시작"
 L.countdownBegins_desc = "전투 시작 초읽기가 몇 초 전부터 시작될 지 선택하세요."
+L.pullExplainer = "\n|cFF33FF99/pull|r은 일반적인 풀 타이머를 시작합니다.\n|cFF33FF99/pull 7|r은 7초 풀 타이머를 시작합니다. 원하는 숫자를 사용할 수 있습니다.\n또는 아래에 키 설정을 할 수도 있습니다.\n\n"
+L.pullKeybindingDesc = "풀 타이머를 시작하기 위한 키 설정을 선택하세요."
 
 -----------------------------------------------------------------------
 -- RaidIcon.lua

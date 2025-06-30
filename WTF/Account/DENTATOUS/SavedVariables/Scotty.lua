@@ -1,9 +1,9 @@
 
 ScottyGlobalSettings = {
-["minimap"] = {
+["hearthstones"] = {
 },
 ["groupSeason"] = false,
 ["showMinimap"] = true,
-["hearthstones"] = {
+["minimap"] = {
 },
 }

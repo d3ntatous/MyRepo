@@ -21,3 +21,10 @@ LittleWigs_Shadowlands: enabled
 LittleWigs_Classic: enabled
 LittleWigs_Cataclysm: enabled
 BigWigs_KhazAlgar: enabled
+LittleWigs_Dragonflight: enabled
+LittleWigs_BurningCrusade: enabled
+LittleWigs_MistsOfPandaria: enabled
+LittleWigs_WrathOfTheLichKing: enabled
+Hekili: disabled
+Masque: disabled
+MouseoverActionSettings: disabled

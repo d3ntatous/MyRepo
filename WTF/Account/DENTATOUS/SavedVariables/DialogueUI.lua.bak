@@ -35,6 +35,7 @@ DialogueUI_DB = {
 ["QuestTypeText"] = true,
 ["EmulateSwipe"] = true,
 ["TTSUseNarrator"] = false,
+["Tutorial_WarbandCompletedQuest"] = true,
 ["TTSContentObjective"] = false,
 ["ShowCopyTextButton"] = false,
 ["CameraMovementMountedCamera"] = true,

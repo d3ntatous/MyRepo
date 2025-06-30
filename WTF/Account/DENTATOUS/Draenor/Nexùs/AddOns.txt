@@ -23,3 +23,7 @@ LittleWigs_Cataclysm: enabled
 MouseoverActionSettings: disabled
 Hekili: disabled
 BigWigs_KhazAlgar: enabled
+LittleWigs_Dragonflight: enabled
+LittleWigs_BurningCrusade: enabled
+LittleWigs_MistsOfPandaria: enabled
+LittleWigs_WrathOfTheLichKing: enabled

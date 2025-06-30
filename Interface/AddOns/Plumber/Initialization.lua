@@ -1,5 +1,5 @@
-local VERSION_TEXT = "v1.6.8";
-local VERSION_DATE = 1746800000;
+local VERSION_TEXT = "v1.7.0";
+local VERSION_DATE = 1750300000;
 
 
 local addonName, addon = ...
@@ -73,8 +73,10 @@ end
 addon.GetDBValue = GetDBValue;
 
 local function SetDBValue(dbKey, value, userInput)
-    DB[dbKey] = value;
-    addon.CallbackRegistry:Trigger("SettingChanged."..dbKey, value, userInput);
+    if DB then
+        DB[dbKey] = value;
+        addon.CallbackRegistry:Trigger("SettingChanged."..dbKey, value, userInput);
+    end
 end
 addon.SetDBValue = SetDBValue;
 
@@ -94,6 +96,7 @@ local function SetPersonalData(dbKey, value, userInput)
     DB_PC[dbKey] = value;
 end
 addon.SetPersonalData = SetPersonalData;
+
 
 
 local DefaultValues = {
@@ -136,6 +139,11 @@ local DefaultValues = {
     TooltipProfessionKnowledge = true,  --Show unspent points on GameTooltip
     EditModeShowPlumberUI = true,
     LandingPageSwitch = true,           --Right click on ExpansionLandingPageMinimapButton to open a menu to access mission report
+
+
+    --New Expansion Landing Page
+    NewExpansionLandingPage = true,
+        LandingPage_Activity_HideCompleted = true,
 
 
     --Custom Loot Window
@@ -239,16 +247,23 @@ local function LoadDatabase()
     DefaultValues = nil;
 
     CallbackRegistry:Trigger("NewDBKeysAdded", newDBKeys);
+    CallbackRegistry:Trigger("DBLoaded", DB);
 end
+
 
 local EL = CreateFrame("Frame");
 EL:RegisterEvent("ADDON_LOADED");
 
 EL:SetScript("OnEvent", function(self, event, ...)
-    local name = ...
-    if name == addonName then
+    if event == "ADDON_LOADED" then
+        local name = ...
+        if name == addonName then
+            self:UnregisterEvent(event);
+            LoadDatabase();
+        end
+    elseif event == "LOADING_SCREEN_DISABLED" then
         self:UnregisterEvent(event);
-        LoadDatabase();
+        CallbackRegistry:Trigger("LOADING_SCREEN_DISABLED");
     end
 end);
 

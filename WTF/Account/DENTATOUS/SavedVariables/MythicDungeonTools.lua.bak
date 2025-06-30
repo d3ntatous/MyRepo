@@ -1,23 +1,25 @@
 
 MythicDungeonToolsDB = {
 ["profileKeys"] = {
+["Worganizer - Silvermoon"] = "Worganizer - Silvermoon",
+["Poper - Silvermoon"] = "Poper - Silvermoon",
+["Judgerinio - Silvermoon"] = "Judgerinio - Silvermoon",
 ["Shample - Draenor"] = "Shample - Draenor",
-["Greedissgood - Draenor"] = "Greedissgood - Draenor",
 ["Riseandshine - Draenor"] = "Riseandshine - Draenor",
 ["Nexùs - Draenor"] = "Nexùs - Draenor",
-["Poper - Silvermoon"] = "Poper - Silvermoon",
-["Bonebilly - Draenor"] = "Bonebilly - Draenor",
 ["Hydrolic - Silvermoon"] = "Hydrolic - Silvermoon",
+["Greedissgood - Draenor"] = "Greedissgood - Draenor",
+["Bonebilly - Draenor"] = "Bonebilly - Draenor",
 },
 ["global"] = {
-["currentDifficulty"] = 14,
-["latestDungeonSeen"] = 115,
-["selectedDungeonList"] = 2,
-["currentPreset"] = {
-[115] = 2,
-[117] = 2,
-[118] = 2,
+["anchorTo"] = "CENTER",
+["currentDungeonIdx"] = 120,
+["anchorFrom"] = "CENTER",
+["minimap"] = {
+["showInCompartment"] = true,
 },
+["nonFullscreenScale"] = 1.43153637035473,
+["selectedDungeonList"] = 2,
 ["maximized"] = false,
 ["presets"] = {
 [115] = {
@@ -27,9 +29,8 @@ MythicDungeonToolsDB = {
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["pulls"] = {
+["riftOffsets"] = {
 {
-["color"] = "ff3eff",
 },
 },
 ["currentDungeonIdx"] = 115,
@@ -37,8 +38,9 @@ MythicDungeonToolsDB = {
 ["selection"] = {
 1,
 },
-["riftOffsets"] = {
+["pulls"] = {
 {
+["color"] = "ff3eff",
 },
 },
 },
@@ -47,7 +49,61 @@ MythicDungeonToolsDB = {
 ["difficulty"] = 14,
 ["week"] = 1,
 ["addonVersion"] = 5310,
+["uid"] = "tS6eeyTEyDx",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 1,
+},
+["text"] = "Ruta????",
+["objects"] = {
+{
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-8,
+true,
+},
+["l"] = {
+"632.4",
+"-252.9",
+"626.0",
+"-249.3",
+"626.0",
+"-249.3",
+"621.9",
+"-255.8",
+"621.9",
+"-255.8",
+"628.3",
+"-259.3",
+"628.3",
+"-259.3",
+"632.4",
+"-253.4",
+"632.4",
+"-253.4",
+"633.0",
+"-252.3",
+},
+},
+},
 ["value"] = {
+["riftOffsets"] = {
+{
+},
+},
+["currentPull"] = 3,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+},
+["currentDungeonIdx"] = 115,
+["teeming"] = false,
+["selection"] = {
+3,
+},
 ["pulls"] = {
 {
 {
@@ -153,10 +209,10 @@ MythicDungeonToolsDB = {
 [13] = {
 1,
 },
-["color"] = "3e3eff",
 [10] = {
 34,
 },
+["color"] = "3e3eff",
 },
 {
 {
@@ -350,61 +406,7 @@ MythicDungeonToolsDB = {
 ["color"] = "3e3eff",
 },
 },
-["currentPull"] = 3,
-["currentSublevel"] = 1,
-["enemyAssignments"] = {
 },
-["currentDungeonIdx"] = 115,
-["teeming"] = false,
-["selection"] = {
-3,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 1,
-},
-["text"] = "Ruta????",
-["objects"] = {
-{
-["l"] = {
-"632.4",
-"-252.9",
-"626.0",
-"-249.3",
-"626.0",
-"-249.3",
-"621.9",
-"-255.8",
-"621.9",
-"-255.8",
-"628.3",
-"-259.3",
-"628.3",
-"-259.3",
-"632.4",
-"-253.4",
-"632.4",
-"-253.4",
-"633.0",
-"-252.3",
-},
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--8,
-true,
-},
-},
-},
-["uid"] = "tS6eeyTEyDx",
 },
 {
 ["value"] = 0,
@@ -418,9 +420,8 @@ true,
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["pulls"] = {
+["riftOffsets"] = {
 {
-["color"] = "ff3eff",
 },
 },
 ["currentDungeonIdx"] = 116,
@@ -428,8 +429,9 @@ true,
 ["selection"] = {
 1,
 },
-["riftOffsets"] = {
+["pulls"] = {
 {
+["color"] = "ff3eff",
 },
 },
 },
@@ -442,9 +444,8 @@ true,
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["pulls"] = {
+["riftOffsets"] = {
 {
-["color"] = "ff3eff",
 },
 },
 ["currentDungeonIdx"] = 117,
@@ -452,8 +453,9 @@ true,
 ["selection"] = {
 1,
 },
-["riftOffsets"] = {
+["pulls"] = {
 {
+["color"] = "ff3eff",
 },
 },
 },
@@ -461,21 +463,7 @@ true,
 {
 ["difficulty"] = 10,
 ["week"] = 1,
-["uid"] = "RoVIKGcC7HT",
 ["value"] = {
-["riftOffsets"] = {
-{
-},
-},
-["currentPull"] = 4,
-["currentSublevel"] = 1,
-["enemyAssignments"] = {
-},
-["currentDungeonIdx"] = 117,
-["teeming"] = false,
-["selection"] = {
-4,
-},
 ["pulls"] = {
 {
 {
@@ -781,10 +769,9 @@ nil,
 {
 [13] = {
 },
-[14] = {
-},
 [12] = {
 },
+["color"] = "3eff9e",
 [26] = {
 1,
 },
@@ -795,17 +782,32 @@ nil,
 4,
 5,
 },
-["color"] = "3eff9e",
+[14] = {
 },
 },
 },
-["text"] = "Darkness descends",
-["objects"] = {
+["currentPull"] = 4,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+},
+["currentDungeonIdx"] = 117,
+["teeming"] = false,
+["selection"] = {
+4,
+},
+["riftOffsets"] = {
+{
+},
+},
 },
 ["colorPaletteInfo"] = {
 ["autoColoring"] = true,
 ["colorPaletteIdx"] = 4,
 },
+["text"] = "Darkness descends",
+["objects"] = {
+},
+["uid"] = "RoVIKGcC7HT",
 },
 {
 ["value"] = 0,
@@ -819,9 +821,8 @@ nil,
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["pulls"] = {
+["riftOffsets"] = {
 {
-["color"] = "ff3eff",
 },
 },
 ["currentDungeonIdx"] = 118,
@@ -829,8 +830,9 @@ nil,
 ["selection"] = {
 1,
 },
-["riftOffsets"] = {
+["pulls"] = {
 {
+["color"] = "ff3eff",
 },
 },
 },
@@ -838,90 +840,14 @@ nil,
 {
 ["difficulty"] = 10,
 ["uid"] = "EmMdAKMYVua",
-["mdi"] = {
-["beguiling"] = 1,
-["freehold"] = 1,
-["freeholdJoined"] = false,
-},
-["objects"] = {
-{
-["n"] = true,
-["d"] = {
-"410.8",
-"-170.9",
-1,
-true,
-"1️⃣ Avoid standing near Wild Lightning impact zones.\n2️⃣ At 100 energy, dodge Lightning Torrent’s deadly walls!\n3️⃣ Drop Unstable Charge in the central tempest to prevent group damage.\n4️⃣ Spread out to avoid Chain Lightning jumping between players.\n5️⃣ Tanks position the boss so players have room to dodge attacks.\n\n🛡 Tanks:\n\nBe ready for Lightning Torrent at 100 energy—move out of danger!\nDodge Grounding Bolt—it hits the ground and deals damage to anyone nearby.\nPosition Kyrioss so players have room to move away from attacks.\n⚔️ DPS:\n\nWhen Kyrioss flies up for Lightning Torrent, stay alert and dodge lightning walls!\nMove out of Grounding Bolt areas to avoid getting hit.\nWatch out for Chain Lightning—it spreads to nearby players. Spread out!\n❤️ Healers:\n\nDispel players stunned by Lightning Torrent to free them quickly.\nHeal through Wild Lightning and Chain Lightning damage—it hits multiple players at once.\nBe ready for Unstable Charge—players need to drop it in the central tempest away from the group.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"286.3",
-"-459.8",
-1,
-true,
-"Stormguard Gorren is powered by the Void and tries to corrupt players.\nChaotic Corruption puts Shadow energy on a player, which jumps to the nearest player when it ends.\nDark Gravity pulls everyone toward him—if you’re too close when it finishes, you take massive damage!\nHe slams the ground with Crush Reality, creating dangerous void zones and Reality Tears—don’t stand in them!\n1️⃣ Spread out when Chaotic Corruption is cast—don’t let it jump to others!\n2️⃣ Move away before Dark Gravity ends—don’t get hit by the explosion!\n3️⃣ Avoid Reality Tears and Lingering Void zones after Crush Reality.\n4️⃣ Tanks position the boss carefully so the group has space to move.\n5️⃣ Healers watch for corruption damage and dispel carefully.\n🛡 Tanks:\n\nMove away after Dark Gravity pulls everyone in—don’t get hit by the hammer explosion!\nBe ready for Reality Tears and Lingering Void zones—position the boss so the group has space to move.\n⚔️ DPS:\n\nChaotic Corruption jumps to the closest player when it expires—spread out so it doesn’t keep jumping!\nWhen Dark Gravity starts, get ready to move away fast before the explosion!\nAvoid standing in Reality Tears and Lingering Void zones—they hurt a lot!\n❤️ Healers:\n\nChaotic Corruption causes damage over time—watch for players with it.\nDispel Chaotic Corruption carefully—removing it too fast spreads it to other players!\nBe ready for group-wide damage when Dark Gravity and Crush Reality happen.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"589.8",
-"-476.2",
-1,
-true,
-"The boss shields itself with Void Shell, reducing damage taken = lust. \nStormrider Vokmar helps break the shield—you must shatter it so he can stun the boss and make it take more damage!\nThe boss summons Voidstone Fragments, which turn into powerful enemies (Voidstone Awakened) if not destroyed in time.\nThe arena fills with dangerous Shadow damage areas (Seeping Corruption)—move out of them\n\n1️⃣ DPS break the Void Shell so Stormrider Vokmar can stun the boss.\n2️⃣ Marked players stand near Voidstone Fragments so Stormrider’s hammer destroys them.\n3️⃣ Kill Voidstone Awakened quickly before they become too strong.\n4️⃣ Tanks stay in melee range to avoid Entropy hitting the group.\n5️⃣ Dodge Oblivion Wave and move out of Seeping Corruption pools.\n6️⃣ Healers be ready for heavy Shadow damage from Unleash Corruption.\n\n🛡 Tanks:\n\nStay in melee range—if no one is close, the boss uses Entropy, hitting everyone!\nDodge Oblivion Wave—it shoots in a line and hits everyone in the path.\nPosition the boss carefully so players can handle Voidstone Fragments safely.\n⚔️ DPS:\n\nBreak the Void Shell quickly so Stormrider Vokmar can stun the boss!\nStand near Voidstone Fragments when marked by Stormrider’s Charge so his hammer destroys them.\nKill Voidstone Awakened quickly—they get stronger over time if not defeated fast.\nMove out of Seeping Corruption puddles—they do constant Shadow damage.\n❤️ Healers:\n\nUnleash Corruption deals heavy Shadow damage over time—keep an eye on affected players.\nWatch for Oblivion Wave and Entropy damage—expect big healing moments.\nPlayers standing in Seeping Corruption will take massive damage—warn them to move!",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"753.2",
-"-177.4",
-1,
-true,
-"have suggestions? come say hi https://www.twitch.tv/thebunten",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"114",
-"-164.8",
-1,
-true,
-"Huge the south/left wall to skip this pack",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"264.7",
-"-364.5",
-1,
-true,
-"Jump down after the Void Ascendant is defeated. The other two mobs will snap down.",
-},
-},
-},
+["week"] = 1,
 ["colorPaletteInfo"] = {
 ["autoColoring"] = true,
 ["colorPaletteIdx"] = 4,
 },
-["text"] = "Bunten’s PUG-Proof M+ Routes",
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 118,
-["teeming"] = false,
-["selection"] = {
-1,
-},
 ["pulls"] = {
 {
 {
@@ -950,12 +876,12 @@ true,
 7,
 3,
 },
+["color"] = "3eff9e",
 [3] = {
 12,
 26,
 1,
 },
-["color"] = "3eff9e",
 },
 {
 nil,
@@ -984,11 +910,11 @@ nil,
 6,
 1,
 },
+["color"] = "3e9eff",
 [3] = {
 9,
 10,
 },
-["color"] = "3e9eff",
 },
 {
 nil,
@@ -1203,8 +1129,84 @@ nil,
 ["color"] = "3effff",
 },
 },
+["currentDungeonIdx"] = 118,
+["teeming"] = false,
+["selection"] = {
+1,
 },
-["week"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "Bunten’s PUG-Proof M+ Routes",
+["objects"] = {
+{
+["d"] = {
+"410.8",
+"-170.9",
+1,
+true,
+"1️⃣ Avoid standing near Wild Lightning impact zones.\n2️⃣ At 100 energy, dodge Lightning Torrent’s deadly walls!\n3️⃣ Drop Unstable Charge in the central tempest to prevent group damage.\n4️⃣ Spread out to avoid Chain Lightning jumping between players.\n5️⃣ Tanks position the boss so players have room to dodge attacks.\n\n🛡 Tanks:\n\nBe ready for Lightning Torrent at 100 energy—move out of danger!\nDodge Grounding Bolt—it hits the ground and deals damage to anyone nearby.\nPosition Kyrioss so players have room to move away from attacks.\n⚔️ DPS:\n\nWhen Kyrioss flies up for Lightning Torrent, stay alert and dodge lightning walls!\nMove out of Grounding Bolt areas to avoid getting hit.\nWatch out for Chain Lightning—it spreads to nearby players. Spread out!\n❤️ Healers:\n\nDispel players stunned by Lightning Torrent to free them quickly.\nHeal through Wild Lightning and Chain Lightning damage—it hits multiple players at once.\nBe ready for Unstable Charge—players need to drop it in the central tempest away from the group.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"286.3",
+"-459.8",
+1,
+true,
+"Stormguard Gorren is powered by the Void and tries to corrupt players.\nChaotic Corruption puts Shadow energy on a player, which jumps to the nearest player when it ends.\nDark Gravity pulls everyone toward him—if you’re too close when it finishes, you take massive damage!\nHe slams the ground with Crush Reality, creating dangerous void zones and Reality Tears—don’t stand in them!\n1️⃣ Spread out when Chaotic Corruption is cast—don’t let it jump to others!\n2️⃣ Move away before Dark Gravity ends—don’t get hit by the explosion!\n3️⃣ Avoid Reality Tears and Lingering Void zones after Crush Reality.\n4️⃣ Tanks position the boss carefully so the group has space to move.\n5️⃣ Healers watch for corruption damage and dispel carefully.\n🛡 Tanks:\n\nMove away after Dark Gravity pulls everyone in—don’t get hit by the hammer explosion!\nBe ready for Reality Tears and Lingering Void zones—position the boss so the group has space to move.\n⚔️ DPS:\n\nChaotic Corruption jumps to the closest player when it expires—spread out so it doesn’t keep jumping!\nWhen Dark Gravity starts, get ready to move away fast before the explosion!\nAvoid standing in Reality Tears and Lingering Void zones—they hurt a lot!\n❤️ Healers:\n\nChaotic Corruption causes damage over time—watch for players with it.\nDispel Chaotic Corruption carefully—removing it too fast spreads it to other players!\nBe ready for group-wide damage when Dark Gravity and Crush Reality happen.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"589.8",
+"-476.2",
+1,
+true,
+"The boss shields itself with Void Shell, reducing damage taken = lust. \nStormrider Vokmar helps break the shield—you must shatter it so he can stun the boss and make it take more damage!\nThe boss summons Voidstone Fragments, which turn into powerful enemies (Voidstone Awakened) if not destroyed in time.\nThe arena fills with dangerous Shadow damage areas (Seeping Corruption)—move out of them\n\n1️⃣ DPS break the Void Shell so Stormrider Vokmar can stun the boss.\n2️⃣ Marked players stand near Voidstone Fragments so Stormrider’s hammer destroys them.\n3️⃣ Kill Voidstone Awakened quickly before they become too strong.\n4️⃣ Tanks stay in melee range to avoid Entropy hitting the group.\n5️⃣ Dodge Oblivion Wave and move out of Seeping Corruption pools.\n6️⃣ Healers be ready for heavy Shadow damage from Unleash Corruption.\n\n🛡 Tanks:\n\nStay in melee range—if no one is close, the boss uses Entropy, hitting everyone!\nDodge Oblivion Wave—it shoots in a line and hits everyone in the path.\nPosition the boss carefully so players can handle Voidstone Fragments safely.\n⚔️ DPS:\n\nBreak the Void Shell quickly so Stormrider Vokmar can stun the boss!\nStand near Voidstone Fragments when marked by Stormrider’s Charge so his hammer destroys them.\nKill Voidstone Awakened quickly—they get stronger over time if not defeated fast.\nMove out of Seeping Corruption puddles—they do constant Shadow damage.\n❤️ Healers:\n\nUnleash Corruption deals heavy Shadow damage over time—keep an eye on affected players.\nWatch for Oblivion Wave and Entropy damage—expect big healing moments.\nPlayers standing in Seeping Corruption will take massive damage—warn them to move!",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"753.2",
+"-177.4",
+1,
+true,
+"have suggestions? come say hi https://www.twitch.tv/thebunten",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"114",
+"-164.8",
+1,
+true,
+"Huge the south/left wall to skip this pack",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"264.7",
+"-364.5",
+1,
+true,
+"Jump down after the Void Ascendant is defeated. The other two mobs will snap down.",
+},
+["n"] = true,
+},
+},
+["mdi"] = {
+["beguiling"] = 1,
+["freeholdJoined"] = false,
+["freehold"] = 1,
+},
 },
 {
 ["value"] = 0,
@@ -1227,12 +1229,1271 @@ nil,
 },
 },
 },
+{
+["difficulty"] = 12,
+["week"] = 1,
+["uid"] = "fZyJpqJ4LKk",
+["value"] = {
+["currentPull"] = 5,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+4,
+},
+{
+8,
+9,
+},
+nil,
+{
+5,
+1,
+6,
+},
+{
+8,
+7,
+9,
+1,
+32,
+18,
+19,
+},
+nil,
+nil,
+nil,
+nil,
+{
+2,
+3,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+11,
+12,
+},
+[10] = {
+5,
+4,
+},
+["color"] = "3eff9e",
+[14] = {
+5,
+},
+[5] = {
+20,
+21,
+16,
+17,
+},
+[4] = {
+2,
+4,
+3,
 },
 },
+{
+[7] = {
+5,
+},
+[3] = {
+16,
+14,
+15,
+},
+["color"] = "ff3e3e",
+[9] = {
+3,
+4,
+},
+[2] = {
+1,
+20,
+19,
+},
+},
+{
+["color"] = "3e9eff",
+[2] = {
+26,
+25,
+12,
+13,
+},
+[9] = {
+},
+[8] = {
+5,
+},
+},
+{
+nil,
+{
+24,
+23,
+21,
+22,
+},
+{
+17,
+18,
+},
+{
+14,
+13,
+10,
+12,
+11,
+},
+["color"] = "fffb3e",
+[6] = {
+16,
+15,
+},
+},
+{
+[7] = {
+6,
+},
+[8] = {
+4,
+},
+[3] = {
+20,
+},
+["color"] = "3eff3e",
+[5] = {
+33,
+14,
+13,
+15,
+},
+},
+{
+[10] = {
+7,
+6,
+},
+["color"] = "ff3e9e",
+[14] = {
+6,
+7,
+},
+[5] = {
+22,
+23,
+24,
+25,
+},
+[12] = {
+7,
+},
+},
+{
+{
+6,
+5,
+},
+["color"] = "3effff",
+[10] = {
+8,
+9,
+},
+[5] = {
+27,
+26,
+28,
+29,
+},
+},
+{
+["color"] = "ff9b3e",
+[16] = {
+1,
+},
+},
+{
+[5] = {
+30,
+31,
+},
+[11] = {
+4,
+1,
+},
+[9] = {
+7,
+8,
+},
+["color"] = "3e3eff",
+},
+{
+[11] = {
+10,
+9,
+},
+[17] = {
+5,
+},
+["color"] = "a1ff3e",
+[2] = {
+27,
+},
+[9] = {
+11,
+10,
+},
+[5] = {
+34,
+},
+},
+{
+["color"] = "ff3eff",
+[17] = {
+3,
+2,
+},
+},
+{
+["color"] = "3eff9e",
+[15] = {
+3,
+6,
+2,
+4,
+5,
+7,
+},
+},
+},
+["currentDungeonIdx"] = 119,
+["teeming"] = false,
+["selection"] = {
+5,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "no skip",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["objects"] = {
+},
+},
+{
+["difficulty"] = 12,
+["week"] = 1,
+["uid"] = "DCuSBcs29IG",
+["value"] = {
+["currentPull"] = 5,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+4,
+},
+{
+8,
+9,
+},
+nil,
+{
+5,
+1,
+6,
+},
+{
+8,
+7,
+9,
+1,
+32,
+18,
+19,
+},
+nil,
+nil,
+nil,
+nil,
+{
+2,
+3,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+11,
+12,
+},
+[10] = {
+5,
+4,
+},
+["color"] = "3eff9e",
+[14] = {
+5,
+},
+[5] = {
+20,
+21,
+16,
+17,
+},
+[4] = {
+2,
+4,
+3,
+},
+},
+{
+[7] = {
+5,
+},
+[3] = {
+16,
+14,
+15,
+},
+["color"] = "ff3e3e",
+[9] = {
+3,
+4,
+},
+[2] = {
+1,
+20,
+19,
+},
+},
+{
+["color"] = "3e9eff",
+[2] = {
+26,
+25,
+12,
+13,
+},
+[9] = {
+},
+[8] = {
+5,
+},
+},
+{
+nil,
+{
+24,
+23,
+21,
+22,
+},
+{
+17,
+18,
+},
+{
+14,
+13,
+10,
+12,
+11,
+},
+["color"] = "fffb3e",
+[6] = {
+16,
+15,
+},
+},
+{
+[7] = {
+6,
+},
+[8] = {
+4,
+},
+[3] = {
+20,
+},
+["color"] = "3eff3e",
+[5] = {
+33,
+14,
+13,
+15,
+},
+},
+{
+[10] = {
+7,
+6,
+},
+["color"] = "ff3e9e",
+[14] = {
+6,
+7,
+},
+[5] = {
+22,
+23,
+24,
+25,
+},
+[12] = {
+7,
+},
+},
+{
+{
+6,
+5,
+},
+["color"] = "3effff",
+[10] = {
+8,
+9,
+},
+[5] = {
+27,
+26,
+28,
+29,
+},
+},
+{
+["color"] = "ff9b3e",
+[16] = {
+1,
+},
+},
+{
+[5] = {
+30,
+31,
+},
+[11] = {
+4,
+1,
+},
+[9] = {
+7,
+8,
+},
+["color"] = "3e3eff",
+},
+{
+[11] = {
+10,
+9,
+},
+[17] = {
+5,
+},
+["color"] = "a1ff3e",
+[2] = {
+27,
+},
+[9] = {
+11,
+10,
+},
+[5] = {
+34,
+},
+},
+{
+["color"] = "ff3eff",
+[17] = {
+3,
+2,
+},
+},
+{
+["color"] = "3eff9e",
+[15] = {
+3,
+6,
+2,
+4,
+5,
+7,
+},
+},
+},
+["currentDungeonIdx"] = 119,
+["teeming"] = false,
+["selection"] = {
+5,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "no skip 2",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["objects"] = {
+},
+},
+{
+["difficulty"] = 12,
+["week"] = 1,
+["uid"] = "wblav9E1cUI",
+["value"] = {
+["currentPull"] = 5,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+4,
+},
+{
+8,
+9,
+},
+nil,
+{
+5,
+1,
+6,
+},
+{
+8,
+7,
+9,
+1,
+32,
+18,
+19,
+},
+nil,
+nil,
+nil,
+nil,
+{
+2,
+3,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+11,
+12,
+},
+[10] = {
+5,
+4,
+},
+["color"] = "3eff9e",
+[14] = {
+5,
+},
+[5] = {
+20,
+21,
+16,
+17,
+},
+[4] = {
+2,
+4,
+3,
+},
+},
+{
+[7] = {
+5,
+},
+[3] = {
+16,
+14,
+15,
+},
+["color"] = "ff3e3e",
+[9] = {
+3,
+4,
+},
+[2] = {
+1,
+20,
+19,
+},
+},
+{
+["color"] = "3e9eff",
+[2] = {
+26,
+25,
+12,
+13,
+},
+[9] = {
+},
+[8] = {
+5,
+},
+},
+{
+nil,
+{
+24,
+23,
+21,
+22,
+},
+{
+17,
+18,
+},
+{
+14,
+13,
+10,
+12,
+11,
+},
+["color"] = "fffb3e",
+[6] = {
+16,
+15,
+},
+},
+{
+[7] = {
+6,
+},
+[8] = {
+4,
+},
+[3] = {
+20,
+},
+["color"] = "3eff3e",
+[5] = {
+33,
+14,
+13,
+15,
+},
+},
+{
+[10] = {
+7,
+6,
+},
+["color"] = "ff3e9e",
+[14] = {
+6,
+7,
+},
+[5] = {
+22,
+23,
+24,
+25,
+},
+[12] = {
+7,
+},
+},
+{
+{
+6,
+5,
+},
+["color"] = "3effff",
+[10] = {
+8,
+9,
+},
+[5] = {
+27,
+26,
+28,
+29,
+},
+},
+{
+["color"] = "ff9b3e",
+[16] = {
+1,
+},
+},
+{
+[5] = {
+30,
+31,
+},
+[11] = {
+4,
+1,
+},
+[9] = {
+7,
+8,
+},
+["color"] = "3e3eff",
+},
+{
+[11] = {
+10,
+9,
+},
+[17] = {
+5,
+},
+["color"] = "a1ff3e",
+[2] = {
+27,
+},
+[9] = {
+11,
+10,
+},
+[5] = {
+34,
+},
+},
+{
+["color"] = "ff3eff",
+[17] = {
+3,
+2,
+},
+},
+{
+["color"] = "3eff9e",
+[15] = {
+3,
+6,
+2,
+4,
+5,
+7,
+},
+},
+},
+["currentDungeonIdx"] = 119,
+["teeming"] = false,
+["selection"] = {
+5,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "no skip 3",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["objects"] = {
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+[120] = {
+{
+["difficulty"] = 12,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 120,
+["teeming"] = false,
+["pulls"] = {
+{
+["color"] = "228b22",
+},
+},
+},
+},
+{
+["difficulty"] = 10,
+["uid"] = "quBFrOavgjl",
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
+},
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+"623",
+"-152.2",
+1,
+true,
+"Skipable, usually a couple bombs gets killed casually while pulling other mobs",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"253.9",
+"-125",
+1,
+true,
+"Bloodlust",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"553.9",
+"-195",
+1,
+true,
+"Bloodlust on double war machine\nis very good if its up (pull 18)",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"632.9",
+"-193",
+1,
+true,
+"Bloodlust",
+},
+},
+{
+["d"] = {
+3,
+1,
+1,
+true,
+"74a1aa",
+-8,
+true,
+},
+["l"] = {
+"436.5",
+"-466.1",
+"437.2",
+"-445.6",
+"437.2",
+"-445.6",
+"443.1",
+"-431.8",
+"443.1",
+"-431.8",
+"438.5",
+"-424.9",
+"438.5",
+"-424.9",
+"440.7",
+"-415.8",
+"440.7",
+"-415.8",
+"461.9",
+"-387.6",
+},
+},
+{
+["d"] = {
+3,
+1,
+1,
+true,
+"93a2a2",
+-8,
+true,
+},
+["l"] = {
+"454.2",
+"-366.9",
+"441.9",
+"-365.2",
+"441.9",
+"-365.2",
+"425.9",
+"-378.7",
+"425.9",
+"-378.7",
+"413",
+"-374.5",
+"413",
+"-374.5",
+"403.4",
+"-361.7",
+"403.4",
+"-361.7",
+"432.3",
+"-326.2",
+"432.3",
+"-326.2",
+"418.2",
+"-315.6",
+"418.2",
+"-315.6",
+"408.8",
+"-293.9",
+},
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "The MOTHERLODE!! Skip",
+["value"] = {
+["riftOffsets"] = {
+[2] = {
+},
+},
+["currentPull"] = 8,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+},
+["currentDungeonIdx"] = 120,
+["teeming"] = false,
+["selection"] = {
+8,
+},
+["pulls"] = {
+{
+[6] = {
+1,
+},
+[2] = {
+16,
+17,
+},
+[3] = {
+6,
+},
+["color"] = "ff3eff",
+[5] = {
+1,
+},
+[7] = {
+2,
+},
+},
+{
+[3] = {
+2,
+1,
+},
+[2] = {
+4,
+},
+[6] = {
+15,
+14,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[2] = {
+12,
+13,
+15,
+},
+[4] = {
+1,
+2,
+},
+[3] = {
+5,
+},
+},
+{
+nil,
+{
+20,
+19,
+},
+{
+10,
+},
+{
+},
+{
+7,
+},
+{
+5,
+},
+{
+1,
+},
+["color"] = "3e9eff",
+},
+{
+[8] = {
+1,
+},
+["color"] = "fffb3e",
+},
+{
+[11] = {
+3,
+},
+[10] = {
+2,
+3,
+5,
+6,
+},
+[12] = {
+2,
+},
+[9] = {
+2,
+3,
+},
+["color"] = "3eff3e",
+},
+{
+[11] = {
+2,
+4,
+5,
+},
+[10] = {
+4,
+},
+[12] = {
+3,
+},
+[9] = {
+4,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[9] = {
+7,
+8,
+},
+[12] = {
+4,
+},
+[11] = {
+8,
+7,
+},
+},
+{
+[14] = {
+1,
+3,
+2,
+5,
+6,
+4,
+},
+[15] = {
+1,
+2,
+3,
+},
+["color"] = "ff9b3e",
+},
+{
+[11] = {
+13,
+12,
+},
+[16] = {
+1,
+},
+[9] = {
+13,
+14,
+},
+["color"] = "3e3eff",
+},
+{
+[18] = {
+1,
+2,
+},
+[17] = {
+1,
+},
+["color"] = "a1ff3e",
+},
+{
+[21] = {
+9,
+},
+[22] = {
+15,
+3,
+},
+[23] = {
+1,
+26,
+27,
+28,
+30,
+29,
+22,
+23,
+24,
+25,
+2,
+3,
+4,
+5,
+6,
+},
+["color"] = "ff3eff",
+},
+{
+[20] = {
+4,
+},
+[21] = {
+10,
+},
+[22] = {
+18,
+19,
+},
+[23] = {
+17,
+18,
+19,
+20,
+21,
+},
+["color"] = "3eff9e",
+},
+{
+[21] = {
+5,
+6,
+},
+[22] = {
+11,
+13,
+12,
+14,
+},
+[23] = {
+31,
+32,
+33,
+34,
+35,
+},
+["color"] = "ff3e3e",
+},
+{
+[21] = {
+1,
+},
+[22] = {
+1,
+},
+[20] = {
+1,
+3,
+},
+["color"] = "3e9eff",
+},
+{
+[24] = {
+1,
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[25] = {
+3,
+},
+[26] = {
+3,
+4,
+},
+},
+{
+["color"] = "ff3e9e",
+[25] = {
+6,
+},
+[26] = {
+7,
+},
+},
+{
+[25] = {
+8,
+7,
+},
+["color"] = "3effff",
+},
+{
+[28] = {
+29,
+27,
+28,
+},
+["color"] = "ff9b3e",
+},
+{
+[6] = {
+},
+[2] = {
+},
+[27] = {
+1,
+},
+["color"] = "3e3eff",
+[11] = {
+},
+[9] = {
+},
+[12] = {
+},
+},
+{
+["color"] = "a1ff3e",
+},
+},
+},
+["week"] = 2,
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+},
+["scale"] = 1.43153637035473,
 ["version"] = 542,
-["scale"] = 1.4,
-["minimap"] = {
-["showInCompartment"] = true,
+["xoffset"] = -74.1665267944336,
+["latestDungeonSeen"] = 115,
+["currentPreset"] = {
+[115] = 2,
+[117] = 2,
+[118] = 2,
+[119] = 4,
+[120] = 2,
 },
+["yoffset"] = 94.00004577636719,
 },
 }

@@ -1,6 +1,50 @@
 
 BigWigs3DB = {
+["profileKeys"] = {
+["Shample - Draenor"] = "Default",
+["Greedissgood - Draenor"] = "Default",
+["Riseandshine - Draenor"] = "Default",
+["Nexùs - Draenor"] = "Default",
+["Bonebilly - Draenor"] = "Default",
+["Hydrolic - Silvermoon"] = "Default",
+},
+["global"] = {
+["watchedMovies"] = {
+[-575] = true,
+[-593] = {
+true,
+true,
+},
+[-609] = true,
+[-607] = true,
+[-2409] = true,
+[-573] = true,
+[-437] = true,
+},
+},
 ["namespaces"] = {
+["BigWigs_Bosses_King Gobbamak"] = {
+["profiles"] = {
+["Default"] = {
+[297261] = 3130103,
+},
+},
+},
+["BigWigs_Plugins_Nameplates"] = {
+["profiles"] = {
+["Default"] = {
+["textFontColor"] = {
+0,
+0,
+0,
+0.3,
+},
+["textFontSize"] = 10,
+["textFontName"] = "2002",
+["textOutline"] = "NONE",
+},
+},
+},
 ["BigWigs_Bosses_Cinderbrew Meadery Trash"] = {
 ["profiles"] = {
 ["Default"] = {
@@ -29,27 +73,6 @@ BigWigs3DB = {
 },
 },
 },
-["BigWigs_Bosses_Captain Dailcry"] = {
-["profiles"] = {
-["Default"] = {
-[424419] = 3130103,
-},
-},
-},
-["BigWigs_Plugins_Countdown"] = {
-["profiles"] = {
-["Default"] = {
-["textEnabled"] = false,
-},
-},
-},
-["BigWigs_Bosses_King Gobbamak"] = {
-["profiles"] = {
-["Default"] = {
-[297261] = 3130103,
-},
-},
-},
 ["BigWigs_Plugins_InfoBox"] = {
 ["profiles"] = {
 ["Default"] = {
@@ -62,41 +85,16 @@ nil,
 },
 },
 },
-["BigWigs_Plugins_Bars"] = {
-["profiles"] = {
-["Default"] = {
-["emphasizeGrowup"] = true,
-["spacing"] = 12,
-["expPosition"] = {
-nil,
-nil,
-235,
-100,
-},
-["emphasizeTime"] = 6,
-["barStyle"] = "BeautyCase",
-["fontName"] = "TeX Gyre Adventor Bold",
-["visibleBarLimitEmph"] = 5,
-["normalWidth"] = 192,
-["normalPosition"] = {
-"TOP",
-"TOP",
-468,
--295,
-},
-},
-},
-},
 ["BigWigs_Plugins_Messages"] = {
 ["profiles"] = {
 ["Default"] = {
-["emphFontName"] = "PT Sans Narrow, Bold",
 ["emphPosition"] = {
 nil,
 nil,
 nil,
 -108,
 },
+["emphFontName"] = "PT Sans Narrow, Bold",
 ["fontName"] = "PT Sans Narrow Bold",
 ["normalPosition"] = {
 nil,
@@ -107,42 +105,73 @@ nil,
 },
 },
 },
-["BigWigs_Plugins_Nameplates"] = {
+["BigWigs_Bosses_Captain Dailcry"] = {
 ["profiles"] = {
 ["Default"] = {
-["textFontColor"] = {
-0,
-0,
-0,
-0.3,
-},
-["textFontSize"] = 10,
-["textFontName"] = "2002",
-["textOutline"] = "NONE",
+[424419] = 3130103,
 },
 },
 },
+["BigWigs_Plugins_Bars"] = {
+["profiles"] = {
+["Default"] = {
+["barStyle"] = "BeautyCase",
+["normalWidth"] = 192,
+["expPosition"] = {
+nil,
+nil,
+235,
+100,
 },
-["profileKeys"] = {
-["Shample - Draenor"] = "Default",
-["Greedissgood - Draenor"] = "Default",
-["Riseandshine - Draenor"] = "Default",
-["Bonebilly - Draenor"] = "Default",
+["emphasizeGrowup"] = true,
+["visibleBarLimitEmph"] = 5,
+["spacing"] = 12,
+["normalPosition"] = {
+"TOP",
+"TOP",
+468,
+-295,
 },
-["global"] = {
-["watchedMovies"] = {
-[-575] = true,
-[-593] = {
-true,
-true,
-},
-[-609] = true,
-[-437] = true,
-[-2409] = true,
-[-573] = true,
-[-607] = true,
+["fontName"] = "TeX Gyre Adventor Bold",
+["emphasizeTime"] = 6,
 },
 },
+},
+["BigWigs_Plugins_Countdown"] = {
+["profiles"] = {
+["Default"] = {
+["textEnabled"] = false,
+},
+},
+},
+},
+["myKeystones"] = {
+["Player-1403-07FFC902"] = {
+["playerRating"] = 0,
+["specId"] = 0,
+["keyMap"] = 0,
+["name"] = "Riseandshine",
+["keyLevel"] = 0,
+["realm"] = "Draenor",
+},
+["Player-1403-080C153F"] = {
+["playerRating"] = 0,
+["specId"] = 0,
+["keyMap"] = 0,
+["name"] = "Greedissgood",
+["keyLevel"] = 0,
+["realm"] = "Draenor",
+},
+["Player-1403-0A265C9E"] = {
+["playerRating"] = 0,
+["specId"] = 0,
+["keyMap"] = 0,
+["name"] = "Bonebilly",
+["keyLevel"] = 0,
+["realm"] = "Draenor",
+},
+},
+["prevWeeklyReset"] = 1750824000,
 ["profiles"] = {
 ["Default"] = {
 },
@@ -163,10 +192,10 @@ BigWigsStatsDB = {
 [2646] = {
 ["story"] = {
 ["kills"] = 2,
-["fkDuration"] = 506.5010000000038,
-["best"] = 345.0319999999992,
-["bestDate"] = "2025/03/30",
 ["fkDate"] = "2025/03/15",
+["bestDate"] = "2025/03/30",
+["best"] = 345.0319999999992,
+["fkDuration"] = 506.5010000000038,
 },
 },
 },

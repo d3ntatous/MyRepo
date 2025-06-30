@@ -1,1 +1,15 @@
 Version: 1
+Frame: ColorPickerFrame
+FrameLevel: 23
+Anchor: CENTER
+X: 268
+Y: 44
+W: 388
+H: 210
+Frame: WeakAurasOptions
+FrameLevel: 1
+Anchor: RIGHT
+X: 103
+Y: 60
+W: 1125
+H: 744
