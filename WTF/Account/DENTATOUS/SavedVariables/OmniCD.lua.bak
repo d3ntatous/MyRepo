@@ -1,0 +1,134 @@
+
+OmniCDDB = {
+["profileKeys"] = {
+["Leafyouto - Silvermoon"] = "Default",
+["Greedissgood - Draenor"] = "Default",
+["Hydrolic - Silvermoon"] = "Default",
+["Poper - Silvermoon"] = "Default",
+["Chroneal - Draenor"] = "Default",
+["Leafyouto - Draenor"] = "Default",
+["Shample - Draenor"] = "SHAMAN",
+["Risendine - Draenor"] = "Default",
+["Riseandshine - Draenor"] = "Riseandshine - Draenor",
+["Worganizer - Silvermoon"] = "Default",
+["Nexùs - Draenor"] = "Default",
+["Riseandine - Draenor"] = "Default",
+["Pawfong - Draenor"] = "Default",
+["Bonebilly - Draenor"] = "WARRIOR",
+},
+["namespaces"] = {
+},
+["cooldowns"] = {
+},
+["version"] = 4,
+["profiles"] = {
+["Riseandshine - Draenor"] = {
+["Party"] = {
+["party"] = {
+["extraBars"] = {
+["raidBar1"] = {
+["manualPos"] = {
+["raidBar1"] = {
+["y"] = 458.986903803343,
+["x"] = 438.6125683212449,
+},
+},
+},
+},
+["icons"] = {
+["scale"] = 0.7,
+["showTooltip"] = true,
+},
+["position"] = {
+["paddingY"] = 2,
+["attachMore"] = "BOTTOMLEFT",
+["columns"] = 3,
+["paddingX"] = 2,
+["attach"] = "BOTTOMLEFT",
+["layout"] = "vertical",
+["uf"] = "Cell-Party",
+["preset"] = "manual",
+["offsetY"] = 10,
+["anchorMore"] = "TOPLEFT",
+},
+},
+},
+["General"] = {
+["fonts"] = {
+["statusBar"] = {
+["font"] = "TeX Gyre Adventor Bold",
+},
+["icon"] = {
+["font"] = "TeX Gyre Adventor Bold",
+},
+["anchor"] = {
+["font"] = "TeX Gyre Adventor Bold",
+},
+},
+},
+},
+["WARRIOR"] = {
+["Party"] = {
+["party"] = {
+["extraBars"] = {
+["raidBar1"] = {
+["manualPos"] = {
+["raidBar1"] = {
+["y"] = 534.7202224230714,
+["x"] = 208.2130422210757,
+},
+},
+},
+},
+["position"] = {
+["anchor"] = "TOPRIGHT",
+["preset"] = "TOPLEFT",
+["attach"] = "TOPLEFT",
+},
+},
+},
+},
+["Default"] = {
+["Party"] = {
+["party"] = {
+["extraBars"] = {
+["raidBar1"] = {
+["manualPos"] = {
+["raidBar1"] = {
+["y"] = 97.38782985446232,
+["x"] = 477.0133096504214,
+},
+},
+},
+},
+["position"] = {
+["anchor"] = "TOPRIGHT",
+["preset"] = "TOPLEFT",
+["attach"] = "TOPLEFT",
+},
+},
+},
+},
+["SHAMAN"] = {
+["Party"] = {
+["party"] = {
+["extraBars"] = {
+["raidBar1"] = {
+["manualPos"] = {
+["raidBar1"] = {
+["y"] = 506.9867074179638,
+["x"] = 210.8798585677178,
+},
+},
+},
+},
+["position"] = {
+["anchor"] = "TOPRIGHT",
+["preset"] = "TOPLEFT",
+["attach"] = "TOPLEFT",
+},
+},
+},
+},
+},
+}

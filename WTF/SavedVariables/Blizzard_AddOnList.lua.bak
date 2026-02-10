@@ -1,0 +1,9 @@
+
+g_addonCategoriesCollapsed = {
+["Dungeons & Raids"] = true,
+["Combat"] = true,
+["Media"] = true,
+["Causese"] = true,
+["Data Broker"] = true,
+["Housing Enhancements"] = true,
+}

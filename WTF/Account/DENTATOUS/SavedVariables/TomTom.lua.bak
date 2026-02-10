@@ -1,0 +1,66 @@
+
+TomTomDB = {
+["profileKeys"] = {
+["Leafyouto - Silvermoon"] = "Default",
+["Worganizer - Silvermoon"] = "Default",
+["Riseandshine - Draenor"] = "Default",
+["Chroneal - Draenor"] = "Default",
+["Nexùs - Draenor"] = "Default",
+["Leafyouto - Draenor"] = "Default",
+["Pawfong - Draenor"] = "Default",
+["Bonebilly - Draenor"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+["arrow"] = {
+["position"] = {
+"CENTER",
+nil,
+"CENTER",
+0,
+0,
+},
+},
+["block"] = {
+["position"] = {
+"BOTTOMLEFT",
+nil,
+"BOTTOMLEFT",
+1.666487455368042,
+271.666748046875,
+},
+},
+},
+},
+}
+TomTomWaypoints = nil
+TomTomWaypointsM = {
+["profileKeys"] = {
+["Leafyouto - Silvermoon"] = "Leafyouto - Silvermoon",
+["Worganizer - Silvermoon"] = "Worganizer - Silvermoon",
+["Riseandshine - Draenor"] = "Riseandshine - Draenor",
+["Chroneal - Draenor"] = "Chroneal - Draenor",
+["Nexùs - Draenor"] = "Nexùs - Draenor",
+["Leafyouto - Draenor"] = "Leafyouto - Draenor",
+["Pawfong - Draenor"] = "Pawfong - Draenor",
+["Bonebilly - Draenor"] = "Bonebilly - Draenor",
+},
+["profiles"] = {
+["Leafyouto - Silvermoon"] = {
+},
+["Worganizer - Silvermoon"] = {
+},
+["Riseandshine - Draenor"] = {
+},
+["Chroneal - Draenor"] = {
+},
+["Nexùs - Draenor"] = {
+},
+["Leafyouto - Draenor"] = {
+},
+["Pawfong - Draenor"] = {
+},
+["Bonebilly - Draenor"] = {
+},
+},
+}

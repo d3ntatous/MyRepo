@@ -1,0 +1,530 @@
+local ADDON_NAME, ADDON = ...
+
+local menuActionButton = CreateFrame("Button", nil, nil, "InsecureActionButtonTemplate")
+menuActionButton:SetAttribute("pressAndHoldAction", 1)
+menuActionButton:RegisterForClicks("LeftButtonUp")
+menuActionButton:SetPropagateMouseClicks(true)
+menuActionButton:SetPropagateMouseMotion(true)
+menuActionButton:Hide()
+
+local tooltip = CreateFrame("GameTooltip", "ScottyMenuToolTip", UIParent, "GameTooltipTemplate")
+
+local function OpenMenu(anchor, generator)
+    local menuDescription = MenuUtil.CreateRootMenuDescription(MenuVariants.GetDefaultContextMenuMixin())
+
+    local anchorSource = anchor:GetRelativeTo()
+    Menu.PopulateDescription(generator, anchorSource, menuDescription)
+
+    local menu = Menu.GetManager():OpenMenu(anchorSource, menuDescription, anchor)
+    if menu then
+        menu:HookScript("OnLeave", function()
+            if not menu:IsMouseOver() then
+                menu:Close()
+            end
+        end) -- OnLeave gets reset every time
+    end
+
+    return menu
+end
+
+local function GetHousingIcon(neighborhoodGUID)
+    local hoodRegion = select (3, strsplit("-", neighborhoodGUID))
+    if hoodRegion == "1" then
+        return "communities-icon-faction-alliance"
+    elseif hoodRegion == "2" then
+        return "communities-icon-faction-horde"
+    end
+    return "dashboard-panel-homestone-teleport-button"
+end
+
+local function GetBnetIcon()
+    local appIconId = 0
+    C_Texture.GetTitleIconTexture("App", 0, function(success, fileId)
+      if success then
+          appIconId = fileId
+      end
+    end)
+    return appIconId
+end
+
+local function buildEntry(menuRoot, dbType, typeId, icon, location, tooltipSetter, hasCooldown, dbRow)
+    local prefix = ""
+    if type(icon) == "number" then
+        prefix = "|T" .. icon .. ":0|t "
+    elseif type(icon) == "string" then
+        prefix = "|A:" .. icon .. ":16:16|a "
+    end
+
+    local currentlyClicking = false
+
+    local element = menuRoot:CreateButton(prefix..location, function()
+        return MenuResponse.CloseAll
+    end)
+    element:HookOnEnter(function(frame)
+        menuActionButton:SetScript("PreClick", function()
+            currentlyClicking = true
+            ADDON.Events:TriggerEvent("OnInitializeTeleport", dbType, typeId, dbRow)
+        end)
+        menuActionButton:SetScript("PostClick", function()
+            ADDON.Events:TriggerEvent("TeleportInitialized", dbType, typeId, dbRow)
+        end)
+        menuActionButton:SetAttribute("type", dbType)
+        menuActionButton:SetAttribute("typerelease", dbType)
+        menuActionButton:SetAttribute(dbType, typeId)
+        menuActionButton:SetParent(frame)
+        menuActionButton:SetAllPoints(frame)
+        menuActionButton:SetFrameStrata("TOOLTIP")
+        menuActionButton:Show()
+        ADDON.Events:TriggerEvent("OnPrepareTeleport", dbType, typeId, dbRow)
+    end)
+    if tooltipSetter then
+        element:HookOnEnter(function(frame)
+            tooltip:SetOwner(frame, "ANCHOR_NONE")
+            tooltip:ClearLines()
+            tooltipSetter(tooltip)
+            local left, _, width = frame:GetRect()
+            local remainingSpaceOnRight = GetScreenWidth() - left - width
+            if remainingSpaceOnRight < tooltip:GetWidth() then
+                tooltip:SetPoint("TOPRIGHT", frame, "TOPLEFT") -- on left side
+            else
+                tooltip:SetPoint("TOPLEFT", frame, "TOPRIGHT") -- on right side
+            end
+            tooltip:Show()
+        end)
+    end
+    element:HookOnLeave(function()
+        tooltip:Hide()
+        menuActionButton:Hide()
+        menuActionButton:SetParent(nil)
+        if not currentlyClicking then
+            ADDON.Events:TriggerEvent("OnClearTeleport", dbType, typeId, dbRow)
+        end
+    end)
+    if hasCooldown then
+        element:AddInitializer(function(button)
+            button.fontString:SetAlpha(0.5)
+        end)
+    end
+    if dbRow then
+        element:AddInitializer(function(parent, elementDescription, menu)
+            local star = parent:AttachFrame("CheckButton")
+            star:SetNormalAtlas("auctionhouse-icon-favorite")
+            star:SetHighlightAtlas("auctionhouse-icon-favorite-off", "ADD")
+            star:SetPoint("LEFT")
+            star:SetSize(13, 12)
+            star:SetFrameStrata("TOOLTIP")
+
+            parent.StarButton = star
+            parent.fontString:SetPoint("LEFT", star, "RIGHT", 3, -1)
+
+            star:SetScript("OnEnter", function()
+                local isFavorite = not ADDON.Api.IsFavorite(dbRow)
+
+                tooltip:SetOwner(star, "ANCHOR_CURSOR")
+                tooltip:ClearLines()
+                tooltip:SetText(isFavorite and BATTLE_PET_FAVORITE or BATTLE_PET_UNFAVORITE)
+                tooltip:AddLine(ADDON.L.FAVORITE_TOOLTIP_TEXT)
+                tooltip:Show()
+            end)
+            star:SetScript("OnLeave", function()
+                tooltip:Hide()
+            end)
+            star:SetScript("OnClick", function(self)
+                local isFavorite = not ADDON.Api.IsFavorite(dbRow)
+                ADDON.Api.SetFavorite(dbRow, isFavorite)
+                self:UpdateTexture(isFavorite)
+                menu:SendResponse(elementDescription, MenuResponse.Refresh)
+            end)
+            star.UpdateTexture = function (self, isFavorite)
+                local atlas = isFavorite and "auctionhouse-icon-favorite" or "auctionhouse-icon-favorite-off";
+                self:GetNormalTexture():SetAtlas(atlas);
+                self:GetHighlightTexture():SetAtlas(atlas)
+                self:GetHighlightTexture():SetAlpha(isFavorite and 0.2 or 0.4)
+            end
+
+            local isFavorite = ADDON.Api.IsFavorite(dbRow)
+            star:SetChecked(isFavorite)
+            star:UpdateTexture(isFavorite)
+        end)
+        element:AddResetter(function(parent)
+            local star = parent.StarButton
+            star:ClearAllPoints()
+            star:ClearNormalTexture()
+            star:ClearHighlightTexture()
+            star:SetSize(0,0)
+            star:SetScript("OnClick", nil)
+            star:SetScript("OnEnter", nil)
+            star:SetScript("OnLeave", nil)
+            star:SetFrameStrata("MEDIUM")
+            star.UpdateTexture = nil
+            parent.StarButton = nil
+        end)
+    end
+    return element
+end
+
+local function buildToyEntry(menuRoot, itemId, location, dbRow)
+    return buildEntry(
+            menuRoot,
+            "toy",
+            itemId,
+            C_Item.GetItemIconByID(itemId),
+            location,
+            function(tooltip)
+                GameTooltip.SetToyByItemID(tooltip, itemId)
+            end,
+            not C_ToyBox.IsToyUsable(itemId) or C_Container.GetItemCooldown(itemId) > 0,
+            dbRow
+    )
+end
+
+local function buildItemEntry(menuRoot, itemId, location, dbRow)
+    local itemLocation = dbRow and dbRow.isEquippableItem and ADDON:GetItemSlot(itemId) or ADDON:FindItemInBags(itemId)
+
+    return buildEntry(
+        menuRoot,
+        "item",
+        itemLocation,
+        C_Item.GetItemIconByID(itemId),
+        location,
+        function(tooltip)
+            GameTooltip.SetItemByID(tooltip, itemId)
+        end,
+        C_Container.GetItemCooldown(itemId) > 0,
+        dbRow
+    )
+end
+
+local function buildSpellEntry(menuRoot, spellId, location, portalId, dbRow)
+    local cooldown = C_Spell.GetSpellCooldown(spellId)
+
+    local element = buildEntry(
+            menuRoot,
+            "spell",
+            spellId,
+            C_Spell.GetSpellTexture(spellId),
+            location,
+            function(tooltip)
+                GameTooltip.SetSpellByID(tooltip, spellId)
+            end,
+            cooldown.duration > 0 or not C_Spell.IsSpellUsable(spellId),
+            dbRow
+    )
+
+    if portalId and C_SpellBook.IsSpellInSpellBook(portalId) then
+        element:AddInitializer(function(button, elementDescription, menu)
+            local portalButton
+            if MenuTemplates.AttachBasicButton then -- retail
+                portalButton = MenuTemplates.AttachBasicButton(button)
+            else -- classic
+                portalButton = button:AttachTemplate("WowMenuAutoHideButtonTemplate")
+            end
+
+            portalButton:SetNormalFontObject("GameFontHighlight")
+            portalButton:SetHighlightFontObject("GameFontHighlight")
+            portalButton:SetText(" "..ADDON.L.MENU_PORTAL.." |T" .. C_Spell.GetSpellTexture(portalId) .. ":0|t")
+            portalButton:SetSize(portalButton:GetTextWidth(), button.fontString:GetHeight())
+            portalButton:SetPoint("RIGHT")
+            portalButton:SetPoint("BOTTOM", button.fontString)
+            button.PortalButton = portalButton
+
+            if portalButton.Texture then
+                portalButton.Texture:SetTexture() --reset previous textures
+            end
+
+            local cooldown = C_Spell.GetSpellCooldown(portalId)
+            if cooldown.duration > 0 or not C_Spell.IsSpellUsable(portalId) then
+                portalButton:SetAlpha(0.5)
+            end
+
+            portalButton:SetScript("OnClick", function()
+                C_Timer.After(0.01, function()
+                    menu:SendResponse(elementDescription, MenuResponse.CloseAll)
+                end)
+            end)
+            portalButton:SetScript("OnEnter", function()
+                GameTooltip.SetSpellByID(tooltip, portalId)
+                menuActionButton:SetAttribute("spell", portalId)
+            end)
+            portalButton:SetScript("OnLeave", function()
+                GameTooltip.SetSpellByID(tooltip, spellId)
+                menuActionButton:SetAttribute("spell", spellId)
+            end)
+        end)
+        element:HookOnEnter(function(parent)
+            if parent.PortalButton and parent.PortalButton:IsMouseOver() then
+                GameTooltip.SetSpellByID(tooltip, portalId)
+                menuActionButton:SetAttribute("spell", portalId)
+            end
+        end)
+        element:AddResetter(function(parent)
+            local portal = parent.PortalButton
+            portal:ClearAllPoints()
+            portal:SetSize(0,0)
+            portal:SetText("")
+            portal:SetAlpha(1.0)
+            portal:SetScript("OnClick", nil)
+            portal:SetScript("OnEnter", nil)
+            portal:SetScript("OnLeave", nil)
+            parent.PortalButton = nil
+        end)
+    end
+
+    return element
+end
+
+local function buildRow(row, menuRoot)
+    if row.spell then
+        buildSpellEntry(menuRoot, row.spell, ADDON:GetName(row), row.portal, row)
+    elseif row.toy then
+        buildToyEntry(menuRoot, row.toy, ADDON:GetName(row), row)
+    elseif row.item then
+        buildItemEntry(menuRoot, row.item, ADDON:GetName(row), row)
+    elseif row.neighborhoodGUID and row.houseGUID and row.plotID then
+        local button = buildEntry(menuRoot, "visithouse", 0, GetHousingIcon(row.neighborhoodGUID), row.ownerName .. ": " .. row.houseName, nil, nil, row)
+        button:HookOnEnter(function()
+            menuActionButton:SetAttribute("house-neighborhood-guid", row.neighborhoodGUID)
+            menuActionButton:SetAttribute("house-guid", row.houseGUID)
+            menuActionButton:SetAttribute("house-plot-id", row.plotID)
+        end)
+    end
+end
+
+local function IsKnown(row)
+    if row.neighborhoodGUID and row.houseGUID and row.plotID then
+        return true
+    end
+
+    if row.quest then
+        local quests = type(row.quest) == "table" and row.quest or {row.quest}
+        for _, questId in ipairs(quests) do
+            if not C_QuestLog.IsQuestFlaggedCompleted(questId) then
+                return false
+            end
+        end
+    end
+
+    return
+        (
+            nil == row.accountQuest
+            or (C_QuestLog.IsQuestFlaggedCompletedOnAccount and C_QuestLog.IsQuestFlaggedCompletedOnAccount(row.accountQuest))
+        ) and (
+            (row.spell and C_SpellBook.IsSpellInSpellBook(row.spell))
+            or (row.toy and PlayerHasToy(row.toy)
+            or (row.item and (C_Item.IsEquippedItem(row.item) or ADDON:PlayerHasItemInBag(row.item))))
+        )
+end
+
+local function SortRowsByName(list)
+    table.sort(list, function(a, b)
+        return ADDON:GetName(a) < ADDON:GetName(b)
+    end)
+    return list
+end
+
+local function generateTeleportMenu(_, root)
+    root:SetTag(ADDON_NAME.."-LDB-Teleport")
+    root:SetScrollMode(GetScreenHeight() - 100)
+
+    local hasGeneralSpells = false
+    local playerHouseInfos, friendsHouseInfos, guildHousesInfos = ADDON.GetHouseInfos()
+
+    -- Hearthstone
+    do
+        local hearthstoneButton = _G[ADDON_NAME.."HearthstoneButton"]
+        if hearthstoneButton:GetAttribute("toy") then
+            buildToyEntry(root, hearthstoneButton:GetAttribute("toy"), GetBindLocation()):SetResponder(function()
+                hearthstoneButton:ShuffleHearthstone()
+                return MenuResponse.CloseAll
+            end)
+            hasGeneralSpells = true
+        elseif hearthstoneButton:GetAttribute("spell") then
+            buildSpellEntry(root, hearthstoneButton:GetAttribute("spell"), GetBindLocation())
+            hasGeneralSpells = true
+        elseif hearthstoneButton:GetAttribute("itemID") then
+            buildItemEntry(root, hearthstoneButton:GetAttribute("itemID"), GetBindLocation())
+            hasGeneralSpells = true
+        end
+    end
+
+    -- Vulperas Make Camp
+    do
+        if C_SpellBook.IsSpellInSpellBook(312372) then
+            local location = ScottyPersonalCache.VulperaCamp or C_Spell.GetSpellName(312372)
+            buildSpellEntry(root, 312372, location, 312370):AddInitializer(function(button)
+                button.PortalButton:SetText(" "..ADDON.L.MENU_VULPERA_CAMP.." |T" .. C_Spell.GetSpellTexture(312370) .. ":0|t")
+                button.PortalButton:SetSize(button.PortalButton:GetTextWidth(), button.fontString:GetHeight())
+            end)
+            hasGeneralSpells = true
+        end
+    end
+
+    do
+        -- Player Houses
+        -- HousingDashboardFrame.HouseInfoContent.ContentFrame.HouseUpgradeFrame.TeleportToHouseButton
+        for _, playerHouse in ipairs(playerHouseInfos) do
+            if C_HousingNeighborhood.CanReturnAfterVisitingHouse() and C_Housing.GetCurrentNeighborhoodGUID() == playerHouse.neighborhoodGUID then
+                local location = ScottyPersonalCache.PlayerHomeReturn or HOUSING_DASHBOARD_RETURN
+                buildEntry(root, "returnhome", 0, "dashboard-panel-homestone-teleport-out-button", location, function(tooltip)
+                    GameTooltip_AddHighlightLine(tooltip, HOUSING_DASHBOARD_RETURN);
+                end)
+            else
+                local cd = C_Housing.GetVisitCooldownInfo()
+                local button = buildEntry(root, "teleporthome", 0, GetHousingIcon(playerHouse.neighborhoodGUID), playerHouse.houseName, function(tooltip)
+        			GameTooltip_AddHighlightLine(tooltip, HOUSING_DASHBOARD_TELEPORT_TO_PLOT);
+                end, cd.duration > 0)
+                button:HookOnEnter(function()
+                    menuActionButton:SetAttribute("house-neighborhood-guid", playerHouse.neighborhoodGUID)
+                    menuActionButton:SetAttribute("house-guid", playerHouse.houseGUID)
+                    menuActionButton:SetAttribute("house-plot-id", playerHouse.plotID)
+                end)
+            end
+            --later: add maybe tooltips
+            hasGeneralSpells = true
+        end
+    end
+
+    if hasGeneralSpells then
+        root:QueueSpacer()
+    end
+
+    -- favorites
+    local favorites = ADDON.Api.GetFavoriteDatabase()
+    favorites = tFilter(favorites, function(row)
+        return IsKnown(row)
+    end, true)
+    do
+        if #favorites > 0 then
+            local favoriteRoot = root
+            if Settings.GetValue(ADDON_NAME.."_GROUP_FAVORITES") then
+                favoriteRoot = root:CreateButton(FAVORITES)
+                favoriteRoot:SetScrollMode(GetScreenHeight() - 100)
+            else
+                favoriteRoot:CreateTitle(FAVORITES)
+            end
+            favorites = SortRowsByName(favorites)
+            for _, row in ipairs(favorites) do
+                buildRow(row, favoriteRoot)
+            end
+        end
+    end
+
+    -- season dungeons
+    local seasonSpells = tFilter(ADDON.db, function(row)
+        return row.category == ADDON.Category.SeasonInstance and IsKnown(row)
+    end, true)
+    do
+        if #seasonSpells > 0 then
+            local seasonRoot = root
+            local currentSeasonName = EJ_GetTierInfo(EJ_GetNumTiers())
+            if Settings.GetValue(ADDON_NAME.."_GROUP_SEASON") then
+                if #favorites > 0 and not Settings.GetValue(ADDON_NAME.."_GROUP_FAVORITES") then
+                    root:QueueSpacer()
+                end
+                seasonRoot = root:CreateButton(currentSeasonName)
+                seasonRoot:SetScrollMode(GetScreenHeight() - 100)
+            else
+                if #favorites > 0 then
+                    root:QueueSpacer()
+                end
+                root:CreateTitle(currentSeasonName)
+            end
+            seasonSpells = SortRowsByName(seasonSpells)
+            for _, row in ipairs(seasonSpells) do
+                buildRow(row, seasonRoot)
+            end
+        end
+    end
+
+    if #favorites > 0 or #seasonSpells > 0 then
+        root:QueueSpacer()
+    end
+
+    -- friends houses
+    if TableHasAnyEntries(friendsHouseInfos) then
+        local friendsRoot = root:CreateButton("|T"..GetBnetIcon()..":0|t "..ADDON.L.HOUSE_FRIENDS)
+        friendsRoot:SetScrollMode(GetScreenHeight() - 100)
+        local friendsHouses = GetValuesArray(friendsHouseInfos)
+        -- AccountNames are protected Strings. so we can't use them for sorting.
+        table.sort(friendsHouses, function(a, b)
+            return strcmputf8i(a.battleTag, b.battleTag) < 0
+        end)
+        for _, houseInfo in ipairs(friendsHouses) do
+            local button = buildEntry(friendsRoot, "visithouse", 0, GetHousingIcon(houseInfo.neighborhoodGUID), houseInfo.accountName .. ": " .. houseInfo.houseName, nil, nil, houseInfo)
+            button:HookOnEnter(function()
+                menuActionButton:SetAttribute("house-neighborhood-guid", houseInfo.neighborhoodGUID)
+                menuActionButton:SetAttribute("house-guid", houseInfo.houseGUID)
+                menuActionButton:SetAttribute("house-plot-id", houseInfo.plotID)
+            end)
+        end
+        if not TableHasAnyEntries(guildHousesInfos) then
+            root:QueueSpacer()
+        end
+    end
+    -- guild member houses
+    if TableHasAnyEntries(guildHousesInfos) then
+        local guildRoot = root:CreateButton("|T135026:0|t "..ADDON.L.HOUSE_GUILDMEMBERS)
+        guildRoot:SetScrollMode(GetScreenHeight() - 100)
+        local guildHouses = GetValuesArray(guildHousesInfos)
+        table.sort(guildHouses, function(a, b)
+            return strcmputf8i(a.ownerName, b.ownerName) < 0
+        end)
+        for _, houseInfo in ipairs(guildHouses) do
+            buildRow(houseInfo, guildRoot)
+        end
+        root:QueueSpacer()
+    end
+
+    -- continents
+    do
+        local groupedByContinent = {}
+        for _, row in ipairs(ADDON.db) do
+            if row.continent and IsKnown(row) then
+                if not groupedByContinent[row.continent] then
+                    groupedByContinent[row.continent] = {}
+                end
+                table.insert(groupedByContinent[row.continent], row)
+            end
+        end
+        local continents = GetKeysArray(groupedByContinent)
+        if #continents > 0 then
+            table.sort(continents, function(a, b) return a > b end)
+            for _, continent in ipairs(continents) do
+                local list = SortRowsByName(groupedByContinent[continent])
+                local continentRoot = root:CreateButton(GetRealZoneText(continent))
+                continentRoot:SetScrollMode(GetScreenHeight() - 100)
+                for _, row in ipairs(list) do
+                    buildRow(row, continentRoot)
+                end
+            end
+        end
+    end
+end
+
+function ADDON:OpenTeleportMenu(frame)
+    local anchor = CreateAnchor("TOP", frame, "BOTTOM")
+    local menu = OpenMenu(anchor, generateTeleportMenu)
+    ADDON.Events:TriggerEvent("OnOpenTeleportMenu", menu)
+    return menu
+end
+function ADDON:OpenTeleportMenuAtCursor()
+    local uiScale, x, y = UIParent:GetEffectiveScale(), GetCursorPosition()
+    x = x/uiScale
+    y = y/uiScale
+
+    local anchor = CreateAnchor("TOPLEFT", UIParent, "BOTTOMLEFT", x, y)
+    local menu = OpenMenu(anchor, generateTeleportMenu)
+    if menu:GetHeight() > y then
+        anchor:Set("BOTTOMLEFT", UIParent, "BOTTOMLEFT", x, y)
+        anchor:SetPoint(menu, true)
+    end
+    ADDON.Events:TriggerEvent("OnOpenTeleportMenu", menu)
+    return menu
+end
+
+Scotty_OpenTeleportMenuAtCursor = ADDON.OpenTeleportMenuAtCursor
+
+ADDON.Events:RegisterCallback("OnLogin", function()
+    -- Make sure Icon is loaded
+    GetBnetIcon()
+end, "cache-icons")

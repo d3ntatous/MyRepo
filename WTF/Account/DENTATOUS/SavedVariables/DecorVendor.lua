@@ -1,0 +1,55 @@
+
+vendorSettings = {
+["useTomTom"] = true,
+["closeOnEsc"] = true,
+["hideCompletedThings"] = false,
+["scale"] = 1,
+["completedDrops"] = {
+},
+["hideCompleted"] = false,
+["showVendorCheckmarks"] = true,
+["markCompletedThings"] = false,
+["showMinimapButton"] = true,
+["showMerchantCheckmarks"] = false,
+["completedDrop"] = {
+},
+["visited"] = {
+[255299] = true,
+[255301] = true,
+[252043] = true,
+[255297] = true,
+[255298] = true,
+[255278] = true,
+},
+["hideFound"] = false,
+["filters"] = {
+["Inscription"] = true,
+["neutral"] = true,
+["Burning Crusade"] = true,
+["Cooking"] = true,
+["Wrath of the Lich King"] = true,
+["Leatherworking"] = true,
+["Enchanting"] = true,
+["Tailoring"] = true,
+["Blacksmithing"] = true,
+["The War Within"] = true,
+["Shadowlands"] = true,
+["Alchemy"] = true,
+["Battle for Azeroth"] = true,
+["horde"] = true,
+["Warlords of Draenor"] = true,
+["Dragonflight"] = true,
+["alliance"] = true,
+["Mists of Pandaria"] = true,
+["Cataclysm"] = true,
+["Engineering"] = true,
+["Legion"] = true,
+["Classic"] = true,
+["Jewelcrafting"] = true,
+},
+}
+dbDV = {
+["minimap"] = {
+["hide"] = false,
+},
+}

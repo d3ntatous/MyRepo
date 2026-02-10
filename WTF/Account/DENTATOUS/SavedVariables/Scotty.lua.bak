@@ -1,0 +1,97 @@
+
+ScottyGlobalSettings = {
+["minimap"] = {
+},
+["showMinimap"] = true,
+["favorites"] = {
+["toy"] = {
+},
+["spell"] = {
+},
+["item"] = {
+},
+["house"] = {
+},
+},
+["groupFavorites"] = false,
+["hearthstones"] = {
+},
+["skipDialog"] = true,
+["groupSeason"] = false,
+}
+ScottyAccountCache = {
+["houseinfo-friends"] = {
+["Housing-4-2-12819-55DB-Opaque-4-18"] = {
+["plotID"] = 18,
+["neighborhoodName"] = "",
+["battleTag"] = "Jinmu#2939",
+["accountName"] = "|Kj12|k",
+["houseName"] = "18 ",
+["neighborhoodGUID"] = "Housing-4-2-12819-55DB",
+["houseGUID"] = "Opaque-4",
+},
+["Housing-4-2-0-2BA3-Opaque-5-18"] = {
+["plotID"] = 18,
+["neighborhoodName"] = "",
+["battleTag"] = "Conine#2921",
+["accountName"] = "|Kj27|k",
+["houseName"] = "18 ",
+["neighborhoodGUID"] = "Housing-4-2-0-2BA3",
+["houseGUID"] = "Opaque-5",
+},
+["Housing-4-1-1536-89C-Opaque-8-10"] = {
+["plotID"] = 10,
+["neighborhoodName"] = "",
+["battleTag"] = "Ezek#2482",
+["accountName"] = "|Kj15|k",
+["houseName"] = "10 ",
+["neighborhoodGUID"] = "Housing-4-1-1536-89C",
+["houseGUID"] = "Opaque-8",
+},
+["Housing-4-1-0-F45-Opaque-6-51"] = {
+["plotID"] = 51,
+["neighborhoodName"] = "",
+["battleTag"] = "bleakraven#2987",
+["accountName"] = "|Kj43|k",
+["houseName"] = "51 ",
+["neighborhoodGUID"] = "Housing-4-1-0-F45",
+["houseGUID"] = "Opaque-6",
+},
+["Housing-4-2-0-52D5-Opaque-9-20"] = {
+["plotID"] = 20,
+["neighborhoodName"] = "",
+["battleTag"] = "Ezek#2482",
+["accountName"] = "|Kj15|k",
+["houseName"] = "20 ",
+["neighborhoodGUID"] = "Housing-4-2-0-52D5",
+["houseGUID"] = "Opaque-9",
+},
+["Housing-4-2-0-4D8E-Opaque-7-19"] = {
+["plotID"] = 19,
+["neighborhoodName"] = "",
+["battleTag"] = "bleakraven#2987",
+["accountName"] = "|Kj43|k",
+["houseName"] = "19 ",
+["neighborhoodGUID"] = "Housing-4-2-0-4D8E",
+["houseGUID"] = "Opaque-7",
+},
+["Housing-4-1-4530-1853-Opaque-3-5"] = {
+["plotID"] = 5,
+["neighborhoodName"] = "",
+["battleTag"] = "Jinmu#2939",
+["accountName"] = "|Kj12|k",
+["houseName"] = "5 ",
+["neighborhoodGUID"] = "Housing-4-1-4530-1853",
+["houseGUID"] = "Opaque-3",
+},
+["Housing-4-1-0-5A4E-Opaque-2-37"] = {
+["plotID"] = 37,
+["neighborhoodName"] = "",
+["battleTag"] = "szig3t#21282",
+["accountName"] = "|Kj47|k",
+["houseName"] = "37 ",
+["neighborhoodGUID"] = "Housing-4-1-0-5A4E",
+["houseGUID"] = "Opaque-2",
+},
+},
+}

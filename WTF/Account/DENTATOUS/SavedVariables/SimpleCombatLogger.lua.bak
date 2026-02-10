@@ -1,0 +1,23 @@
+
+SimpleCombatLoggerDB = {
+["profileKeys"] = {
+["Leafyouto - Silvermoon"] = "Default",
+["Greedissgood - Draenor"] = "Default",
+["Hydrolic - Silvermoon"] = "Default",
+["Poper - Silvermoon"] = "Default",
+["Chroneal - Draenor"] = "Default",
+["Leafyouto - Draenor"] = "Default",
+["Shample - Draenor"] = "Default",
+["Risendine - Draenor"] = "Default",
+["Riseandshine - Draenor"] = "Default",
+["Worganizer - Silvermoon"] = "Default",
+["Nexùs - Draenor"] = "Default",
+["Riseandine - Draenor"] = "Default",
+["Pawfong - Draenor"] = "Default",
+["Bonebilly - Draenor"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+},
+},
+}

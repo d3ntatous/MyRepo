@@ -1,0 +1,15 @@
+Version: 1
+Frame: DV_MainFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 0
+Y: 0
+W: 860
+H: 580
+Frame: DV_VendorPopup
+FrameLevel: 1
+Anchor: RIGHT
+X: -512
+Y: 45
+W: 350
+H: 100

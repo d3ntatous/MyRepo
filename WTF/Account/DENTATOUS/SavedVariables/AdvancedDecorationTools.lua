@@ -1,0 +1,172 @@
+
+ADT_DB = {
+["AutoRotate"] = {
+["SeqIndexByRID"] = {
+},
+["LastRotationByRID"] = {
+},
+["StepByRID"] = {
+},
+},
+["PlacementHistory"] = {
+{
+["decorID"] = 2117,
+["name"] = "Orgrimmar Small Platform",
+["icon"] = 7422449,
+},
+{
+["decorID"] = 2115,
+["name"] = "Orgrimmar Round Platform",
+["icon"] = 7422441,
+},
+{
+["decorID"] = 2113,
+["name"] = "Bel'ameth Round Platform",
+["icon"] = 7422433,
+},
+{
+["decorID"] = 947,
+["name"] = "Dark Ship's Lantern",
+["icon"] = 7416425,
+},
+{
+["decorID"] = 944,
+["name"] = "Lordaeron Rectangular Rug",
+["icon"] = 7416415,
+},
+{
+["decorID"] = 2530,
+["name"] = "Tome of the Lost Dragon",
+["icon"] = 7422973,
+},
+{
+["decorID"] = 4481,
+["name"] = "Elegant Dracthyr's Tea Set",
+["icon"] = 7423847,
+},
+{
+["decorID"] = 12262,
+["name"] = "Sanctuary Chess Light King",
+["icon"] = 7433621,
+},
+{
+["decorID"] = 11453,
+["name"] = "Tale of the Penultimate Lich King",
+["icon"] = 7426140,
+},
+{
+["decorID"] = 11457,
+["name"] = "Tome of the Survivor",
+["icon"] = 7426154,
+},
+},
+["EnableDupe"] = true,
+["InterfaceStyle"] = "modern",
+["EnableCut"] = true,
+["LastCategoryKey"] = "Quickbar",
+["FavoritesFilterOn"] = false,
+["QuickbarSize"] = "medium",
+["EnableCopy"] = false,
+["EnableHoverHighlight"] = true,
+["VisitAutoRemoveFriend"] = true,
+["Tags"] = {
+{
+["id"] = "favorite",
+["color"] = "yellow",
+["name"] = "Favorites",
+["isDefault"] = true,
+},
+{
+["id"] = "red",
+["name"] = "Red",
+["color"] = "red",
+},
+{
+["id"] = "orange",
+["name"] = "Orange",
+["color"] = "orange",
+},
+{
+["id"] = "green",
+["name"] = "Green",
+["color"] = "green",
+},
+{
+["id"] = "blue",
+["name"] = "Blue",
+["color"] = "blue",
+},
+{
+["id"] = "purple",
+["name"] = "Purple",
+["color"] = "purple",
+},
+{
+["id"] = "gray",
+["name"] = "Gray",
+["color"] = "gray",
+},
+},
+["AutoRotateSequence"] = "0,90",
+["VisitFriendWaitSec"] = 8,
+["Quickbar"] = {
+{
+["recordID"] = 2110,
+["name"] = "Bel'ameth Large Platform",
+["icon"] = 7422411,
+},
+{
+["recordID"] = 2109,
+["name"] = "Bel'ameth Beam Platform",
+["icon"] = 7422417,
+},
+},
+["AutoRotateStepDegrees"] = 15,
+["EnableDockAutoOpenInEditor"] = true,
+["DockCollapsed"] = true,
+["EnableResetT"] = true,
+["ExtraClipboard"] = {
+},
+["AutoRotateApplyScope"] = "onlyPaint",
+["EnableQuickbar"] = true,
+["EnablePaste"] = false,
+["ProtectedDecors"] = {
+},
+["AutoRotateIncrementDegrees"] = 15,
+["EnableBatchPlace"] = false,
+["AutoRotateMode"] = "preset",
+["Keybinds"] = {
+["Quickbar8"] = "F8",
+["RotateCW90"] = "Q",
+["Cut"] = "CTRL-X",
+["Quickbar6"] = "F6",
+["Copy"] = "CTRL-C",
+["ResetAll"] = "CTRL-T",
+["Quickbar1"] = "F1",
+["Quickbar3"] = "F3",
+["Recall"] = "CTRL-R",
+["RotateCCW90"] = "E",
+["Reset"] = "T",
+["Quickbar5"] = "F5",
+["Quickbar2"] = "F2",
+["Duplicate"] = "CTRL-D",
+["Quickbar4"] = "F4",
+["Quickbar7"] = "F7",
+["Paste"] = "CTRL-V",
+["Store"] = "CTRL-S",
+["DyeCopy"] = "SHIFT-C",
+},
+["EnableHoverHUD"] = true,
+["EnableIncrementRotate"] = true,
+["EnableIndoorOutdoorBypass"] = false,
+["DebugEnabled"] = false,
+["AutoRotatePresetDegrees"] = 90,
+["EnableLock"] = true,
+["EnableDyeCopy"] = true,
+["EnableQERotate"] = true,
+["EnableResetAll"] = false,
+["DecorTags"] = {
+},
+["EnableAutoRotateOnCtrlPlace"] = false,
+["DuplicateKey"] = 3,
+}

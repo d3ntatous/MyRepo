@@ -1,0 +1,8 @@
+VER 3 0100000000000002 "Curse/Wings" "134400"
+#showtooltip
+/cast [nomod] Vampiric Touch; [mod:shift,@player] Angelic feather;
+END
+VER 3 0100000000000001 "Smite/Flash" "134400"
+#showthumbnail
+/cast [help] Flash Heal; [harm] Smite; Smite
+END

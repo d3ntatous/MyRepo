@@ -1,0 +1,2 @@
+
+ScottyPersonalSettings = nil

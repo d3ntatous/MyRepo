@@ -1,0 +1,56 @@
+VER 3 0100000000000003 "BlackoutKick" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [nomod,@target,harm] Blackout kick;[mod:shift] Transcendence
+/stopmacro [harm]
+/targetenemy
+/cast Blackout kick
+/targetlasttarget
+END
+VER 3 0100000000000006 "ChiSlow" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [nomod] Chi wave; Disable
+END
+VER 3 0100000000000009 "EnvKick" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [nomod,harm] Rising Sun Kick; [mod:shift,help]Enveloping Mist; Enveloping Mist
+END
+VER 3 0100000000000005 "Essense" "INV_Misc_QuestionMark"
+#showtooltip
+/stopcasting
+/cast [nomod]Faeline Stomp; [mod:shift] Essence Font
+END
+VER 3 010000000000000A "Mist" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [help] Soothing Mist; [harm] Touch of Death; Soothing Mist
+END
+VER 3 0100000000000008 "RenewKick" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [nomod,harm] Blackout Kick; [mod:shift,help]Renewing Mist; Renewing Mist
+END
+VER 3 0100000000000004 "RestoralRevival" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [known:Revival] Revival; Restoral
+END
+VER 3 0100000000000001 "RisingSunKick" "INV_Misc_QuestionMark"
+#showtooltip Rising Sun Kick
+/cast [@target,harm] Rising Sun Kick;
+/stopmacro [harm]
+/targetenemy
+/cast Rising Sun Kick
+/targetlasttarget
+END
+VER 3 010000000000000B "stats" "Sha_Spell_Fire_BlueHellfire."
+/whisper Pawfong h
+END
+VER 3 0100000000000002 "TigerPalm" "INV_Misc_QuestionMark"
+#showtooltip Tiger palm
+/cast [@target,harm] Tiger palm;
+/stopmacro [harm]
+/targetenemy
+/cast Tiger palm
+/targetlasttarget
+END
+VER 3 0100000000000007 "VivTiger" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [mod:shift,help] Vivify; [nomod,harm] Tiger Palm; Vivify
+END
