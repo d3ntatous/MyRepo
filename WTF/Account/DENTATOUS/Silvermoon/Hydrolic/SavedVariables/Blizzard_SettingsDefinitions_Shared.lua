@@ -1,4 +1,0 @@
-
-NewSettingsSeen = {
-["cooldownViewerEnabled"] = true,
-}
